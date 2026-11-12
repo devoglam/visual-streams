@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex, nofollow">
+<title>Visual Streams</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='2' width='12' height='17' rx='2' fill='%23141414'/%3E%3Crect x='18' y='2' width='12' height='10' rx='2' fill='%23141414'/%3E%3Crect x='2' y='22' width='12' height='8' rx='2' fill='%23141414'/%3E%3Crect x='18' y='15' width='12' height='15' rx='2' fill='%23141414'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top" id="top">
+  <div class="bar">
+    <a class="brand" href="./">Visual Streams</a>
+    <nav class="tabs" id="tabs" role="tablist" aria-label="Streams"></nav>
+    <div class="tools">
+      <div class="seg" role="group" aria-label="Order">
+        <button data-mode="mix" aria-pressed="true">Mix</button>
+        <button data-mode="newest" aria-pressed="false">Newest</button>
+      </div>
+      <button class="icon-btn" id="shuffle" title="Shuffle" aria-label="Shuffle">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg>
+      </button>
+      <a class="icon-btn" href="manage.html" title="Manage sources">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/></svg>
+        <span>Sources</span>
+      </a>
+    </div>
+  </div>
+  <div class="sub" id="sub"></div>
+</header>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="sentinel" id="sentinel"></div>
+  <div class="status" id="status"></div>
+</main>
+
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <div class="lb-stage">
+    <img id="lbImg" alt="" referrerpolicy="no-referrer">
+    <button class="lb-close" id="lbClose" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <button class="lb-nav prev" id="lbPrev" aria-label="Previous"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M15 5l-7 7 7 7"/></svg></button>
+    <button class="lb-nav next" id="lbNext" aria-label="Next"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M9 5l7 7-7 7"/></svg></button>
+  </div>
+  <div class="lb-info">
+    <div class="who"><b id="lbName"></b><span id="lbMeta"></span></div>
+    <button class="lb-btn" id="lbMore">More from this studio</button>
+    <a class="lb-btn" id="lbPage" target="_blank" rel="noopener noreferrer">View project ↗</a>
+    <a class="lb-btn" id="lbSite" target="_blank" rel="noopener noreferrer">Visit site ↗</a>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,4538 @@
+{
+ "tabs": [
+  {
+   "id": "restaurant-hospitality",
+   "label": "Restaurant & Hospitality",
+   "sites": [
+    {
+     "name": "44th Hill",
+     "url": "http://44thhill.com/",
+     "domain": "44thhill.com"
+    },
+    {
+     "name": "555 International | Commercial Interior Design & Fabrication Services (Chicago)",
+     "url": "https://www.555design.com/",
+     "domain": "555design.com"
+    },
+    {
+     "name": "A Work of Substance",
+     "url": "http://www.aworkofsubstance.com/",
+     "domain": "aworkofsubstance.com"
+    },
+    {
+     "name": "ABMO architects",
+     "url": "http://abmoarchitects.com/project/",
+     "domain": "abmoarchitects.com"
+    },
+    {
+     "name": "Asthetíque Group – Architectural Design | Concept Development Firm",
+     "url": "http://www.asthetique.com/",
+     "domain": "asthetique.com"
+    },
+    {
+     "name": "Asylum",
+     "url": "http://theasylum.com.sg/v4/",
+     "domain": "theasylum.com.sg"
+    },
+    {
+     "name": "a l m project - work",
+     "url": "http://almproject.com/works/",
+     "domain": "almproject.com"
+    },
+    {
+     "name": "Arcsine | Architecture & Interiors (Oakland)",
+     "url": "http://arcsine.com/",
+     "domain": "arcsine.com"
+    },
+    {
+     "name": "Aria Group",
+     "url": "http://www.ariainc.com/",
+     "domain": "ariainc.com"
+    },
+    {
+     "name": "AvroKO | A Design and Concept Firm",
+     "url": "http://www.avroko.com/",
+     "domain": "avroko.com"
+    },
+    {
+     "name": "BASILE Studio | Design | Build | San Diego",
+     "url": "https://basilestudio.com/",
+     "domain": "basilestudio.com"
+    },
+    {
+     "name": "B3 - Home",
+     "url": "http://www.b3designers.co.uk/",
+     "domain": "b3designers.co.uk"
+    },
+    {
+     "name": "BHNT Architects, P.C.",
+     "url": "http://www.bhnt.com/",
+     "domain": "bhnt.com"
+    },
+    {
+     "name": "Blacksheep",
+     "url": "http://blacksheep.uk.com/",
+     "domain": "blacksheep.uk.com"
+    },
+    {
+     "name": "BOYBURNSBARN",
+     "url": "http://www.boyburnsbarn.com/",
+     "domain": "boyburnsbarn.com"
+    },
+    {
+     "name": "Brand Bureau",
+     "url": "http://www.bb-nyc.com/",
+     "domain": "bb-nyc.com"
+    },
+    {
+     "name": "Brinkworth Design | (UK) Retail & Commercial Designers",
+     "url": "http://brinkworth.com/projects",
+     "domain": "brinkworth.com"
+    },
+    {
+     "name": "Bureau Bumblebee | Interiors & Branding",
+     "url": "http://bbumblebee.com/",
+     "domain": "bbumblebee.com"
+    },
+    {
+     "name": "Burnworth Design | Lexington KY (Designer)",
+     "url": "http://burnworthdesignlex.com/",
+     "domain": "burnworthdesignlex.com"
+    },
+    {
+     "name": "Camenzind Evolution | Architecture - Technology - Design",
+     "url": "http://www.camenzindevolution.com/",
+     "domain": "camenzindevolution.com"
+    },
+    {
+     "name": "Carpenter & Mason | Home",
+     "url": "http://carpenterandmason.com/",
+     "domain": "carpenterandmason.com"
+    },
+    {
+     "name": "Casa Conde & Associates",
+     "url": "http://www.casaconde.com/",
+     "domain": "casaconde.com"
+    },
+    {
+     "name": "Home - Catering Design Group",
+     "url": "http://www.cateringdesign.co.uk/",
+     "domain": "cateringdesign.co.uk"
+    },
+    {
+     "name": "Commune | Home",
+     "url": "http://www.communedesign.com/",
+     "domain": "communedesign.com"
+    },
+    {
+     "name": "CORE ™",
+     "url": "http://coredc.com/",
+     "domain": "coredc.com"
+    },
+    {
+     "name": "Creed Design | Interior Architects and Designers",
+     "url": "http://creeddesign.co.uk/",
+     "domain": "creeddesign.co.uk"
+    },
+    {
+     "name": "CRÈME",
+     "url": "http://cremedesign.com/",
+     "domain": "cremedesign.com"
+    },
+    {
+     "name": "Derenko - Gastronomie & Hotellerie",
+     "url": "http://www.derenko.at/en/",
+     "domain": "derenko.at"
+    },
+    {
+     "name": "DesignAgency",
+     "url": "https://www.thedesignagency.ca/",
+     "domain": "thedesignagency.ca"
+    },
+    {
+     "name": "Design, Bitches",
+     "url": "http://designbitches.com/",
+     "domain": "designbitches.com"
+    },
+    {
+     "name": "DesignLSM - designLSM",
+     "url": "http://www.designlsm.com/",
+     "domain": "designlsm.com"
+    },
+    {
+     "name": "DL English Design | Retail and Hospitality Design",
+     "url": "http://dlenglishdesign.com/",
+     "domain": "dlenglishdesign.com"
+    },
+    {
+     "name": "Eat-Drink-Design Awards",
+     "url": "http://www.eat-drink-design.com/home",
+     "domain": "eat-drink-design.com"
+    },
+    {
+     "name": "Faber | Restaurant & Hotel Interior Designers UK",
+     "url": "https://faber.design/",
+     "domain": "faber.design"
+    },
+    {
+     "name": "FHAMS インテリアと建築のデザイン",
+     "url": "http://www.fhams.com/",
+     "domain": "fhams.com"
+    },
+    {
+     "name": "FRANK Architecture and Interiors, Calgary, Alberta",
+     "url": "http://frankarchitecture.ca/",
+     "domain": "frankarchitecture.ca"
+    },
+    {
+     "name": "G A C H O T",
+     "url": "http://gachotstudios.com/",
+     "domain": "gachotstudios.com"
+    },
+    {
+     "name": "Giant Design | Sydney Interior Design Consultants",
+     "url": "http://www.giantdesign.com/",
+     "domain": "giantdesign.com"
+    },
+    {
+     "name": "Gilles & Boissier",
+     "url": "http://www.gillesetboissier.com/home.php",
+     "domain": "gillesetboissier.com"
+    },
+    {
+     "name": "Grits X Grids | Inspiration for restaurant and beverage branding",
+     "url": "http://gritsandgrids.com/",
+     "domain": "gritsandgrids.com"
+    },
+    {
+     "name": "Grizform Design Architects",
+     "url": "http://www.grizform.com/",
+     "domain": "grizform.com"
+    },
+    {
+     "name": "Harrison | Restaurant Interior Design, Branding & Brand Strategy",
+     "url": "https://www.weareharrison.com/",
+     "domain": "weareharrison.com"
+    },
+    {
+     "name": "Hecker Guthrie",
+     "url": "https://www.heckerguthrie.com/",
+     "domain": "heckerguthrie.com"
+    },
+    {
+     "name": "LEMAY MICHAUD | Architecture Design (CANADA)",
+     "url": "https://www.lemaymichaud.com/en/",
+     "domain": "lemaymichaud.com"
+    },
+    {
+     "name": "HAF Studio | | HAF Studio",
+     "url": "http://www.hafstudio.is/",
+     "domain": "hafstudio.is"
+    },
+    {
+     "name": "HapstakDemetriou+",
+     "url": "http://hd-ad.com/",
+     "domain": "hd-ad.com"
+    },
+    {
+     "name": "Hospitality Design | Restaurant and Hotel Design",
+     "url": "http://www.hospitalitydesign.com/index.shtml",
+     "domain": "hospitalitydesign.com"
+    },
+    {
+     "name": "I AM | International Branding & Interior Design Agency",
+     "url": "http://i-amonline.com/",
+     "domain": "i-amonline.com"
+    },
+    {
+     "name": "IDEOGRAF",
+     "url": "http://ideograf.pl/projekty",
+     "domain": "ideograf.pl"
+    },
+    {
+     "name": "Ilan Dei Studio",
+     "url": "http://www.ilandeistudio.com/",
+     "domain": "ilandeistudio.com"
+    },
+    {
+     "name": "Janks Design Group | Interior Design Firm (Vancouver)",
+     "url": "https://www.janksdesigngroup.com/",
+     "domain": "janksdesigngroup.com"
+    },
+    {
+     "name": "Joey Ho Design Limited - slices of joy",
+     "url": "http://www.joeyhodesign.com/",
+     "domain": "joeyhodesign.com"
+    },
+    {
+     "name": "JonesBaker",
+     "url": "http://jonesbaker.com/wordpress/",
+     "domain": "jonesbaker.com"
+    },
+    {
+     "name": "Juicy Design - Home Page",
+     "url": "https://www.juicydesign.com.au/",
+     "domain": "juicydesign.com.au"
+    },
+    {
+     "name": "Jump Studios | A Populous Company",
+     "url": "http://jump-studios.com/",
+     "domain": "jump-studios.com"
+    },
+    {
+     "name": "Kingston Lafferty Design | Interior Designers Dublin",
+     "url": "https://www.kingstonlaffertydesign.com/",
+     "domain": "kingstonlaffertydesign.com"
+    },
+    {
+     "name": "Kley Design • main",
+     "url": "http://kleydesign.com/",
+     "domain": "kleydesign.com"
+    },
+    {
+     "name": "KNOBLAUCH",
+     "url": "http://www.knoblauch.eu/de/",
+     "domain": "knoblauch.eu"
+    },
+    {
+     "name": "Landini Associates — Home",
+     "url": "https://www.landiniassociates.com/",
+     "domain": "landiniassociates.com"
+    },
+    {
+     "name": "LigaStudios.com | Cosmopolitan lifestyle, trends, culture, design, industries and individuals",
+     "url": "http://www.ligastudios.com/",
+     "domain": "ligastudios.com"
+    },
+    {
+     "name": "Loopcreative",
+     "url": "http://loopcreative.com.au/",
+     "domain": "loopcreative.com.au"
+    },
+    {
+     "name": "Macaulay Sinclair – Interior Architecture and Design",
+     "url": "http://macaulaysinclair.com/",
+     "domain": "macaulaysinclair.com"
+    },
+    {
+     "name": "Martin Brudnizki Design Studio | Interior Architects | London & NYC",
+     "url": "http://www.mbds.com/",
+     "domain": "mbds.com"
+    },
+    {
+     "name": "Masquespacio – Award winning Creative Consultancy",
+     "url": "http://masquespacio.com/en/",
+     "domain": "masquespacio.com"
+    },
+    {
+     "name": "mckinley burkart | architecture + interior design",
+     "url": "https://www.mckinleyburkart.com/",
+     "domain": "mckinleyburkart.com"
+    },
+    {
+     "name": "Mima | Creating Branded Retail + Hospitality Environments",
+     "url": "http://www.mima.com.au/",
+     "domain": "mima.com.au"
+    },
+    {
+     "name": "MMO Interiors",
+     "url": "http://mmointeriors.com.au/all-projects/",
+     "domain": "mmointeriors.com.au"
+    },
+    {
+     "name": "Moon Design and Build",
+     "url": "http://moondesignandbuild.co.uk/portfolio",
+     "domain": "moondesignandbuild.co.uk"
+    },
+    {
+     "name": "Nihil studio - 360º Design",
+     "url": "http://nihilestudio.com/",
+     "domain": "nihilestudio.com"
+    },
+    {
+     "name": "PENNANT & TRIUMPH",
+     "url": "http://www.pennantandtriumph.com/",
+     "domain": "pennantandtriumph.com"
+    },
+    {
+     "name": "Poon Design Inc.",
+     "url": "http://www.poondesign.com/",
+     "domain": "poondesign.com"
+    },
+    {
+     "name": "Powell Architects",
+     "url": "http://powellarchitects.com/",
+     "domain": "powellarchitects.com"
+    },
+    {
+     "name": "PRISM DESIGN",
+     "url": "http://prism_design.prosite.com/127567/gallery",
+     "domain": "prism_design.prosite.com"
+    },
+    {
+     "name": "p / s / d",
+     "url": "http://partyspacedesign.com/",
+     "domain": "partyspacedesign.com"
+    },
+    {
+     "name": "R2 Architecture",
+     "url": "http://www.r2architecture.com/",
+     "domain": "r2architecture.com"
+    },
+    {
+     "name": "ROHE CREATIVE",
+     "url": "http://www.rohecreative.com/",
+     "domain": "rohecreative.com"
+    },
+    {
+     "name": "Samantha Eades | Restaurants, Hospitality (AU)",
+     "url": "https://www.samanthaeades.com/work/",
+     "domain": "samanthaeades.com"
+    },
+    {
+     "name": "Shea Design | We Create Experiences",
+     "url": "http://sheadesign.com/",
+     "domain": "sheadesign.com"
+    },
+    {
+     "name": "Simon James Design | SJDesign.com",
+     "url": "http://sjdesign.no/en/home",
+     "domain": "sjdesign.no"
+    },
+    {
+     "name": "SIMPLE SIMON DESIGN",
+     "url": "http://www.simplesimondesign.co.uk/",
+     "domain": "simplesimondesign.co.uk"
+    },
+    {
+     "name": "Skylar Morgan Furniture + Design - Homepage",
+     "url": "http://www.skylarmorganfurniture.com/",
+     "domain": "skylarmorganfurniture.com"
+    },
+    {
+     "name": "Square Feet Studio",
+     "url": "http://www.squarefeetstudio.com/",
+     "domain": "squarefeetstudio.com"
+    },
+    {
+     "name": "SM+P Architects | Baltimore Architecture Firm",
+     "url": "http://www.smp-architects.com/",
+     "domain": "smp-architects.com"
+    },
+    {
+     "name": "Smith Hanes",
+     "url": "http://smithhanes.com/",
+     "domain": "smithhanes.com"
+    },
+    {
+     "name": "starrdesign | Charlotte NC. Architectural and Design Firm",
+     "url": "http://www.starrdesignteam.com/",
+     "domain": "starrdesignteam.com"
+    },
+    {
+     "name": "Studio 11 Design | Portfolio",
+     "url": "http://studio11design.com/portfolio/",
+     "domain": "studio11design.com"
+    },
+    {
+     "name": "Stone Designs",
+     "url": "http://www.stone-dsgns.com/",
+     "domain": "stone-dsgns.com"
+    },
+    {
+     "name": "Studio Didea",
+     "url": "http://studiodidea.it/home/",
+     "domain": "studiodidea.it"
+    },
+    {
+     "name": "studio -gram : architectural workshop",
+     "url": "http://studio-gram.com.au/",
+     "domain": "studio-gram.com.au"
+    },
+    {
+     "name": "Studio Modijefsky Interior Design",
+     "url": "https://www.studiomodijefsky.nl/",
+     "domain": "studiomodijefsky.nl"
+    },
+    {
+     "name": "Studio-MAI",
+     "url": "http://www.studio-mai.com/",
+     "domain": "studio-mai.com"
+    },
+    {
+     "name": "Studio Munge",
+     "url": "https://www.studiomunge.com/",
+     "domain": "studiomunge.com"
+    },
+    {
+     "name": "Superfutures | London Based Design Studio",
+     "url": "http://superfutures.co.uk/",
+     "domain": "superfutures.co.uk"
+    },
+    {
+     "name": "Techne Architects - Architecture and Interior Design",
+     "url": "http://www.techne.com.au/",
+     "domain": "techne.com.au"
+    },
+    {
+     "name": "Thompson Contracts (Blackpool) Ltd",
+     "url": "http://www.thompsonslimited.co.uk/projects",
+     "domain": "thompsonslimited.co.uk"
+    },
+    {
+     "name": "WANG",
+     "url": "http://www.joycewang.com/",
+     "domain": "joycewang.com"
+    },
+    {
+     "name": "Wendy Haworth Design Studio",
+     "url": "http://www.wendyhaworthdesign.com/",
+     "domain": "wendyhaworthdesign.com"
+    },
+    {
+     "name": "Kelly Wearstler | Lifestyle Brand & Global Interior Designer",
+     "url": "http://www.kellywearstler.com/home",
+     "domain": "kellywearstler.com"
+    },
+    {
+     "name": "valerio | architecture and interiors",
+     "url": "http://valerioinc.com/",
+     "domain": "valerioinc.com"
+    },
+    {
+     "name": "ZWEI | Hospitality & Retail Interior Design Melbourne",
+     "url": "http://zwei.com.au/",
+     "domain": "zwei.com.au"
+    },
+    {
+     "name": "UXUS",
+     "url": "http://www.uxus.com/",
+     "domain": "uxus.com"
+    },
+    {
+     "name": "Weekends",
+     "url": "http://wknds.com/",
+     "domain": "wknds.com"
+    },
+    {
+     "name": "YOD | Studio of Commercial Design",
+     "url": "http://yoddesign.com.ua/en/projects/",
+     "domain": "yoddesign.com.ua"
+    },
+    {
+     "name": "Design Hound",
+     "url": "https://www.design-hound.com/",
+     "domain": "design-hound.com"
+    },
+    {
+     "name": "raw creative | Design.Build.Furnish.",
+     "url": "http://www.rawdbf.com/",
+     "domain": "rawdbf.com"
+    },
+    {
+     "name": "designparameters",
+     "url": "https://www.designparameters.com/",
+     "domain": "designparameters.com"
+    },
+    {
+     "name": "Anthony Eckelberry Architect",
+     "url": "http://eckelberry.biz/",
+     "domain": "eckelberry.biz"
+    },
+    {
+     "name": "Commercial Kitchen and Bar – (UK) From Concept to Completion",
+     "url": "http://commercialkitchenandbar.com/",
+     "domain": "commercialkitchenandbar.com"
+    },
+    {
+     "name": "Hirsch Bedner Associates (HBA) | Hospitality Interior Design Consultants",
+     "url": "https://www.hba.com/",
+     "domain": "hba.com"
+    },
+    {
+     "name": "Esrawe",
+     "url": "https://esrawe.com/2018esrawe/en/home/",
+     "domain": "esrawe.com"
+    },
+    {
+     "name": "outofstock",
+     "url": "http://www.outofstockdesign.com/",
+     "domain": "outofstockdesign.com"
+    },
+    {
+     "name": "Kinnersley Kent Design",
+     "url": "https://www.kkd.co.uk/",
+     "domain": "kkd.co.uk"
+    },
+    {
+     "name": "BCV Architecture + Interiors",
+     "url": "http://bcvarch.com/",
+     "domain": "bcvarch.com"
+    },
+    {
+     "name": "Chipman Design Architecture",
+     "url": "http://www.chipman-design.com/",
+     "domain": "chipman-design.com"
+    },
+    {
+     "name": "A C M E | Australia Architects",
+     "url": "https://www.acme-co.com.au/",
+     "domain": "acme-co.com.au"
+    },
+    {
+     "name": "AB Design Studio | Hospitality + Residential",
+     "url": "https://www.abdesignstudioinc.com/",
+     "domain": "abdesignstudioinc.com"
+    },
+    {
+     "name": "Sella – Moments with meaning",
+     "url": "https://www.sella-concept.com/",
+     "domain": "sella-concept.com"
+    },
+    {
+     "name": "PUNCH",
+     "url": "https://punchdrink.com/",
+     "domain": "punchdrink.com"
+    },
+    {
+     "name": "Young + Hungry",
+     "url": "https://www.youngandhungry.com/",
+     "domain": "youngandhungry.com"
+    },
+    {
+     "name": "Livit | Global experts in guest experience design (Restaurant & Retail)",
+     "url": "http://livit.design/",
+     "domain": "livit.design"
+    },
+    {
+     "name": "Plasma Nodo | FOOD + RETAIL (Columbia)",
+     "url": "https://www.plasmanodo.com/eng/interior-design-company/",
+     "domain": "plasmanodo.com"
+    },
+    {
+     "name": "Foolscap Studio | AUS",
+     "url": "http://foolscapstudio.com.au/work/",
+     "domain": "foolscapstudio.com.au"
+    },
+    {
+     "name": "La Firme | Residential and Corporate Design Architecture (CANADA)",
+     "url": "https://www.lafirme.ca/en/home/",
+     "domain": "lafirme.ca"
+    },
+    {
+     "name": "Brand Bureau",
+     "url": "https://www.brandbureau.com/",
+     "domain": "brandbureau.com"
+    },
+    {
+     "name": "PREEN, INC | Hospitality Design and Architecture - Los Angeles",
+     "url": "https://www.preeninc.com/",
+     "domain": "preeninc.com"
+    },
+    {
+     "name": "Islyn",
+     "url": "https://www.islynstudio.com/",
+     "domain": "islynstudio.com"
+    },
+    {
+     "name": "PLD - Parts and Labor Design | NYC",
+     "url": "https://partsandlabordesign.com/index.html",
+     "domain": "partsandlabordesign.com"
+    },
+    {
+     "name": "Meyer Davis",
+     "url": "http://www.meyerdavis.com/",
+     "domain": "meyerdavis.com"
+    },
+    {
+     "name": "FlickMars | Design for Hospitality and Leisure",
+     "url": "https://flickmars.com/",
+     "domain": "flickmars.com"
+    },
+    {
+     "name": "Workshop APD",
+     "url": "https://www.workshopapd.com/",
+     "domain": "workshopapd.com"
+    },
+    {
+     "name": "BraytonHughes Design Studios | HOSPITALITY",
+     "url": "https://www.bhdstudios.com/",
+     "domain": "bhdstudios.com"
+    },
+    {
+     "name": "Wilson Associates | Global Hospitality",
+     "url": "https://www.wilsonassociates.com/",
+     "domain": "wilsonassociates.com"
+    },
+    {
+     "name": "The Culinary Edge | Food & Restaurant Consulting",
+     "url": "https://theculinaryedge.com/",
+     "domain": "theculinaryedge.com"
+    },
+    {
+     "name": "zebra | Hospitality and retail interior designers (UK)",
+     "url": "https://www.zbr.co.uk/",
+     "domain": "zbr.co.uk"
+    },
+    {
+     "name": "Bidgood + Co. | Interior Designers Victoria BC",
+     "url": "https://www.bidgood.co/",
+     "domain": "bidgood.co"
+    },
+    {
+     "name": "Maurizio Lai Architects | Design Build (ITALY)",
+     "url": "https://www.laistudio.com/",
+     "domain": "laistudio.com"
+    },
+    {
+     "name": "dash design | hospitality (nyc)",
+     "url": "https://www.dashdesign.net/",
+     "domain": "dashdesign.net"
+    },
+    {
+     "name": "YoDezeen | Design Studio",
+     "url": "https://yodezeen.com/",
+     "domain": "yodezeen.com"
+    },
+    {
+     "name": "Luchetti Krelle | AUS (boutique)",
+     "url": "https://www.luchettikrelle.com/",
+     "domain": "luchettikrelle.com"
+    },
+    {
+     "name": "M. Winter Design",
+     "url": "https://mwinterdesign.com/",
+     "domain": "mwinterdesign.com"
+    },
+    {
+     "name": "Material Creative | New Zealand",
+     "url": "https://www.materialcreative.co.nz/",
+     "domain": "materialcreative.co.nz"
+    },
+    {
+     "name": "MY Studio ID",
+     "url": "https://mystudioid.com/",
+     "domain": "mystudioid.com"
+    },
+    {
+     "name": "atelier zürich | Switzerland Commercial Interior",
+     "url": "https://www.atelierzuerich.ch/",
+     "domain": "atelierzuerich.ch"
+    },
+    {
+     "name": "DA bureau | (RUSSIA)",
+     "url": "https://da-arch.myportfolio.com/projects",
+     "domain": "da-arch.myportfolio.com"
+    },
+    {
+     "name": "BONA DESIGN LAB | C-Stores",
+     "url": "http://bonadesignlab.com/",
+     "domain": "bonadesignlab.com"
+    },
+    {
+     "name": "Bishop Design by Paul Bishop | Dubai UAE",
+     "url": "https://wearebishopdesign.com/",
+     "domain": "wearebishopdesign.com"
+    },
+    {
+     "name": "Coeval | Architecture & Interior Design (Dallas TX)",
+     "url": "https://coevalstudio.com/",
+     "domain": "coevalstudio.com"
+    },
+    {
+     "name": "Brown Studio | (UK)",
+     "url": "https://www.brownstudio.co.uk/",
+     "domain": "brownstudio.co.uk"
+    },
+    {
+     "name": "21 Spaces",
+     "url": "https://www.21spaces.com/",
+     "domain": "21spaces.com"
+    },
+    {
+     "name": "Russell & George | Hospitality & Retail (AUS)",
+     "url": "https://www.russellandgeorge.com/index/",
+     "domain": "russellandgeorge.com"
+    },
+    {
+     "name": "STUDIO DOHO 独荷建筑设计",
+     "url": "https://studiodoho.com/",
+     "domain": "studiodoho.com"
+    },
+    {
+     "name": "Fogarty Finger | Commercial & Residential (NYC)",
+     "url": "https://www.fogartyfinger.com/",
+     "domain": "fogartyfinger.com"
+    },
+    {
+     "name": "SHLTR | Hospitality Editorial",
+     "url": "https://shltr.is/",
+     "domain": "shltr.is"
+    },
+    {
+     "name": "McCray & Co.McCray & Co.",
+     "url": "https://www.mccray-co.com/",
+     "domain": "mccray-co.com"
+    },
+    {
+     "name": "Sans Arc | AUS (boutique)",
+     "url": "http://sansarcstudio.com.au/",
+     "domain": "sansarcstudio.com.au"
+    },
+    {
+     "name": "Red5Studio | Vietnam",
+     "url": "https://www.red5studio.vn/",
+     "domain": "red5studio.vn"
+    },
+    {
+     "name": "Future Studio",
+     "url": "https://futurestudio.ca/",
+     "domain": "futurestudio.ca"
+    },
+    {
+     "name": "Ampersand Studio Inc | (Canada)",
+     "url": "https://www.ampersandstudioinc.com/",
+     "domain": "ampersandstudioinc.com"
+    },
+    {
+     "name": "Pophouse | Detroit Interior Design Studio",
+     "url": "https://pophouse.design/",
+     "domain": "pophouse.design"
+    },
+    {
+     "name": "Zebra | Commercial Interior Design & Architecture Firm",
+     "url": "https://www.zbr.global/",
+     "domain": "zbr.global"
+    },
+    {
+     "name": "Pink Party — MadeFirst | Design & Fabrication",
+     "url": "https://www.madefirst.com/pink-party",
+     "domain": "madefirst.com"
+    },
+    {
+     "name": "Ninetynine Interior Design Studio | based in Amsterdam",
+     "url": "https://ninetynine.nl/",
+     "domain": "ninetynine.nl"
+    },
+    {
+     "name": "Studio Roslyn | Interiors Firm (Canada)",
+     "url": "https://studioroslyn.com/",
+     "domain": "studioroslyn.com"
+    },
+    {
+     "name": "Ohlo Studio | Interior Architecture and Furniture Design Perth",
+     "url": "https://www.ohlostudio.com/",
+     "domain": "ohlostudio.com"
+    },
+    {
+     "name": "Mason Studio | Interior design (CANADA)",
+     "url": "https://www.masonstudio.com/",
+     "domain": "masonstudio.com"
+    },
+    {
+     "name": "The Guru Studio | AUS",
+     "url": "https://guruprojects.com/",
+     "domain": "guruprojects.com"
+    },
+    {
+     "name": "ElvinTan | Architecture + Interior Design (AUS)",
+     "url": "https://elvintan.com.au/",
+     "domain": "elvintan.com.au"
+    },
+    {
+     "name": "Bergman & Co. | (AUS)",
+     "url": "https://www.bergmanandco.com/",
+     "domain": "bergmanandco.com"
+    },
+    {
+     "name": "Studio Tate | Live, Work, Play (AUS)",
+     "url": "https://www.studiotate.com.au/",
+     "domain": "studiotate.com.au"
+    },
+    {
+     "name": "SBW | boutique furniture (AUS)",
+     "url": "https://sbwaustralia.com.au/",
+     "domain": "sbwaustralia.com.au"
+    },
+    {
+     "name": "Lawrence Group | Plan - Design - Build - Create",
+     "url": "https://www.thelawrencegroup.com/",
+     "domain": "thelawrencegroup.com"
+    },
+    {
+     "name": "CONCENTRIC | Interiors, Architecture, Landscaping (Mexico)",
+     "url": "https://concentrico.mx/proyectos",
+     "domain": "concentrico.mx"
+    },
+    {
+     "name": "FoodInSpace",
+     "url": "https://www.foodinspace.net/",
+     "domain": "foodinspace.net"
+    },
+    {
+     "name": "KIDZ | RUSSIA DESIGN ARCHITECTS",
+     "url": "https://kidz-design.com/work",
+     "domain": "kidz-design.com"
+    },
+    {
+     "name": "Studio K Creative",
+     "url": "https://www.studiokcreative.com/",
+     "domain": "studiokcreative.com"
+    },
+    {
+     "name": "Welcome to Ash",
+     "url": "https://www.ash.world/",
+     "domain": "ash.world"
+    },
+    {
+     "name": "BHDM",
+     "url": "https://www.bhdmdesign.com/",
+     "domain": "bhdmdesign.com"
+    },
+    {
+     "name": "ASD | SKY",
+     "url": "https://asdsky.com/",
+     "domain": "asdsky.com"
+    },
+    {
+     "name": "Avenue Interior Design | (Hotel, Home, & More)",
+     "url": "https://avenueid.com/",
+     "domain": "avenueid.com"
+    },
+    {
+     "name": "House of Form | Phoenix Commercial Interior Design Firm",
+     "url": "https://www.houseofform.com/",
+     "domain": "houseofform.com"
+    },
+    {
+     "name": "ROY Hospitality",
+     "url": "https://thisisroy.com/",
+     "domain": "thisisroy.com"
+    },
+    {
+     "name": "Studio Materiality",
+     "url": "https://studiomateriality.com/",
+     "domain": "studiomateriality.com"
+    },
+    {
+     "name": "Ctrlspace - Ctrlspace",
+     "url": "https://ctrlspace.co.nz/",
+     "domain": "ctrlspace.co.nz"
+    },
+    {
+     "name": "Looney & Associates | Hospitality",
+     "url": "https://www.looney-associates.com/",
+     "domain": "looney-associates.com"
+    },
+    {
+     "name": "MRDK | (CA) Hospitality+ Residential",
+     "url": "https://menarddworkind.com/",
+     "domain": "menarddworkind.com"
+    },
+    {
+     "name": "Boka Restaurant Group",
+     "url": "https://www.bokagrp.com/",
+     "domain": "bokagrp.com"
+    },
+    {
+     "name": "GA Group - Luxury Hotel and Residential Interior Design | Brand Design",
+     "url": "https://thega-group.com/",
+     "domain": "thega-group.com"
+    },
+    {
+     "name": "Tara Bernerd | Hospitality Design",
+     "url": "https://www.tarabernerd.com/",
+     "domain": "tarabernerd.com"
+    },
+    {
+     "name": "David Collins Studio | Luxury Interior Designers (London)",
+     "url": "https://www.davidcollins.studio/",
+     "domain": "davidcollins.studio"
+    },
+    {
+     "name": "Jeffrey Beers International | Award-Winning Design Studio",
+     "url": "http://jeffreybeers.com/",
+     "domain": "jeffreybeers.com"
+    },
+    {
+     "name": "Bigtime Design Studios | Hotel, Restaurant & Nightclub Design",
+     "url": "https://www.bigtimedesignstudios.com/",
+     "domain": "bigtimedesignstudios.com"
+    },
+    {
+     "name": "Studio Ongarato | 25 Years of cultural influence through Design (AUS)",
+     "url": "https://studioongarato.com.au/",
+     "domain": "studioongarato.com.au"
+    },
+    {
+     "name": "Project M Plus | LA",
+     "url": "https://projectmplus.com/",
+     "domain": "projectmplus.com"
+    },
+    {
+     "name": "Nikolay Yarin",
+     "url": "https://nikolayyarin.com/work",
+     "domain": "nikolayyarin.com"
+    },
+    {
+     "name": "TasteSpace | Restaurant & Food Experience (Singapore)",
+     "url": "https://www.tastespace.co/",
+     "domain": "tastespace.co"
+    },
+    {
+     "name": "STUDIO RAMOPRIMO",
+     "url": "https://ramoprimo.com/",
+     "domain": "ramoprimo.com"
+    },
+    {
+     "name": "CG Design Studio | Building Design, Interior Design, Decoration (AUS)",
+     "url": "https://www.cgdesignstudio.com.au/",
+     "domain": "cgdesignstudio.com.au"
+    },
+    {
+     "name": "InsaynDesign | Normality is boring (Spain)",
+     "url": "https://insayndesign.com/",
+     "domain": "insayndesign.com"
+    },
+    {
+     "name": "ALA Studio – Architecture and Interior Design",
+     "url": "https://www.alastudio.com/",
+     "domain": "alastudio.com"
+    },
+    {
+     "name": "Polonsky & Friends | Interior Design",
+     "url": "https://www.polonskyandfriends.com/interiors",
+     "domain": "polonskyandfriends.com"
+    },
+    {
+     "name": "Phoenix Wharf Design | Hospitality, Interiors, and Branding (Bristol, UK)",
+     "url": "https://www.phoenix-wharf.com/",
+     "domain": "phoenix-wharf.com"
+    },
+    {
+     "name": "Tom Mark Henry | (AUS)",
+     "url": "https://tommarkhenry.studio/",
+     "domain": "tommarkhenry.studio"
+    },
+    {
+     "name": "Mitchell & Eades | (AUS)",
+     "url": "https://www.mitchelleades.com/",
+     "domain": "mitchelleades.com"
+    },
+    {
+     "name": "HUNTER'S DAUGHTER INTERIORS",
+     "url": "https://www.huntersdaughter.co.uk/",
+     "domain": "huntersdaughter.co.uk"
+    },
+    {
+     "name": "BLUR Workshop | (ATL)",
+     "url": "https://www.blurworkshop.com/",
+     "domain": "blurworkshop.com"
+    },
+    {
+     "name": "Sml.Studio Architecture",
+     "url": "https://www.sml.studio/",
+     "domain": "sml.studio"
+    },
+    {
+     "name": "NAAW",
+     "url": "https://www.naaw.studio/",
+     "domain": "naaw.studio"
+    },
+    {
+     "name": "DC-AD | Interioer Design (Portugal)",
+     "url": "https://dc-ad.com/about/",
+     "domain": "dc-ad.com"
+    },
+    {
+     "name": "WANDERLUST | (LA + Austin)",
+     "url": "https://www.wanderlustdesign.com/",
+     "domain": "wanderlustdesign.com"
+    },
+    {
+     "name": "Fusion Design and Architecture | (London UK)",
+     "url": "https://www.fusiondna.co.uk/",
+     "domain": "fusiondna.co.uk"
+    },
+    {
+     "name": "Quadrant Design | Interior Design and Architecture (UK)",
+     "url": "https://www.quadrantdesign.co.uk/",
+     "domain": "quadrantdesign.co.uk"
+    },
+    {
+     "name": "ISERN SERRA | (SPAIN)",
+     "url": "https://www.isernserra.com/en",
+     "domain": "isernserra.com"
+    },
+    {
+     "name": "SAGUEZ & DASH | Crafting Global Brands & Spaces Worldwide",
+     "url": "https://www.saguezdash.com/",
+     "domain": "saguezdash.com"
+    },
+    {
+     "name": "Mazzarini & Co.",
+     "url": "https://www.mazzarinico.com/",
+     "domain": "mazzarinico.com"
+    },
+    {
+     "name": "Kim Lewis Designs | Interior Design Studio in Austin, TX",
+     "url": "https://www.kimlewisdesigns.com/",
+     "domain": "kimlewisdesigns.com"
+    },
+    {
+     "name": "AYDNCO | (AUS)",
+     "url": "https://aydnco.com.au/",
+     "domain": "aydnco.com.au"
+    }
+   ]
+  },
+  {
+   "id": "retail-branding",
+   "label": "Retail & Branding",
+   "sites": [
+    {
+     "name": "Aldworth James & Bond",
+     "url": "http://www.aldworthjamesandbond.co.uk/",
+     "domain": "aldworthjamesandbond.co.uk"
+    },
+    {
+     "name": "Bestor Architecture",
+     "url": "http://bestorarchitecture.com/",
+     "domain": "bestorarchitecture.com"
+    },
+    {
+     "name": "Checkland Kindleysides",
+     "url": "http://www.checklandkindleysides.com/",
+     "domain": "checklandkindleysides.com"
+    },
+    {
+     "name": "Creneau International › Work",
+     "url": "http://www.creneau.com/",
+     "domain": "creneau.com"
+    },
+    {
+     "name": "Cutler | Commercial Interior Design | Vancouver BC Canada",
+     "url": "http://www.cutlerdc.com/",
+     "domain": "cutlerdc.com"
+    },
+    {
+     "name": "D'art Design Gruppe / spatial communication, brand architecture, exhibition design",
+     "url": "https://www.d-art-design.de/en",
+     "domain": "d-art-design.de"
+    },
+    {
+     "name": "Dalziel and Pow -Projects Archive",
+     "url": "https://www.dalziel-pow.com/",
+     "domain": "dalziel-pow.com"
+    },
+    {
+     "name": "DCD",
+     "url": "http://www.denton-cardewdesign.com/",
+     "domain": "denton-cardewdesign.com"
+    },
+    {
+     "name": "Design4Retail",
+     "url": "http://www.design4retail.co.uk/",
+     "domain": "design4retail.co.uk"
+    },
+    {
+     "name": "dfrost | agency for visual marketing",
+     "url": "http://www.dfrost.de/",
+     "domain": "dfrost.de"
+    },
+    {
+     "name": "Glamshops | Visual Merchandising, Flagship Store Design, Retail Design",
+     "url": "http://www.glamshops.ro/reviews.php",
+     "domain": "glamshops.ro"
+    },
+    {
+     "name": "GRA+D",
+     "url": "http://www.grad.cc/",
+     "domain": "grad.cc"
+    },
+    {
+     "name": "The Green Room",
+     "url": "https://greenroomdesign.com/",
+     "domain": "greenroomdesign.com"
+    },
+    {
+     "name": "Heliotrope | Seatlle, WA | Retail, Hospitality & Residential",
+     "url": "http://heliotropearchitects.com/",
+     "domain": "heliotropearchitects.com"
+    },
+    {
+     "name": "Household",
+     "url": "http://household-design.com/",
+     "domain": "household-design.com"
+    },
+    {
+     "name": "Inicio In Out Studio | Arquitectura Corporativa",
+     "url": "http://www.inoutstudio.com/en/",
+     "domain": "inoutstudio.com"
+    },
+    {
+     "name": "Jamo associates ジャモ アソシエイツ",
+     "url": "http://www.jamo.jp/",
+     "domain": "jamo.jp"
+    },
+    {
+     "name": "JHP",
+     "url": "http://www.jhp-design.com/",
+     "domain": "jhp-design.com"
+    },
+    {
+     "name": "koncept.se | Swedish Architecture & Design Co.",
+     "url": "http://www.koncept.se/",
+     "domain": "koncept.se"
+    },
+    {
+     "name": "KRS - King Retail Solutions : Home",
+     "url": "http://www.kingrs.com/",
+     "domain": "kingrs.com"
+    },
+    {
+     "name": "LIGANOVA The BrandRetail Company",
+     "url": "http://www.liganova.com/",
+     "domain": "liganova.com"
+    },
+    {
+     "name": "McCartney Design - Integrated design, made beautifully simple",
+     "url": "https://www.mccartneydesign.com.au/",
+     "domain": "mccartneydesign.com.au"
+    },
+    {
+     "name": "MARKETING-JAZZ creative retail design",
+     "url": "http://www.marketing-jazz.com/",
+     "domain": "marketing-jazz.com"
+    },
+    {
+     "name": "Peter Marino Architect | (High End Retail)",
+     "url": "http://www.petermarinoarchitect.com/",
+     "domain": "petermarinoarchitect.com"
+    },
+    {
+     "name": "POSITION Collective | PROJECTS",
+     "url": "http://position-collective.com/projects-2/",
+     "domain": "position-collective.com"
+    },
+    {
+     "name": "prospacedesign.com.au",
+     "url": "http://prospacedesign.com.au/",
+     "domain": "prospacedesign.com.au"
+    },
+    {
+     "name": "Rapt Studio",
+     "url": "https://raptstudio.com/",
+     "domain": "raptstudio.com"
+    },
+    {
+     "name": "Reform Creative | Interior Design firm | NYC",
+     "url": "http://reform-creative.com/",
+     "domain": "reform-creative.com"
+    },
+    {
+     "name": "Retail Habitats Design",
+     "url": "http://www.retailhabitatsdesign.com/",
+     "domain": "retailhabitatsdesign.com"
+    },
+    {
+     "name": "Rios Clementi Hale Studios | Design is Never Without Story",
+     "url": "https://www.rchstudios.com/",
+     "domain": "rchstudios.com"
+    },
+    {
+     "name": "Rosie Lee | Creative Agency",
+     "url": "http://www.rosielees.co.uk/home/",
+     "domain": "rosielees.co.uk"
+    },
+    {
+     "name": "RUFproject",
+     "url": "http://rufproject.com/",
+     "domain": "rufproject.com"
+    },
+    {
+     "name": "Savvy – Branding & Architecture",
+     "url": "http://savvy-studio.net/",
+     "domain": "savvy-studio.net"
+    },
+    {
+     "name": "Shed — Interior Architecture & Design",
+     "url": "http://shed-design.com/",
+     "domain": "shed-design.com"
+    },
+    {
+     "name": "Sheridan&Co",
+     "url": "https://www.sheridanandco.com/",
+     "domain": "sheridanandco.com"
+    },
+    {
+     "name": "STOREAGE",
+     "url": "https://storeage-group.com/",
+     "domain": "storeage-group.com"
+    },
+    {
+     "name": "Studio KDA | Restaurants & more...",
+     "url": "http://studiokda.com/",
+     "domain": "studiokda.com"
+    },
+    {
+     "name": "studio-samuelov | בית",
+     "url": "https://www.samuelov.com/copy-of-home",
+     "domain": "samuelov.com"
+    },
+    {
+     "name": "Tangram",
+     "url": "http://www.tangramint.com/",
+     "domain": "tangramint.com"
+    },
+    {
+     "name": "Turnkey & Bespoke | Retail Construction Project Management",
+     "url": "http://www.dannyorenstein.com/",
+     "domain": "dannyorenstein.com"
+    },
+    {
+     "name": "Verona Carpenter Architects",
+     "url": "http://www.veronacarpenter.com/",
+     "domain": "veronacarpenter.com"
+    },
+    {
+     "name": "Design Build | Los Angeles | Construction",
+     "url": "https://www.a-ind.com/",
+     "domain": "a-ind.com"
+    },
+    {
+     "name": "YourStudio | insight-led design studio London Melbourne",
+     "url": "https://weareyourstudio.com/",
+     "domain": "weareyourstudio.com"
+    },
+    {
+     "name": "FormRoom | Brand Experience Agency (London)",
+     "url": "https://www.formroom.com/",
+     "domain": "formroom.com"
+    },
+    {
+     "name": "Prop Studios | Retai & Brandl Design Agency | London",
+     "url": "https://www.propstudios.co.uk/",
+     "domain": "propstudios.co.uk"
+    },
+    {
+     "name": "Schweitzer Group | German Shopfitting",
+     "url": "http://www.schweitzerproject.com/",
+     "domain": "schweitzerproject.com"
+    },
+    {
+     "name": "Span Design",
+     "url": "http://www.spandesign.com.au/",
+     "domain": "spandesign.com.au"
+    },
+    {
+     "name": "Kendu | In-store Visual Solutions",
+     "url": "https://www.kendu.com/us",
+     "domain": "kendu.com"
+    },
+    {
+     "name": "Blink | Retail Design Agency",
+     "url": "https://www.blinkthedesignagency.com/",
+     "domain": "blinkthedesignagency.com"
+    },
+    {
+     "name": "IDL Worldwide - Experiential Marketing",
+     "url": "https://www.idlww.com/",
+     "domain": "idlww.com"
+    },
+    {
+     "name": "Wick Architecture & Design",
+     "url": "https://www.wickarch.com/",
+     "domain": "wickarch.com"
+    },
+    {
+     "name": "Studio Equator | Strategy, Interior, Graphic & Web Design (AUS)",
+     "url": "https://www.studioequator.com.au/",
+     "domain": "studioequator.com.au"
+    },
+    {
+     "name": "GHA design studios | design with retail soul",
+     "url": "https://www.ghadesign.com/",
+     "domain": "ghadesign.com"
+    },
+    {
+     "name": "HMKM - Home",
+     "url": "http://www.hmkm.com/",
+     "domain": "hmkm.com"
+    },
+    {
+     "name": "ai3 | ATL",
+     "url": "https://ai3online.com/",
+     "domain": "ai3online.com"
+    },
+    {
+     "name": "Betwin Space | Retail & Space Design (KOREA)",
+     "url": "http://www.betwin.kr/",
+     "domain": "betwin.kr"
+    },
+    {
+     "name": "superfuture® – For global shopping experts since 1999",
+     "url": "https://superfuture.com/",
+     "domain": "superfuture.com"
+    },
+    {
+     "name": "DKDC | Retail & Visual Merchandising (Korea)",
+     "url": "http://www.dkdc.kr/",
+     "domain": "dkdc.kr"
+    },
+    {
+     "name": "Echochamber | Global Retail Trend Intelligence",
+     "url": "https://echochamber.com/",
+     "domain": "echochamber.com"
+    },
+    {
+     "name": "Portfolio : TPG Architecture",
+     "url": "https://www.tpgarchitecture.com/portfolio",
+     "domain": "tpgarchitecture.com"
+    },
+    {
+     "name": "Eight Inc",
+     "url": "https://eightinc.com/",
+     "domain": "eightinc.com"
+    },
+    {
+     "name": "Fox Fox Studio | Residential and Commercial Design Studio",
+     "url": "https://www.foxfoxstudio.com/",
+     "domain": "foxfoxstudio.com"
+    },
+    {
+     "name": "Platform by DesignOffice | AUS",
+     "url": "https://platformdesignoffice.com/",
+     "domain": "platformdesignoffice.com"
+    },
+    {
+     "name": "umdasch | We make successful STORES (Germany?)",
+     "url": "https://www.umdasch.com/en/home",
+     "domain": "umdasch.com"
+    },
+    {
+     "name": "wrk-shp",
+     "url": "http://wrk-shp.com/",
+     "domain": "wrk-shp.com"
+    },
+    {
+     "name": "PS Retail",
+     "url": "https://www.psretail.se/",
+     "domain": "psretail.se"
+    },
+    {
+     "name": "5AM | Spatial design studio",
+     "url": "https://www.5am.be/en",
+     "domain": "5am.be"
+    },
+    {
+     "name": "Lucky Fox | UK Visual Merchandising",
+     "url": "https://luckyfox.uk.com/",
+     "domain": "luckyfox.uk.com"
+    },
+    {
+     "name": "Counterfeit Studio.",
+     "url": "https://www.counterfeit-studio.com/",
+     "domain": "counterfeit-studio.com"
+    },
+    {
+     "name": "Confetti Reclame",
+     "url": "https://www.confettireclame.com/home",
+     "domain": "confettireclame.com"
+    },
+    {
+     "name": "Neumann & Rudy | Award Winning Architecture and Interiors, New York City",
+     "url": "https://www.nr.works/",
+     "domain": "nr.works"
+    },
+    {
+     "name": "Millington Associates | Retail + Visual Merchandising",
+     "url": "https://www.millingtonassociates.com/",
+     "domain": "millingtonassociates.com"
+    },
+    {
+     "name": "WDC Creative | Strategic Design Consultants",
+     "url": "https://www.wdc-creative.com/",
+     "domain": "wdc-creative.com"
+    },
+    {
+     "name": "OR DESIGN STUDIO | Works (Shanghai)",
+     "url": "https://www.ordesign-studio.com/works_1128",
+     "domain": "ordesign-studio.com"
+    },
+    {
+     "name": "SPACEMEN | We are storytellers of space",
+     "url": "http://spacemen-studio.com/",
+     "domain": "spacemen-studio.com"
+    },
+    {
+     "name": "Zooco | Estudio de Arquitectura (Spain)",
+     "url": "https://zooco.es/en/",
+     "domain": "zooco.es"
+    },
+    {
+     "name": "REDSTITCH",
+     "url": "https://www.redstitchretail.com/",
+     "domain": "redstitchretail.com"
+    },
+    {
+     "name": "Minale Design Strategy | (Brussels)",
+     "url": "https://www.minaledesignstrategy.com/",
+     "domain": "minaledesignstrategy.com"
+    },
+    {
+     "name": "Streetsense | Placeshapers, Brandbuilders and Storytellers",
+     "url": "https://streetsense.com/",
+     "domain": "streetsense.com"
+    },
+    {
+     "name": "Ringo Studio",
+     "url": "https://ringo-studio.com/",
+     "domain": "ringo-studio.com"
+    },
+    {
+     "name": "Finkel | Canadian Furniture/ Shop Builder",
+     "url": "http://finkel.ca/",
+     "domain": "finkel.ca"
+    },
+    {
+     "name": "Uchronia",
+     "url": "https://www.uchronia.fr/en/sections",
+     "domain": "uchronia.fr"
+    },
+    {
+     "name": "balbek bureau | architecture + retail design (Ukraine)",
+     "url": "https://www.balbek.com/",
+     "domain": "balbek.com"
+    },
+    {
+     "name": "Whitesp-ce",
+     "url": "https://whitesp-ce.com/",
+     "domain": "whitesp-ce.com"
+    },
+    {
+     "name": "Studio BV",
+     "url": "https://www.studio-b-v.com/",
+     "domain": "studio-b-v.com"
+    },
+    {
+     "name": "INSTORE I Your strategic partner for retail projects and events",
+     "url": "https://instore360.co.uk/",
+     "domain": "instore360.co.uk"
+    },
+    {
+     "name": "Mythology",
+     "url": "https://www.mythology.com/",
+     "domain": "mythology.com"
+    },
+    {
+     "name": "MBH Architects: Worldwide Architecture & Design Firm",
+     "url": "https://www.mbharch.com/",
+     "domain": "mbharch.com"
+    },
+    {
+     "name": "The General Store | Creative & Strategic Agency for Retailers (AUS)",
+     "url": "https://www.thegstore.com.au/",
+     "domain": "thegstore.com.au"
+    },
+    {
+     "name": "HUXHUX Design",
+     "url": "https://www.huxhux.com/",
+     "domain": "huxhux.com"
+    },
+    {
+     "name": "442 Design",
+     "url": "https://442design.com/",
+     "domain": "442design.com"
+    },
+    {
+     "name": "yuuuunstudio (CHINA)",
+     "url": "https://yuuuunstudio.cn/",
+     "domain": "yuuuunstudio.cn"
+    },
+    {
+     "name": "El Departamento | Architecture and Interior Design Studio",
+     "url": "https://eldepartamento.net/",
+     "domain": "eldepartamento.net"
+    },
+    {
+     "name": "O'Neil Langan Architects",
+     "url": "https://www.olarch.com/",
+     "domain": "olarch.com"
+    },
+    {
+     "name": "Journey | Brand Experience, Digital (?) Placemaking, etc.",
+     "url": "https://journey.world/",
+     "domain": "journey.world"
+    },
+    {
+     "name": "ROWE | (Columbus)",
+     "url": "https://www.rowewithus.com/",
+     "domain": "rowewithus.com"
+    }
+   ]
+  },
+  {
+   "id": "office",
+   "label": "Office Space Design",
+   "sites": [
+    {
+     "name": "Amicus Interiors | Bringing Workspaces to Life",
+     "url": "http://amicusinteriors.com.au/index.php",
+     "domain": "amicusinteriors.com.au"
+    },
+    {
+     "name": "Bates Smart",
+     "url": "http://www.batessmart.com/",
+     "domain": "batessmart.com"
+    },
+    {
+     "name": "lauckgroup",
+     "url": "http://www.lauckgroup.com/",
+     "domain": "lauckgroup.com"
+    },
+    {
+     "name": "Intermain Pty Ltd",
+     "url": "http://intermain.com.au/",
+     "domain": "intermain.com.au"
+    },
+    {
+     "name": "Office Inspiration",
+     "url": "https://www.officeinspiration.com/",
+     "domain": "officeinspiration.com"
+    },
+    {
+     "name": "Outline Design Outline Design",
+     "url": "http://www.outlinedesign.co.nz/",
+     "domain": "outlinedesign.co.nz"
+    },
+    {
+     "name": "PROJECTS OFFICE",
+     "url": "http://www.projectsoffice.co/home",
+     "domain": "projectsoffice.co"
+    },
+    {
+     "name": "Kiva Design + Architecture",
+     "url": "https://kivadesignarchitecture.com/en/",
+     "domain": "kivadesignarchitecture.com"
+    },
+    {
+     "name": "Charlie Greene Studio",
+     "url": "http://www.charliegreenestudio.com/",
+     "domain": "charliegreenestudio.com"
+    },
+    {
+     "name": "Fyra | Finland!!!",
+     "url": "https://www.fyra.fi/en/",
+     "domain": "fyra.fi"
+    },
+    {
+     "name": "Siren Design | AUSTRALIA",
+     "url": "https://www.sirendesign.com.au/",
+     "domain": "sirendesign.com.au"
+    },
+    {
+     "name": "FLOAT | design studio",
+     "url": "http://www.float.studio/",
+     "domain": "float.studio"
+    },
+    {
+     "name": "The Design Group | We design and program workspaces (Poland)",
+     "url": "https://thedesigngroup.pl/en/",
+     "domain": "thedesigngroup.pl"
+    },
+    {
+     "name": "ZIKZAK Architects | Office interior design (Ukraine)",
+     "url": "https://zikzakarchitects.com/",
+     "domain": "zikzakarchitects.com"
+    }
+   ]
+  },
+  {
+   "id": "graphics-branding",
+   "label": "Graphics & Branding",
+   "sites": [
+    {
+     "name": "RSM Design · Connecting People to Place",
+     "url": "https://rsmdesign.com/",
+     "domain": "rsmdesign.com",
+     "group": "EVG"
+    },
+    {
+     "name": "THERE | Branding + EGD (AUS)",
+     "url": "https://therestudio.com/",
+     "domain": "therestudio.com",
+     "group": "EVG"
+    },
+    {
+     "name": "AIRSPACE | Defining Brand Space",
+     "url": "https://www.airspace.nyc/",
+     "domain": "airspace.nyc",
+     "group": "EVG"
+    },
+    {
+     "name": "Blisko | Wayfinding studio (Poland)",
+     "url": "http://studioblisko.pl/en/",
+     "domain": "studioblisko.pl",
+     "group": "EVG"
+    },
+    {
+     "name": "entro.comentro",
+     "url": "https://entro.com/",
+     "domain": "entro.com",
+     "group": "EVG"
+    },
+    {
+     "name": "Selbert Perkins Design | Branding, Signage, Wayfinding, and Placemaking",
+     "url": "https://selbertperkins.com/",
+     "domain": "selbertperkins.com",
+     "group": "EVG"
+    },
+    {
+     "name": "Hunt Design | Wayfinding, Signage, and Exhibit Design Specialists",
+     "url": "https://huntdesign.com/",
+     "domain": "huntdesign.com",
+     "group": "EVG"
+    },
+    {
+     "name": "Two Twelve | Wayfinding Firm New York",
+     "url": "https://www.twotwelve.com/",
+     "domain": "twotwelve.com",
+     "group": "EVG"
+    },
+    {
+     "name": "fd2s | Experience is Everything",
+     "url": "https://fd2s.com/",
+     "domain": "fd2s.com",
+     "group": "EVG"
+    },
+    {
+     "name": "160over90 is a Branding Agency | (Sports)",
+     "url": "http://160over90.com/",
+     "domain": "160over90.com"
+    },
+    {
+     "name": "Ákos Polgárdi",
+     "url": "http://akospolgardi.com/projects",
+     "domain": "akospolgardi.com"
+    },
+    {
+     "name": "Ashton Design · Baltimore, MD",
+     "url": "http://ashton-design.com/",
+     "domain": "ashton-design.com"
+    },
+    {
+     "name": "Anagrama | Brand Intelligence Group",
+     "url": "https://www.anagrama.com/",
+     "domain": "anagrama.com"
+    },
+    {
+     "name": "Atlas | Design Consultancy",
+     "url": "https://designbyatlas.com/",
+     "domain": "designbyatlas.com"
+    },
+    {
+     "name": "Atomicdust | Marketing, Branding + Website Design | STL",
+     "url": "https://www.atomicdust.com/",
+     "domain": "atomicdust.com"
+    },
+    {
+     "name": "Base Design | Building brands with cultural impact",
+     "url": "https://www.basedesign.com/",
+     "domain": "basedesign.com"
+    },
+    {
+     "name": "Baxter and Bailey",
+     "url": "http://www.baxterandbailey.co.uk/",
+     "domain": "baxterandbailey.co.uk"
+    },
+    {
+     "name": "Bhive Design Co.",
+     "url": "http://bhivedesign.co/",
+     "domain": "bhivedesign.co"
+    },
+    {
+     "name": "bluemarlin Brand Design",
+     "url": "http://www.bluemarlinbd.com/",
+     "domain": "bluemarlinbd.com"
+    },
+    {
+     "name": "Bolster // Brand Engagement",
+     "url": "http://www.bolstercreative.com/",
+     "domain": "bolstercreative.com"
+    },
+    {
+     "name": "BOND",
+     "url": "http://www.bond.fi/",
+     "domain": "bond.fi"
+    },
+    {
+     "name": "Born & Raised | Branding Communications Agency",
+     "url": "http://born-raised.com.au/index.html",
+     "domain": "born-raised.com.au"
+    },
+    {
+     "name": "Brand Disciple - Logo Design, Graphic Design, Brand Strategy",
+     "url": "https://branddisciple.com/",
+     "domain": "branddisciple.com"
+    },
+    {
+     "name": "Bruce Mau Design | Home",
+     "url": "http://www.brucemaudesign.com/",
+     "domain": "brucemaudesign.com"
+    },
+    {
+     "name": "Büro North | Creating a better future through design",
+     "url": "http://buronorth.com/",
+     "domain": "buronorth.com"
+    },
+    {
+     "name": "C2F",
+     "url": "http://www.c2f.ch/en",
+     "domain": "c2f.ch"
+    },
+    {
+     "name": "Can I Play - Design Studio",
+     "url": "http://www.caniplay.com.au/",
+     "domain": "caniplay.com.au"
+    },
+    {
+     "name": "CeeCeeCreative",
+     "url": "http://ceeceecreative.com/",
+     "domain": "ceeceecreative.com"
+    },
+    {
+     "name": "Charlie Smith Design",
+     "url": "http://charliesmithdesign.com/",
+     "domain": "charliesmithdesign.com"
+    },
+    {
+     "name": "Cinch | branding & creative solutions company",
+     "url": "http://www.wearecinch.com/",
+     "domain": "wearecinch.com"
+    },
+    {
+     "name": "Commission Studio",
+     "url": "http://www.commissionstudio.com/",
+     "domain": "commissionstudio.com"
+    },
+    {
+     "name": "CONTINO STUDIO",
+     "url": "http://continostudio.com/",
+     "domain": "continostudio.com"
+    },
+    {
+     "name": "CR-eate | HOME",
+     "url": "http://www.cr-eate.com/",
+     "domain": "cr-eate.com"
+    },
+    {
+     "name": "Crafty-Design",
+     "url": "http://www.crafty-design.com.au/",
+     "domain": "crafty-design.com.au"
+    },
+    {
+     "name": "Cue | A Brand Design Company",
+     "url": "http://www.designcue.com/",
+     "domain": "designcue.com"
+    },
+    {
+     "name": "Dept of Energy",
+     "url": "http://www.deptofenergy.com/",
+     "domain": "deptofenergy.com"
+    },
+    {
+     "name": "Design Womb",
+     "url": "http://www.designwomb.com/work/view-all",
+     "domain": "designwomb.com"
+    },
+    {
+     "name": "dn&co.",
+     "url": "https://dnco.com/",
+     "domain": "dnco.com"
+    },
+    {
+     "name": "Elixir Design",
+     "url": "http://www.elixirdesign.com/",
+     "domain": "elixirdesign.com"
+    },
+    {
+     "name": "The English Group - Portfolio",
+     "url": "http://www.theenglishgroup.co.uk/portfolio/",
+     "domain": "theenglishgroup.co.uk"
+    },
+    {
+     "name": "FABIO ONGARATO DESIGN",
+     "url": "http://www.fabioongaratodesign.com.au/",
+     "domain": "fabioongaratodesign.com.au"
+    },
+    {
+     "name": "Farm Design | Cultivating Brands",
+     "url": "http://www.farmdesign.net/",
+     "domain": "farmdesign.net"
+    },
+    {
+     "name": "Futura - a brand after all",
+     "url": "http://byfutura.com/en/",
+     "domain": "byfutura.com"
+    },
+    {
+     "name": "Fuzzco",
+     "url": "http://fuzzco.com/",
+     "domain": "fuzzco.com"
+    },
+    {
+     "name": "Gander, Inc.",
+     "url": "http://www.takeagander.com/",
+     "domain": "takeagander.com"
+    },
+    {
+     "name": "Glasfurd & Walker : Brand. Design. Art Direction.",
+     "url": "http://www.glasfurdandwalker.com/",
+     "domain": "glasfurdandwalker.com"
+    },
+    {
+     "name": "GrandArmy",
+     "url": "https://www.grandarmy.com/",
+     "domain": "grandarmy.com"
+    },
+    {
+     "name": "Helms Workshop | An independent, multidisciplinary creative agency",
+     "url": "https://helmsworkshop.com/",
+     "domain": "helmsworkshop.com"
+    },
+    {
+     "name": "High Tide",
+     "url": "https://hightidenyc.com/",
+     "domain": "hightidenyc.com"
+    },
+    {
+     "name": "Huge Inc.",
+     "url": "https://www.hugeinc.com/",
+     "domain": "hugeinc.com"
+    },
+    {
+     "name": "Hype Group | Creative Agency Tampa Bay",
+     "url": "http://hypegroup.net/",
+     "domain": "hypegroup.net"
+    },
+    {
+     "name": "ISO",
+     "url": "http://isodesign.co.uk/",
+     "domain": "isodesign.co.uk"
+    },
+    {
+     "name": "Jesse Reed",
+     "url": "http://jessereedfromohio.com/",
+     "domain": "jessereedfromohio.com"
+    },
+    {
+     "name": "John & Jane",
+     "url": "http://www.johnandjane.agency/",
+     "domain": "johnandjane.agency"
+    },
+    {
+     "name": "Jones Knowles Ritchie | A Design-Led Creative Company",
+     "url": "https://www.jkrglobal.com/",
+     "domain": "jkrglobal.com"
+    },
+    {
+     "name": "KERN+LEAD | Brand Stories For Higher",
+     "url": "https://kernandlead.com/",
+     "domain": "kernandlead.com"
+    },
+    {
+     "name": "Kiosk",
+     "url": "http://letskiosk.com/projects",
+     "domain": "letskiosk.com"
+    },
+    {
+     "name": "kissmiklos.com",
+     "url": "http://kissmiklos.com/",
+     "domain": "kissmiklos.com"
+    },
+    {
+     "name": "Koto | an international creative agency building impactful brands",
+     "url": "https://koto.com/",
+     "domain": "koto.com"
+    },
+    {
+     "name": "K U D I O",
+     "url": "http://www.kudio.com.au/",
+     "domain": "kudio.com.au"
+    },
+    {
+     "name": "LAND",
+     "url": "https://workbyland.com/",
+     "domain": "workbyland.com"
+    },
+    {
+     "name": "Landor",
+     "url": "https://landor.com/",
+     "domain": "landor.com"
+    },
+    {
+     "name": "Leaf Design – Branding & Design Consultancy",
+     "url": "http://leafdesign.in/",
+     "domain": "leafdesign.in"
+    },
+    {
+     "name": "Lippincott | A leading brand, experience, and marketing consultancy",
+     "url": "https://www.lippincott.com/",
+     "domain": "lippincott.com"
+    },
+    {
+     "name": "LMNOP Creative - Homepage",
+     "url": "https://www.lmnopcreative.com/",
+     "domain": "lmnopcreative.com"
+    },
+    {
+     "name": "Luminous Design Group | Greece | See more do more",
+     "url": "http://luminous.gr/",
+     "domain": "luminous.gr"
+    },
+    {
+     "name": "Made Thought | Global Creative Office (London and New York)",
+     "url": "https://madethought.com/",
+     "domain": "madethought.com"
+    },
+    {
+     "name": "Madonna+Child Design House | Brooklyn, NY",
+     "url": "http://www.madonna-child.com/",
+     "domain": "madonna-child.com"
+    },
+    {
+     "name": "Manual",
+     "url": "http://manualcreative.com/",
+     "domain": "manualcreative.com"
+    },
+    {
+     "name": "MAUD",
+     "url": "http://maud.com.au/",
+     "domain": "maud.com.au"
+    },
+    {
+     "name": "McDill Associates - Packaging Design",
+     "url": "https://www.mcdill.com/",
+     "domain": "mcdill.com"
+    },
+    {
+     "name": "Missouri Creative | Brand design agency for retail brands",
+     "url": "http://www.missouri-creative.com/",
+     "domain": "missouri-creative.com"
+    },
+    {
+     "name": "Mosaic | Experiential Marketing + Branding",
+     "url": "https://mosaic.com/",
+     "domain": "mosaic.com"
+    },
+    {
+     "name": "Mucca Design",
+     "url": "http://mucca.com/",
+     "domain": "mucca.com"
+    },
+    {
+     "name": "Mucho - The global boutique design studio",
+     "url": "http://www.wearemucho.com/",
+     "domain": "wearemucho.com"
+    },
+    {
+     "name": "NB | A branding and communication studio (UK)",
+     "url": "http://www.nbstudio.co.uk/",
+     "domain": "nbstudio.co.uk"
+    },
+    {
+     "name": "Nice Branding Agency: Nashville Branding & Marketing Agency",
+     "url": "https://nice-branding.com/",
+     "domain": "nice-branding.com"
+    },
+    {
+     "name": "NiCE",
+     "url": "https://www.niceltd.com/",
+     "domain": "niceltd.com"
+    },
+    {
+     "name": "New! | Creative Agency",
+     "url": "http://www.newisnew.lt/",
+     "domain": "newisnew.lt"
+    },
+    {
+     "name": "Ochre – Brand Experience Service Design Consultancy Dubai",
+     "url": "http://ochrebrand.com/",
+     "domain": "ochrebrand.com"
+    },
+    {
+     "name": "Official Mfg Co / OMFGCO",
+     "url": "http://www.omfgco.com/",
+     "domain": "omfgco.com"
+    },
+    {
+     "name": "Parallax Design",
+     "url": "http://www.parallaxdesign.com.au/work/petaluma-s-home",
+     "domain": "parallaxdesign.com.au"
+    },
+    {
+     "name": "Parent » Design & Advertising",
+     "url": "http://www.madebyparent.com/",
+     "domain": "madebyparent.com"
+    },
+    {
+     "name": "Partners & Spade",
+     "url": "http://partnersandspade.com/",
+     "domain": "partnersandspade.com"
+    },
+    {
+     "name": "Pearlfisher",
+     "url": "https://www.pearlfisher.com/",
+     "domain": "pearlfisher.com"
+    },
+    {
+     "name": "Pentagram",
+     "url": "https://www.pentagram.com/",
+     "domain": "pentagram.com"
+    },
+    {
+     "name": "Pharus Bright Design",
+     "url": "http://pharusdesign.com/en/",
+     "domain": "pharusdesign.com"
+    },
+    {
+     "name": "Polygraphe - Streamlined & nimble studio",
+     "url": "http://polygraphe.ca/en/",
+     "domain": "polygraphe.ca"
+    },
+    {
+     "name": "Push | Orlando | Strategic Branding, Creative & Digital",
+     "url": "http://www.pushhere.com/",
+     "domain": "pushhere.com"
+    },
+    {
+     "name": "RED ANTLER | Branding Agency",
+     "url": "https://www.redantler.com/",
+     "domain": "redantler.com"
+    },
+    {
+     "name": "Rice Creative | Vietnam",
+     "url": "https://rice-creative.com/",
+     "domain": "rice-creative.com"
+    },
+    {
+     "name": "Roundhouse Agency",
+     "url": "http://roundhouseagency.com/",
+     "domain": "roundhouseagency.com"
+    },
+    {
+     "name": "Robot Food | Branding & Packaging Design | Leeds",
+     "url": "http://www.robot-food.com/our-work/",
+     "domain": "robot-food.com"
+    },
+    {
+     "name": "Serious Studio – Brand Identity, Strategy, and Design Consultants",
+     "url": "https://serious-studio.com/",
+     "domain": "serious-studio.com"
+    },
+    {
+     "name": "skinn branding agency",
+     "url": "https://www.skinn.be/nl",
+     "domain": "skinn.be"
+    },
+    {
+     "name": "SLATE | branding + packaging (SF)",
+     "url": "https://slatesf.com/",
+     "domain": "slatesf.com"
+    },
+    {
+     "name": "Snask | Our Work",
+     "url": "http://snask.com/our-work/",
+     "domain": "snask.com"
+    },
+    {
+     "name": "Society",
+     "url": "http://www.sociedadanonima.mx/index.php",
+     "domain": "sociedadanonima.mx"
+    },
+    {
+     "name": "Stebbings Partners",
+     "url": "http://stebbings.com/",
+     "domain": "stebbings.com"
+    },
+    {
+     "name": "Sterling Brands",
+     "url": "https://www.sterlingbrands.com/",
+     "domain": "sterlingbrands.com"
+    },
+    {
+     "name": "Sterling-Rice Group",
+     "url": "https://www.srg.com/index",
+     "domain": "srg.com"
+    },
+    {
+     "name": "Strohl—Brand Identity, Packaging & Trademark Design",
+     "url": "http://strohlsf.com/",
+     "domain": "strohlsf.com"
+    },
+    {
+     "name": "Tag Collective",
+     "url": "http://tag-collective.com/index.php",
+     "domain": "tag-collective.com"
+    },
+    {
+     "name": "Toko. Concept. Design.",
+     "url": "http://www.toko.nu/",
+     "domain": "toko.nu"
+    },
+    {
+     "name": "TOORMIX | Design agency, Branding, Graphic Design, Barcelona",
+     "url": "https://www.toormix.com/en/",
+     "domain": "toormix.com"
+    },
+    {
+     "name": "Tony Gooley Design",
+     "url": "http://tonygooleydesign.com/work/",
+     "domain": "tonygooleydesign.com"
+    },
+    {
+     "name": "Tractorbeam | Design, Branding, Digital Marketing | Dallas, TX",
+     "url": "http://tractorbeam.com/",
+     "domain": "tractorbeam.com"
+    },
+    {
+     "name": "Trollbäck+Company | Branding and Design Studio",
+     "url": "https://trollback.com/",
+     "domain": "trollback.com"
+    },
+    {
+     "name": "&Walsh",
+     "url": "https://andwalsh.com/",
+     "domain": "andwalsh.com"
+    },
+    {
+     "name": "Wieden + Kennedy",
+     "url": "http://www.wk.com/",
+     "domain": "wk.com"
+    },
+    {
+     "name": "Winkreative",
+     "url": "http://www.winkreative.com/",
+     "domain": "winkreative.com"
+    },
+    {
+     "name": "Wolff Olins",
+     "url": "https://wolffolins.com/",
+     "domain": "wolffolins.com"
+    },
+    {
+     "name": "Work-Order",
+     "url": "http://www.work-order.co/",
+     "domain": "work-order.co"
+    },
+    {
+     "name": "XtraShiny",
+     "url": "http://xtrashiny.com.au/",
+     "domain": "xtrashiny.com.au"
+    },
+    {
+     "name": "Proportion | Creative Branding & Design | Boston & Burlington",
+     "url": "https://proportiondesign.com/",
+     "domain": "proportiondesign.com"
+    },
+    {
+     "name": "LOVE Creative | Brand Agency",
+     "url": "http://www.lovecreative.com/",
+     "domain": "lovecreative.com"
+    },
+    {
+     "name": "Jerome & Zimmerman",
+     "url": "http://www.jnz.mx/",
+     "domain": "jnz.mx"
+    },
+    {
+     "name": "Brian Steele",
+     "url": "https://briansteele.co/",
+     "domain": "briansteele.co"
+    },
+    {
+     "name": "KPIN | EVG",
+     "url": "https://www.kpinstudio.com/",
+     "domain": "kpinstudio.com"
+    },
+    {
+     "name": "Perky Bros | Branding and Design (Nashville)",
+     "url": "https://perkybros.com/",
+     "domain": "perkybros.com"
+    },
+    {
+     "name": "Saint Urbain | Branding and Creative Design Agency (New York)",
+     "url": "https://www.sainturbain.com/",
+     "domain": "sainturbain.com"
+    },
+    {
+     "name": "GHD Partners | Environmental Graphics (Office)",
+     "url": "https://ghdp.com/",
+     "domain": "ghdp.com"
+    },
+    {
+     "name": "Brand New (Under Consideration)",
+     "url": "https://www.underconsideration.com/brandnew/",
+     "domain": "underconsideration.com"
+    },
+    {
+     "name": "Super Creative",
+     "url": "https://www.supercreative.co/",
+     "domain": "supercreative.co"
+    },
+    {
+     "name": "Mococo | SF boutique",
+     "url": "https://studiomococo.com/",
+     "domain": "studiomococo.com"
+    },
+    {
+     "name": "TOKY | Brand Strategy, Digital & Brand Identity Design",
+     "url": "https://toky.com/",
+     "domain": "toky.com"
+    },
+    {
+     "name": "DENT International",
+     "url": "https://www.dent.international/",
+     "domain": "dent.international"
+    },
+    {
+     "name": "Uppercase Studio | AUS",
+     "url": "http://www.uppercase.studio/",
+     "domain": "uppercase.studio"
+    },
+    {
+     "name": "Peculiar Familia | AUS",
+     "url": "https://www.peculiarfamilia.com/",
+     "domain": "peculiarfamilia.com"
+    },
+    {
+     "name": "Mrs&Mr",
+     "url": "https://www.mrsandmr.com/",
+     "domain": "mrsandmr.com"
+    },
+    {
+     "name": "A Friend Of Mine",
+     "url": "http://afom.com.au/",
+     "domain": "afom.com.au"
+    },
+    {
+     "name": "IYA STUDIO LONDON | DESIGN | ART DIRECTION",
+     "url": "http://iyastudio.co.uk/",
+     "domain": "iyastudio.co.uk"
+    },
+    {
+     "name": "Hybrid Design",
+     "url": "http://hybrid-design.com/",
+     "domain": "hybrid-design.com"
+    },
+    {
+     "name": "Soulsight | We Maximize Brand Potential.",
+     "url": "https://soulsight.com/",
+     "domain": "soulsight.com"
+    },
+    {
+     "name": "Aprile Design",
+     "url": "https://apriledesign.com/work",
+     "domain": "apriledesign.com"
+    },
+    {
+     "name": "Mother Design — Work",
+     "url": "https://www.motherdesign.com/",
+     "domain": "motherdesign.com"
+    },
+    {
+     "name": "Blackspace | Brand Experience Agency",
+     "url": "https://www.black.space/",
+     "domain": "black.space"
+    },
+    {
+     "name": "Studio B",
+     "url": "https://www.weareb.co.uk/",
+     "domain": "weareb.co.uk"
+    },
+    {
+     "name": "Art Camp",
+     "url": "https://www.madeatartcamp.com/",
+     "domain": "madeatartcamp.com"
+    },
+    {
+     "name": "Claire Cunningham Creative",
+     "url": "https://clairecunninghamcreative.com/projects",
+     "domain": "clairecunninghamcreative.com"
+    },
+    {
+     "name": "Peter Arnell",
+     "url": "https://www.peterarnell.com/",
+     "domain": "peterarnell.com"
+    },
+    {
+     "name": "Ian Brignell Lettering Design",
+     "url": "https://www.ianbrignell.com/",
+     "domain": "ianbrignell.com"
+    },
+    {
+     "name": "Standards Manual",
+     "url": "https://standardsmanual.com/",
+     "domain": "standardsmanual.com"
+    },
+    {
+     "name": "Order - Design",
+     "url": "https://order.design/",
+     "domain": "order.design"
+    },
+    {
+     "name": "World Brand Design Society | Consumer Brand Design | Creative Business",
+     "url": "https://worldbranddesign.com/",
+     "domain": "worldbranddesign.com"
+    },
+    {
+     "name": "COLLINS",
+     "url": "https://wearecollins.com/",
+     "domain": "wearecollins.com"
+    },
+    {
+     "name": "Chermayeff & Geismar & Haviv",
+     "url": "https://cghnyc.com/",
+     "domain": "cghnyc.com"
+    },
+    {
+     "name": "Further (Formerly DesignStudio) | Creative, Branding & Design Agency",
+     "url": "https://www.further.group/",
+     "domain": "further.group"
+    },
+    {
+     "name": "Moving Brands: Design Tomorrow | Global Creative Company",
+     "url": "https://movingbrands.com/",
+     "domain": "movingbrands.com"
+    },
+    {
+     "name": "Design Bridge and Partners | Global Brand Design Agency",
+     "url": "https://www.designbridge.com/",
+     "domain": "designbridge.com"
+    },
+    {
+     "name": "Dewhaus | Brand Transformation Consultancy",
+     "url": "https://dewhaus.com/",
+     "domain": "dewhaus.com"
+    },
+    {
+     "name": "Durham",
+     "url": "https://www.durhamstudio.com/",
+     "domain": "durhamstudio.com"
+    },
+    {
+     "name": "ANAGRAM | (London)",
+     "url": "https://anagram.london/",
+     "domain": "anagram.london"
+    },
+    {
+     "name": "Loaded For Bear | Be Ready",
+     "url": "https://www.wearelfb.com/",
+     "domain": "wearelfb.com"
+    }
+   ]
+  },
+  {
+   "id": "events",
+   "label": "Events",
+   "sites": [
+    {
+     "name": "itch",
+     "url": "http://www.itchltd.com/about/",
+     "domain": "itchltd.com"
+    },
+    {
+     "name": "IMGLIVE | THINK DESIGN CONNECT",
+     "url": "http://www.imglive.com/",
+     "domain": "imglive.com"
+    },
+    {
+     "name": "Jack Morton Worldwide",
+     "url": "http://www.jackmorton.com/",
+     "domain": "jackmorton.com"
+    },
+    {
+     "name": "Jeffrey Guillen",
+     "url": "http://www.jmg-creative.com/",
+     "domain": "jmg-creative.com"
+    },
+    {
+     "name": "JLC | Joe Lewis Company",
+     "url": "http://www.joelewiscompany.com/",
+     "domain": "joelewiscompany.com"
+    },
+    {
+     "name": "Starling on Bond",
+     "url": "http://www.starlingonbond.com/",
+     "domain": "starlingonbond.com"
+    },
+    {
+     "name": "Chicago Scenic Studios | Design | Build | Manage",
+     "url": "http://www.chicagoscenic.com/",
+     "domain": "chicagoscenic.com"
+    },
+    {
+     "name": "Wonderland Agency | Events Planning and Management Agency",
+     "url": "http://wonderland-agency.com/",
+     "domain": "wonderland-agency.com"
+    },
+    {
+     "name": "AgencyEA | A Brand Experience Agency",
+     "url": "https://agencyea.com/",
+     "domain": "agencyea.com"
+    },
+    {
+     "name": "Magnetic | Brand Experience",
+     "url": "http://weremagnetic.com/",
+     "domain": "weremagnetic.com"
+    },
+    {
+     "name": "The Lionesque Group | Pop-Up Retail Architects",
+     "url": "http://lionesquegroup.com/",
+     "domain": "lionesquegroup.com"
+    },
+    {
+     "name": "Mustafa Khan | Event Producer",
+     "url": "https://www.heymustafa.com/",
+     "domain": "heymustafa.com"
+    },
+    {
+     "name": "Marko Brajovic",
+     "url": "https://markobrajovic.com/",
+     "domain": "markobrajovic.com"
+    },
+    {
+     "name": "OBO | Creative Services",
+     "url": "http://oboglobal.eu/",
+     "domain": "oboglobal.eu"
+    },
+    {
+     "name": "Rune - Strategic Partnership Management",
+     "url": "https://runemgmt.com/",
+     "domain": "runemgmt.com"
+    }
+   ]
+  },
+  {
+   "id": "boutique-environmental",
+   "label": "Boutique Environmental Design",
+   "sites": [
+    {
+     "name": "Studio Joanna Laajisto",
+     "url": "http://joannalaajisto.com/",
+     "domain": "joannalaajisto.com"
+    },
+    {
+     "name": "LINEHOUSE",
+     "url": "http://linehousedesign.com/",
+     "domain": "linehousedesign.com"
+    },
+    {
+     "name": "YSG | Australia Environmental Firm",
+     "url": "https://ysg.studio/",
+     "domain": "ysg.studio"
+    },
+    {
+     "name": "Mathieu Lehanneur | Works",
+     "url": "http://www.mathieulehanneur.fr/works",
+     "domain": "mathieulehanneur.fr"
+    },
+    {
+     "name": "HE.D group | Interior Design Studio (Kiev)",
+     "url": "https://www.he-d.pro/",
+     "domain": "he-d.pro"
+    },
+    {
+     "name": "Barde + vanVoltt | Interior Design Studio (Amsterdam)",
+     "url": "https://www.barde-vanvoltt.com/",
+     "domain": "barde-vanvoltt.com"
+    },
+    {
+     "name": "Wilson Brothers | 2D + 3D + Music",
+     "url": "https://wilsonbrothers.co.uk/",
+     "domain": "wilsonbrothers.co.uk"
+    },
+    {
+     "name": "rainville sangaré | canada",
+     "url": "https://rainville-sangare.com/en/",
+     "domain": "rainville-sangare.com"
+    }
+   ]
+  },
+  {
+   "id": "architecture",
+   "label": "Architecture & Installation",
+   "sites": [
+    {
+     "name": "Steelhead Architecture | Gabe Headrick",
+     "url": "http://steelheadarchitecture.com/projects/commercial/",
+     "domain": "steelheadarchitecture.com",
+     "group": "Brewery"
+    },
+    {
+     "name": "SOLVING",
+     "url": "https://www.solvar.mx/",
+     "domain": "solvar.mx",
+     "group": "Design Build"
+    },
+    {
+     "name": "ACME Scenic | Custom Fabrication & Event Production - Portland, OR",
+     "url": "http://acmescenic.com/",
+     "domain": "acmescenic.com",
+     "group": "Design Build"
+    },
+    {
+     "name": "Black Rabbit",
+     "url": "https://www.blackrabbit.co/",
+     "domain": "blackrabbit.co",
+     "group": "Design Build"
+    },
+    {
+     "name": "THREE SIXTY | Milwaukee Design Build Consult",
+     "url": "https://threesixtymke.com/",
+     "domain": "threesixtymke.com",
+     "group": "Design Build"
+    },
+    {
+     "name": "Oetee",
+     "url": "https://oetee.com/",
+     "domain": "oetee.com",
+     "group": "Design Build"
+    },
+    {
+     "name": "amaze design",
+     "url": "http://www.amazedesign.com/",
+     "domain": "amazedesign.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "bueroberlin | exhibits & Installation",
+     "url": "http://www.bueroberlin.net/",
+     "domain": "bueroberlin.net",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Cambridge Seven",
+     "url": "https://cambridgeseven.com/",
+     "domain": "cambridgeseven.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Franke Steinert | Exhibits, Interiors, Graphics",
+     "url": "http://www.franke-steinert.de/projekte/",
+     "domain": "franke-steinert.de",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Pacific Studio | Exhibit Design",
+     "url": "http://www.pacificstudio.com/",
+     "domain": "pacificstudio.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Ralph Appelbaum Associates",
+     "url": "http://www.raany.com/",
+     "domain": "raany.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "PGAV Destinations | Attraction and Exhibit Design",
+     "url": "http://pgavdestinations.com/",
+     "domain": "pgavdestinations.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Dimensional Innovations | Design, Technology & Build Firm",
+     "url": "http://www.dimin.com/",
+     "domain": "dimin.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Luci Creative | Environmental Storytelling",
+     "url": "http://www.lucicreative.com/",
+     "domain": "lucicreative.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Schmitz & Schmitz | Museum display cases & art storage",
+     "url": "http://schmitz-n-schmitz.com/",
+     "domain": "schmitz-n-schmitz.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Overtreders W",
+     "url": "https://www.overtreders-w.nl/en",
+     "domain": "overtreders-w.nl",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Local Projects",
+     "url": "https://www.localprojects.com/",
+     "domain": "localprojects.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "AldrichPears Associates | Interpretive planning and exhibit design",
+     "url": "http://www.aldrichpears.com/",
+     "domain": "aldrichpears.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Ideum | Interactive Exhibits",
+     "url": "https://ideum.com/",
+     "domain": "ideum.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "iSi Global | Retail Design Agency",
+     "url": "https://isiglobal.co.uk/",
+     "domain": "isiglobal.co.uk",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Stefan Helling | AudioVisual Engineering for Design + Architecture",
+     "url": "https://stefanhelling.com/",
+     "domain": "stefanhelling.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Roto | Planning & Design-Build Firm",
+     "url": "https://roto.com/",
+     "domain": "roto.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Sam Jacob Studio",
+     "url": "https://www.samjacob.com/",
+     "domain": "samjacob.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Belle & Wissell, Co. | Interactive Spaces",
+     "url": "https://bwco.info/",
+     "domain": "bwco.info",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Casson Mann",
+     "url": "https://www.cassonmann.com/",
+     "domain": "cassonmann.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Nissen Richards Studio",
+     "url": "https://www.nissenrichardsstudio.com/",
+     "domain": "nissenrichardsstudio.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Tinker Imagineers | Experience Architects (Netherlands)",
+     "url": "https://tinker.nl/",
+     "domain": "tinker.nl",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "ZMMA",
+     "url": "https://zmma.com/",
+     "domain": "zmma.com",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "Studio MB",
+     "url": "https://www.studiomb.co.uk/",
+     "domain": "studiomb.co.uk",
+     "group": "Exhibit Design"
+    },
+    {
+     "name": "YM Design | Children's Facilities & Design (Korea)",
+     "url": "http://ymdesignstudio.com/",
+     "domain": "ymdesignstudio.com",
+     "group": "Kids"
+    },
+    {
+     "name": "carve | nl",
+     "url": "http://www.carve.nl/",
+     "domain": "carve.nl",
+     "group": "Landscape"
+    },
+    {
+     "name": "The Cultural Landscape Foundation",
+     "url": "https://www.tclf.org/",
+     "domain": "tclf.org",
+     "group": "Landscape"
+    },
+    {
+     "name": "DnD Landschaftsplanung",
+     "url": "http://www.dnd.at/index.php",
+     "domain": "dnd.at",
+     "group": "Landscape"
+    },
+    {
+     "name": "ECHO Urban Design",
+     "url": "https://echo-urbandesign.com/",
+     "domain": "echo-urbandesign.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "GROUNDWORKS Office Landscape Architects",
+     "url": "https://www.groundworksoffice.com/",
+     "domain": "groundworksoffice.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "Humannature | Cincinnati, OH",
+     "url": "https://www.humannature.cc/",
+     "domain": "humannature.cc",
+     "group": "Landscape"
+    },
+    {
+     "name": "Inside Outside",
+     "url": "http://www.insideoutside.nl/",
+     "domain": "insideoutside.nl",
+     "group": "Landscape"
+    },
+    {
+     "name": "Landezine | Landscape Architecture Works",
+     "url": "http://www.landezine.com/",
+     "domain": "landezine.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "ASPECT Studios | Landscape Architects, Urban Design",
+     "url": "https://www.aspect-studios.com/",
+     "domain": "aspect-studios.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "Lifescapes International | Landscape Architecture & Design",
+     "url": "https://lifescapesintl.com/",
+     "domain": "lifescapesintl.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "LRM, Ltd. | Landscape Architecture",
+     "url": "http://lrmltd.com/",
+     "domain": "lrmltd.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "Meyer Studio Land Architects",
+     "url": "http://ms-la.com/",
+     "domain": "ms-la.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "Mikyoung Kim Design | Landscape Architecture, Urban Planning, Site Art",
+     "url": "http://myk-d.com/",
+     "domain": "myk-d.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "OJB | Landscape Architecture Firm",
+     "url": "https://www.ojb.com/",
+     "domain": "ojb.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "OFL Architecture | Rome",
+     "url": "http://www.oflstudio.com/",
+     "domain": "oflstudio.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "Project for Public Spaces | Placemaking Blog",
+     "url": "https://www.pps.org/blog",
+     "domain": "pps.org",
+     "group": "Landscape"
+    },
+    {
+     "name": "Rainer Schmidt | landscape architects + urban planners",
+     "url": "https://www.rainerschmidt.com/en/start.html",
+     "domain": "rainerschmidt.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "STGK Inc. | Japanese Landscape Design",
+     "url": "https://stgk.jp/JP",
+     "domain": "stgk.jp",
+     "group": "Landscape"
+    },
+    {
+     "name": "Surfacedesign, Inc.",
+     "url": "https://www.sdisf.com/",
+     "domain": "sdisf.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "Svalbe & co",
+     "url": "https://www.svalbe.co/",
+     "domain": "svalbe.co",
+     "group": "Landscape"
+    },
+    {
+     "name": "Ten Eyck Landscape Architects",
+     "url": "http://www.teneyckla.com/",
+     "domain": "teneyckla.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "TERREMOTO.LA",
+     "url": "http://terremoto.la/index",
+     "domain": "terremoto.la",
+     "group": "Landscape"
+    },
+    {
+     "name": "ACLA",
+     "url": "https://acochran.com/",
+     "domain": "acochran.com",
+     "group": "Landscape"
+    },
+    {
+     "name": "A&H Architecture",
+     "url": "http://www.aharchitecture.com/",
+     "domain": "aharchitecture.com",
+     "group": "Residential"
+    },
+    {
+     "name": "Bill Ingram Architect",
+     "url": "http://www.billingramarchitect.com/",
+     "domain": "billingramarchitect.com",
+     "group": "Residential"
+    },
+    {
+     "name": "McALPINE",
+     "url": "http://www.mcalpinehouse.com/",
+     "domain": "mcalpinehouse.com",
+     "group": "Residential"
+    },
+    {
+     "name": "G.P. Schafer Architect",
+     "url": "http://gpschafer.com/",
+     "domain": "gpschafer.com",
+     "group": "Residential"
+    },
+    {
+     "name": "Jeffrey Dungan Architects | Birmingham, Alabama",
+     "url": "https://www.jeffreydungan.com/",
+     "domain": "jeffreydungan.com",
+     "group": "Residential"
+    },
+    {
+     "name": "D. Stanley Dixon Architect | Contemporary Barn",
+     "url": "http://dsdixonarchitect.com/contemporary-barn",
+     "domain": "dsdixonarchitect.com",
+     "group": "Residential"
+    },
+    {
+     "name": "Rachel Halvorson Designs",
+     "url": "http://www.rachelhalvorson.com/",
+     "domain": "rachelhalvorson.com",
+     "group": "Residential"
+    },
+    {
+     "name": "Historical Concepts",
+     "url": "http://www.historicalconcepts.com/m",
+     "domain": "historicalconcepts.com",
+     "group": "Residential"
+    },
+    {
+     "name": "Neil Logan, Architect",
+     "url": "https://nlarchitect.com/",
+     "domain": "nlarchitect.com",
+     "group": "Residential"
+    },
+    {
+     "name": "KIMMEL STUDIO ARCHITECTS",
+     "url": "https://www.kimmelstudio.com/",
+     "domain": "kimmelstudio.com",
+     "group": "Residential"
+    },
+    {
+     "name": "Jamie Durie",
+     "url": "https://www.jamiedurie.com/",
+     "domain": "jamiedurie.com",
+     "group": "Residential"
+    },
+    {
+     "name": "Turner Architects | (UK)",
+     "url": "http://www.turnerarchitects.co.uk/",
+     "domain": "turnerarchitects.co.uk",
+     "group": "Residential"
+    },
+    {
+     "name": "Pearson Design Group | Montana",
+     "url": "https://pearsondesigngroup.com/",
+     "domain": "pearsondesigngroup.com",
+     "group": "Residential"
+    },
+    {
+     "name": "BRAVE NEW ECO | (AUS)",
+     "url": "https://www.braveneweco.com.au/",
+     "domain": "braveneweco.com.au",
+     "group": "Residential"
+    },
+    {
+     "name": "Donaldson+Partners | (Los Angeles)",
+     "url": "https://donaldsonplus.com/",
+     "domain": "donaldsonplus.com",
+     "group": "Residential"
+    },
+    {
+     "name": "TAKK STUDIO | (Berlin)",
+     "url": "https://takkstudio.berlin/",
+     "domain": "takkstudio.berlin",
+     "group": "Residential"
+    },
+    {
+     "name": "Signum Architecture",
+     "url": "http://signumarchitecture.com/index.html",
+     "domain": "signumarchitecture.com",
+     "group": "Winery"
+    },
+    {
+     "name": "Wright Contracting | General Contractor (Santa Rosa & Napa)",
+     "url": "https://www.wrightcontracting.com/",
+     "domain": "wrightcontracting.com",
+     "group": "Winery"
+    },
+    {
+     "name": "BuckleyGrayYeoman",
+     "url": "http://www.buckleygrayyeoman.com/home/",
+     "domain": "buckleygrayyeoman.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "A+I | Architecture Plus Information (NYC)",
+     "url": "https://architectureplusinformation.com/",
+     "domain": "architectureplusinformation.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Ab Rogers Design",
+     "url": "http://www.abrogers.com/",
+     "domain": "abrogers.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Abramson Teiger Architects",
+     "url": "http://abramsonteiger.com/",
+     "domain": "abramsonteiger.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Aedas | International Architects",
+     "url": "https://www.aedas.com/en/",
+     "domain": "aedas.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "AIM Architecture",
+     "url": "https://aim-architecture.com/",
+     "domain": "aim-architecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Alison Brooks Architects",
+     "url": "https://www.alisonbrooksarchitects.com/",
+     "domain": "alisonbrooksarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Allied Works | Architecture",
+     "url": "https://alliedworks.com/architecture",
+     "domain": "alliedworks.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Andy Martin Architecture",
+     "url": "http://www.andymartinarchitecture.com/",
+     "domain": "andymartinarchitecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "AO Architects",
+     "url": "https://www.aoarchitects.com/",
+     "domain": "aoarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Arch2O | Architecture and Design magazine",
+     "url": "https://www.arch2o.com/",
+     "domain": "arch2o.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Architectural Resources Group | Preservation Architecture",
+     "url": "https://www.argsf.com/",
+     "domain": "argsf.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ARCHITECTURE OUTFIT",
+     "url": "https://www.architectureoutfit.com/",
+     "domain": "architectureoutfit.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ARCHPHOT",
+     "url": "https://archphot.com/",
+     "domain": "archphot.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Arup",
+     "url": "https://www.arup.com/",
+     "domain": "arup.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ATELIER DE YAVORSKY",
+     "url": "https://www.atelierdeyavorsky.com/",
+     "domain": "atelierdeyavorsky.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "atelier tao + c | (China)",
+     "url": "https://www.ateliertaoc.com/en/",
+     "domain": "ateliertaoc.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "AUX Architecture | Los Angeles",
+     "url": "https://auxarchitecture.com/",
+     "domain": "auxarchitecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Batek Architects | (Germany)",
+     "url": "https://batekarchitekten.com/",
+     "domain": "batekarchitekten.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "BCJ",
+     "url": "https://bcj.com/",
+     "domain": "bcj.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "BDG architecture + design",
+     "url": "https://www.bdg-a-d.com/",
+     "domain": "bdg-a-d.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Best Practice Architecture | Seattle",
+     "url": "https://bestpracticearchitecture.com/",
+     "domain": "bestpracticearchitecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Bialosky | Cleveland",
+     "url": "https://www.bialosky.com/",
+     "domain": "bialosky.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Biasol: Design Studio",
+     "url": "http://www.biasol.com.au/",
+     "domain": "biasol.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "BIG | Bjarke Ingels Group",
+     "url": "http://www.big.dk/",
+     "domain": "big.dk",
+     "group": "Architecture"
+    },
+    {
+     "name": "Blackline Studio",
+     "url": "http://www.blacklinestudio.net/",
+     "domain": "blacklinestudio.net",
+     "group": "Architecture"
+    },
+    {
+     "name": "Boor Bridges Architecture",
+     "url": "http://www.boorbridges.com/",
+     "domain": "boorbridges.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Breathe Architecture",
+     "url": "http://www.breathe.com.au/",
+     "domain": "breathe.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Brooks + Scarpa",
+     "url": "https://brooksscarpa.com/projects",
+     "domain": "brooksscarpa.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Bureaux Limited",
+     "url": "http://bureaux.co.nz/",
+     "domain": "bureaux.co.nz",
+     "group": "Architecture"
+    },
+    {
+     "name": "BÜRO KORAY DUMAN",
+     "url": "https://b-kd.com/",
+     "domain": "b-kd.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Burr | Installation Architecture",
+     "url": "https://burr.studio/",
+     "domain": "burr.studio",
+     "group": "Architecture"
+    },
+    {
+     "name": "Bushman Dreyfus Architects",
+     "url": "https://bdarchitects.com/",
+     "domain": "bdarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "C&P architetti",
+     "url": "http://www.cparchitetti.it/",
+     "domain": "cparchitetti.it",
+     "group": "Architecture"
+    },
+    {
+     "name": "Cass Calder Smith Architecture + Interiors",
+     "url": "https://www.casscaldersmith.com/",
+     "domain": "casscaldersmith.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Cast Studio | Architects Perth",
+     "url": "https://caststudio.com.au/",
+     "domain": "caststudio.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "CCS ARCHITECTURE",
+     "url": "http://ccs-architecture.com/",
+     "domain": "ccs-architecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "CEBRA architecture",
+     "url": "http://cebraarchitecture.dk/",
+     "domain": "cebraarchitecture.dk",
+     "group": "Architecture"
+    },
+    {
+     "name": "Chioco Design",
+     "url": "https://www.chiocodesign.com/",
+     "domain": "chiocodesign.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ciguë",
+     "url": "http://www.cigue.net/",
+     "domain": "cigue.net",
+     "group": "Architecture"
+    },
+    {
+     "name": "Clare Cousins Architects",
+     "url": "https://clarecousins.com.au/",
+     "domain": "clarecousins.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Clive Wilkinson Architects",
+     "url": "http://www.clivewilkinson.com/",
+     "domain": "clivewilkinson.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Coburn Partners",
+     "url": "http://coburnpartners.com/",
+     "domain": "coburnpartners.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "concrete",
+     "url": "http://www.concreteamsterdam.nl/",
+     "domain": "concreteamsterdam.nl",
+     "group": "Architecture"
+    },
+    {
+     "name": "Corsini Stark Architects",
+     "url": "http://corsinistark.com/",
+     "domain": "corsinistark.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "COX Architecture (AUS)",
+     "url": "https://www.coxarchitecture.com.au/",
+     "domain": "coxarchitecture.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Crema Constructions",
+     "url": "http://www.crema.com.au/",
+     "domain": "crema.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Cumulus Studio",
+     "url": "https://cumulus.studio/",
+     "domain": "cumulus.studio",
+     "group": "Architecture"
+    },
+    {
+     "name": "CUT architectures",
+     "url": "http://www.cut-architectures.com/",
+     "domain": "cut-architectures.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "DAAD | Architecture & Interior (Nashville)",
+     "url": "https://www.daad-group.com/",
+     "domain": "daad-group.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "DAPstockholm",
+     "url": "http://dapstockholm.se/",
+     "domain": "dapstockholm.se",
+     "group": "Architecture"
+    },
+    {
+     "name": "de leon & primmer architecture workshop",
+     "url": "http://deleon-primmer.com/",
+     "domain": "deleon-primmer.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "debartolo architects",
+     "url": "https://www.debartoloarchitects.com/",
+     "domain": "debartoloarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Diller Scofidio + Renfro",
+     "url": "https://dsrny.com/",
+     "domain": "dsrny.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "dong-qi Architects",
+     "url": "http://www.dong-qi.net/cover",
+     "domain": "dong-qi.net",
+     "group": "Architecture"
+    },
+    {
+     "name": "Droese Raney Architecture | Retail & Hospitality",
+     "url": "http://droeseraney.com/portfolio/",
+     "domain": "droeseraney.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Dryden Architecture + Design | Nashville, TN",
+     "url": "https://dryden.studio/",
+     "domain": "dryden.studio",
+     "group": "Architecture"
+    },
+    {
+     "name": "DuckBuild Architecture | Melbourne",
+     "url": "http://www.duckbuild.com/",
+     "domain": "duckbuild.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "EDIT! | Prague Architect",
+     "url": "https://editarchitects.com/en/homepage/",
+     "domain": "editarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Eimer Design Architects | Philadelphia PA",
+     "url": "http://www.eimer-design.com/default.asp",
+     "domain": "eimer-design.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "estudio DIIR | (Spain)",
+     "url": "https://www.estudiodiir.com/en",
+     "domain": "estudiodiir.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Ewert Leaf | AUS",
+     "url": "https://www.ewertleaf.com.au/",
+     "domain": "ewertleaf.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "FAM Design",
+     "url": "https://www.design-fam.com/",
+     "domain": "design-fam.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Fearon Hay Architects",
+     "url": "https://www.fearonhay.com/menu",
+     "domain": "fearonhay.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Fernau + Hartman Architects",
+     "url": "https://www.fernauhartman.com/",
+     "domain": "fernauhartman.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Form Us With Love",
+     "url": "http://www.formuswithlove.se/",
+     "domain": "formuswithlove.se",
+     "group": "Architecture"
+    },
+    {
+     "name": "Foster + Partners",
+     "url": "https://www.fosterandpartners.com/",
+     "domain": "fosterandpartners.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "FRAN SILVESTRE ARQUITECTOS",
+     "url": "http://fransilvestrearquitectos.com/proyectos/",
+     "domain": "fransilvestrearquitectos.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "FreelandBuck",
+     "url": "http://www.freelandbuck.com/",
+     "domain": "freelandbuck.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Genesin Studio | AUS",
+     "url": "https://genesin.com.au/",
+     "domain": "genesin.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "GO'C WORKS | Architectural Design (Seattle)",
+     "url": "https://gocstudio.com/works/",
+     "domain": "gocstudio.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "gon-architects",
+     "url": "https://gon-architects.com/",
+     "domain": "gon-architects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Graham Baba Architects | (Seattle)",
+     "url": "http://grahambabaarchitects.com/home",
+     "domain": "grahambabaarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Grimshaw Architects",
+     "url": "https://grimshaw.global/",
+     "domain": "grimshaw.global",
+     "group": "Architecture"
+    },
+    {
+     "name": "Groundswell Design Group",
+     "url": "https://www.groundswelldesigngroup.com/",
+     "domain": "groundswelldesigngroup.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Guy Hollaway Architects",
+     "url": "http://www.guyhollaway.co.uk/",
+     "domain": "guyhollaway.co.uk",
+     "group": "Architecture"
+    },
+    {
+     "name": "Hannah Churchill | hcreates",
+     "url": "http://www.hannahchurchill.com/",
+     "domain": "hannahchurchill.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "HASSELL | Architecture & Design Studio (Australia)",
+     "url": "https://www.hassellstudio.com/en/",
+     "domain": "hassellstudio.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Hub+Weber Architects | Covington, KY",
+     "url": "http://www.hubweber.com/",
+     "domain": "hubweber.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Jasmax",
+     "url": "https://jasmax.com/",
+     "domain": "jasmax.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "JBGA | Jefferson",
+     "url": "https://www.jeffersonarchitects.com/",
+     "domain": "jeffersonarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "JENSEN ARCHITECTS",
+     "url": "http://jensen-architects.com/",
+     "domain": "jensen-architects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "JJ ACUNA / BESPOKE STUDIO",
+     "url": "http://www.jjabespoke.com/",
+     "domain": "jjabespoke.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Jones Haydu | SF Architecture Firm",
+     "url": "https://www.joneshaydu.com/",
+     "domain": "joneshaydu.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "JWA | Architects of smart space (UK)",
+     "url": "http://www.jwa-architects.co.uk/",
+     "domain": "jwa-architects.co.uk",
+     "group": "Architecture"
+    },
+    {
+     "name": "KOKAISTUDIOS",
+     "url": "https://www.kokaistudios.com/en/home",
+     "domain": "kokaistudios.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "KTGY | Architectural Design and Planning Firm",
+     "url": "http://ktgy.com/",
+     "domain": "ktgy.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "LEVY Architects",
+     "url": "https://www.levyarchitects.com/",
+     "domain": "levyarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Lissoni & Partners | (Milan & New York)",
+     "url": "https://www.lissoniandpartners.com/en",
+     "domain": "lissoniandpartners.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "LMSA | Leddy Maytum Stacy Architects",
+     "url": "http://www.lmsarch.com/",
+     "domain": "lmsarch.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "LOKI | Shipping Container Architecture",
+     "url": "https://www.lokiboxdesign.com/",
+     "domain": "lokiboxdesign.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MA",
+     "url": "https://ma.com/",
+     "domain": "ma.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "M+A Architects",
+     "url": "http://www.ma-architects.com/",
+     "domain": "ma-architects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MAGIC ARCHITECTURE | (Austin, TX)",
+     "url": "https://scottmagic.com/",
+     "domain": "scottmagic.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Manuel Zeitlin Architects",
+     "url": "http://mzarch.com/work-selected",
+     "domain": "mzarch.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MarchGut",
+     "url": "http://marchgut.com/",
+     "domain": "marchgut.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Marvel Architects",
+     "url": "http://marvelarchitects.com/",
+     "domain": "marvelarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "McKinney + Windeatt Architects",
+     "url": "http://mwarchitects.co.nz/",
+     "domain": "mwarchitects.co.nz",
+     "group": "Architecture"
+    },
+    {
+     "name": "McLaren.Excell | Architecture & Bespoke Interiors",
+     "url": "https://mclarenexcell.com/",
+     "domain": "mclarenexcell.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Mecanoo",
+     "url": "http://www.mecanoo.nl/",
+     "domain": "mecanoo.nl",
+     "group": "Architecture"
+    },
+    {
+     "name": "Mesura | Partners in Architecture",
+     "url": "http://mesura.eu/work/",
+     "domain": "mesura.eu",
+     "group": "Architecture"
+    },
+    {
+     "name": "Michael Hsu Office of Architecture",
+     "url": "https://hsuoffice.com/",
+     "domain": "hsuoffice.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MICHAEL WENRICH ARCHITECTS",
+     "url": "http://michaelwenrich.com/",
+     "domain": "michaelwenrich.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Michaelis Boyd",
+     "url": "http://michaelisboyd.com/",
+     "domain": "michaelisboyd.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MilK decoration",
+     "url": "http://www.milkdecoration.com/",
+     "domain": "milkdecoration.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "mode:lina",
+     "url": "https://www.modelina-architekci.com/",
+     "domain": "modelina-architekci.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MOKO",
+     "url": "http://www.mokoarchitects.pl/",
+     "domain": "mokoarchitects.pl",
+     "group": "Architecture"
+    },
+    {
+     "name": "Montalba Architects",
+     "url": "http://www.montalbaarchitects.com/",
+     "domain": "montalbaarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MORE Architecture",
+     "url": "https://more-architecture.com/",
+     "domain": "more-architecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Moriyuki Ochiai Architects",
+     "url": "http://www.moriyukiochiai.com/",
+     "domain": "moriyukiochiai.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "MU Architecture (France)",
+     "url": "https://mu-architecture.fr/",
+     "domain": "mu-architecture.fr",
+     "group": "Architecture"
+    },
+    {
+     "name": "MVRDV",
+     "url": "https://www.mvrdv.nl/",
+     "domain": "mvrdv.nl",
+     "group": "Architecture"
+    },
+    {
+     "name": "NOSIGNER",
+     "url": "http://nosigner.com/",
+     "domain": "nosigner.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Note Design Studio",
+     "url": "http://notedesignstudio.se/",
+     "domain": "notedesignstudio.se",
+     "group": "Architecture"
+    },
+    {
+     "name": "Olson Kundig",
+     "url": "http://www.olsonkundig.com/",
+     "domain": "olsonkundig.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "OZ | architecture, urbanism and design research",
+     "url": "https://www.ozarchitect.nl/",
+     "domain": "ozarchitect.nl",
+     "group": "Architecture"
+    },
+    {
+     "name": "PANORAMA Design Group | Hong Kong",
+     "url": "https://panoramahk.com/",
+     "domain": "panoramahk.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Parisotto + Formenton Architects (Italy)",
+     "url": "https://www.studioparisottoeformenton.it/",
+     "domain": "studioparisottoeformenton.it",
+     "group": "Architecture"
+    },
+    {
+     "name": "Park + Associates | Singapore",
+     "url": "https://www.parkassociates.com.sg/",
+     "domain": "parkassociates.com.sg",
+     "group": "Architecture"
+    },
+    {
+     "name": "Penda",
+     "url": "http://www.home-of-penda.com/",
+     "domain": "home-of-penda.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "PLY+ (Ann Arbor)",
+     "url": "https://www.plyplus.com/",
+     "domain": "plyplus.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "PRAXIS3 | architecture + multidisciplinary design",
+     "url": "https://www.praxis3.com/p3/",
+     "domain": "praxis3.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Prevalent | Architecture (AUS)",
+     "url": "https://www.prevalent.archi/",
+     "domain": "prevalent.archi",
+     "group": "Architecture"
+    },
+    {
+     "name": "PUUR",
+     "url": "https://puur.be/",
+     "domain": "puur.be",
+     "group": "Architecture"
+    },
+    {
+     "name": "Rabih Geha Architects",
+     "url": "http://www.rabihgeha.com/",
+     "domain": "rabihgeha.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Raleigh Architecture Co.",
+     "url": "https://www.raleigh-architecture.com/",
+     "domain": "raleigh-architecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Redhead Architects | UK (Hospitality & More)",
+     "url": "https://www.redheadarchitects.com/",
+     "domain": "redheadarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Renesa",
+     "url": "https://studiorenesa.com/",
+     "domain": "studiorenesa.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Ritz & Ghougassian | Interiors & Architecture (AUS)",
+     "url": "http://ritzghougassian.com/",
+     "domain": "ritzghougassian.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "RSP | Design that works.",
+     "url": "https://rsparch.com/",
+     "domain": "rsparch.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "S9",
+     "url": "http://s9architecture.com/",
+     "domain": "s9architecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "SB Architects | Hospitality, Residential",
+     "url": "http://sb-architects.com/",
+     "domain": "sb-architects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Schemata Architects / Jo Nagasaka",
+     "url": "http://schemata.jp/",
+     "domain": "schemata.jp",
+     "group": "Architecture"
+    },
+    {
+     "name": "Seiber Design | Architecture & Interior Design",
+     "url": "http://www.seiberdesign.com/",
+     "domain": "seiberdesign.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "SERGEY MAKHNO",
+     "url": "https://mahno.com.ua/en",
+     "domain": "mahno.com.ua",
+     "group": "Architecture"
+    },
+    {
+     "name": "SHL",
+     "url": "https://www.shl.dk/",
+     "domain": "shl.dk",
+     "group": "Architecture"
+    },
+    {
+     "name": "Sid Lee Architecture | Montreal",
+     "url": "https://sidleearchitecture.com/en",
+     "domain": "sidleearchitecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Sigurd Larsen | Design and Architecture",
+     "url": "http://sigurdlarsen.com/",
+     "domain": "sigurdlarsen.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "SkB Architects",
+     "url": "http://www.skbarchitects.com/",
+     "domain": "skbarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Skylab Architecture",
+     "url": "https://skylabarchitecture.com/",
+     "domain": "skylabarchitecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Snarkitecture",
+     "url": "http://www.snarkitecture.com/",
+     "domain": "snarkitecture.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Snøhetta",
+     "url": "https://snohetta.com/",
+     "domain": "snohetta.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "SOMAA",
+     "url": "https://www.somaa.de/",
+     "domain": "somaa.de",
+     "group": "Architecture"
+    },
+    {
+     "name": "Standard Studio | Amsterdam",
+     "url": "https://standardstudio.nl/",
+     "domain": "standardstudio.nl",
+     "group": "Architecture"
+    },
+    {
+     "name": "Stokes Architecture & Design | Philadelphia",
+     "url": "http://www.stokesarch.com/",
+     "domain": "stokesarch.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio BBA",
+     "url": "https://studio-bba.com/",
+     "domain": "studio-bba.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio O+A",
+     "url": "http://o-plus-a.com/",
+     "domain": "o-plus-a.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio Weave | UK",
+     "url": "https://www.studioweave.com/",
+     "domain": "studioweave.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio Y. | AUS",
+     "url": "https://studioy.com.au/",
+     "domain": "studioy.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "studioHA | TX Boutique (Residential & Commercial)",
+     "url": "https://www.studioha.com/",
+     "domain": "studioha.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "T-A SQUARE | Architecture & Interior Design Studio (AUS)",
+     "url": "https://www.tasquare.com/",
+     "domain": "tasquare.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "tacklebox architecture",
+     "url": "http://www.tacklebox-ny.com/",
+     "domain": "tacklebox-ny.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Therefore Studio | AUS",
+     "url": "http://www.thereforestudio.com.au/",
+     "domain": "thereforestudio.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Tigg Coll Architects",
+     "url": "https://www.tiggcollarchitects.com/",
+     "domain": "tiggcollarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Tjep | Office for contemporary design",
+     "url": "https://tjep.com/",
+     "domain": "tjep.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "TORAFU ARCHITECTS | Japan",
+     "url": "http://torafu.com/",
+     "domain": "torafu.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Trachtenberg Architects",
+     "url": "https://trachtenbergarch.com/",
+     "domain": "trachtenbergarch.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Universal Design Studio",
+     "url": "http://www.universaldesignstudio.com/",
+     "domain": "universaldesignstudio.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "URBANUS | (China)",
+     "url": "http://www.urbanus.com.cn/profile/?lang=en",
+     "domain": "urbanus.com.cn",
+     "group": "Architecture"
+    },
+    {
+     "name": "Walter Brooke | Adelaide Architects",
+     "url": "https://walterbrooke.com.au/",
+     "domain": "walterbrooke.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Wescover",
+     "url": "https://www.wescover.com/",
+     "domain": "wescover.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Woods Bagot | Global Studio",
+     "url": "http://www.woodsbagot.com/",
+     "domain": "woodsbagot.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "WORKac | Work Architecture Company",
+     "url": "http://work.ac/",
+     "domain": "work.ac",
+     "group": "Architecture"
+    },
+    {
+     "name": "World-Architects | Profiles of Selected Architects",
+     "url": "https://www.world-architects.com/en",
+     "domain": "world-architects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "WOWOWA | Architects & Interior Designers (Melbourne, AUS)",
+     "url": "http://www.wowowa.com.au/",
+     "domain": "wowowa.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "wulf architekten | (Germany)",
+     "url": "https://www.wulfarchitekten.com/",
+     "domain": "wulfarchitekten.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "XL Muse (X+ Living) | Over-the-top Design (China)",
+     "url": "https://www.xl-muse.com/index.html",
+     "domain": "xl-muse.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "YokYok Workshop",
+     "url": "https://www.atelieryokyok.com/",
+     "domain": "atelieryokyok.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ZGF",
+     "url": "https://www.zgf.com/",
+     "domain": "zgf.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Ziger/Snead Architects",
+     "url": "http://www.zigersnead.com/",
+     "domain": "zigersnead.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Clayton Korte",
+     "url": "https://claytonkorte.com/work/",
+     "domain": "claytonkorte.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ZPZ Partners",
+     "url": "https://www.zpzpartners.com/",
+     "domain": "zpzpartners.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Hawkins\\Brown",
+     "url": "https://www.hawkinsbrown.com/",
+     "domain": "hawkinsbrown.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Make Architects",
+     "url": "https://www.makearchitects.com/",
+     "domain": "makearchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Trehearne Architects",
+     "url": "https://www.trehearne.co.uk/",
+     "domain": "trehearne.co.uk",
+     "group": "Architecture"
+    },
+    {
+     "name": "MARIAGROUP | Architects & Designers",
+     "url": "https://www.mariagroup.com/",
+     "domain": "mariagroup.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Sissons | (AUS)",
+     "url": "https://sissons.com.au/",
+     "domain": "sissons.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio David Thulstrup | Architect & Designer",
+     "url": "https://studiodavidthulstrup.com/",
+     "domain": "studiodavidthulstrup.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Kahler Slater",
+     "url": "https://www.kahlerslater.com/",
+     "domain": "kahlerslater.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Kilogram Studio",
+     "url": "https://www.kilogramstudio.ca/",
+     "domain": "kilogramstudio.ca",
+     "group": "Architecture"
+    },
+    {
+     "name": "STUDIOS Architecture",
+     "url": "https://studios.com/index.html",
+     "domain": "studios.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Freecell Architecture | NYC",
+     "url": "https://www.frcll.com/",
+     "domain": "frcll.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Healthcare Snapshots | Worldwide Healthcare Design",
+     "url": "https://healthcaresnapshots.com/",
+     "domain": "healthcaresnapshots.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "raul sanchez architects",
+     "url": "https://raulsanchezarchitects.com/WORKS",
+     "domain": "raulsanchezarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Brand Twenty Two | (Automotive)",
+     "url": "https://www.brandtwentytwo.com/",
+     "domain": "brandtwentytwo.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Populous | Stadiums, Arenas, Events",
+     "url": "https://populous.com/",
+     "domain": "populous.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "B² Architecture | (Czech Republic)",
+     "url": "https://b2architecture.eu/",
+     "domain": "b2architecture.eu",
+     "group": "Architecture"
+    },
+    {
+     "name": "AUM | Pierre Minassian (Lyon, Paris)",
+     "url": "https://www.aum.fr/",
+     "domain": "aum.fr",
+     "group": "Architecture"
+    },
+    {
+     "name": "IA Interior Architects | (Canada)",
+     "url": "https://interiorarchitects.com/",
+     "domain": "interiorarchitects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Alexander & CO. | (AUS)",
+     "url": "https://alexanderand.co/",
+     "domain": "alexanderand.co",
+     "group": "Architecture"
+    },
+    {
+     "name": "DKO | Architecture, Interior Design, Urban Design (AUS)",
+     "url": "https://dko.com.au/",
+     "domain": "dko.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "no.10 | Architecture + Design (Japan)",
+     "url": "https://www.no-10.jp/",
+     "domain": "no-10.jp",
+     "group": "Architecture"
+    },
+    {
+     "name": "LOCAL | Architecture & Urbanism",
+     "url": "https://locallll.com/",
+     "domain": "locallll.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "PIR2",
+     "url": "https://pir2.no/",
+     "domain": "pir2.no",
+     "group": "Architecture"
+    },
+    {
+     "name": "Akin Atelier",
+     "url": "https://akinatelier.com/",
+     "domain": "akinatelier.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio Aisslinger",
+     "url": "https://aisslinger.de/",
+     "domain": "aisslinger.de",
+     "group": "Architecture"
+    },
+    {
+     "name": "100architects | Global Placemaking (Super Colorful)",
+     "url": "https://100architects.com/",
+     "domain": "100architects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Mallol | (Panama)",
+     "url": "https://mallolarquitectos.com/",
+     "domain": "mallolarquitectos.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Grimm + Parker Architecture",
+     "url": "https://www.grimmandparker.com/",
+     "domain": "grimmandparker.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ARCTURIS",
+     "url": "https://www.arcturis.com/",
+     "domain": "arcturis.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "WXY",
+     "url": "https://www.wxystudio.com/",
+     "domain": "wxystudio.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "El Equipo Creativo | Interior Architecture and Design Studio",
+     "url": "https://www.elequipocreativo.com/",
+     "domain": "elequipocreativo.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio Plenty",
+     "url": "https://www.studioplenty.com.au/",
+     "domain": "studioplenty.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "Heatherwick Studio",
+     "url": "https://heatherwick.com/",
+     "domain": "heatherwick.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "S-P-A-C-E Projects",
+     "url": "https://www.s-p-a-c-e.org/",
+     "domain": "s-p-a-c-e.org",
+     "group": "Architecture"
+    },
+    {
+     "name": "Studio BANAA | Architecture & Interiors, San Francisco",
+     "url": "https://www.studiobanaa.com/",
+     "domain": "studiobanaa.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Atelier Cho Thompson",
+     "url": "https://www.chothompson.com/",
+     "domain": "chothompson.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Boor Projects | Collaborative Architectural Design",
+     "url": "https://boorprojects.com/",
+     "domain": "boorprojects.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Wutopia Lab",
+     "url": "https://www.wutopialab.com/index.aspx",
+     "domain": "wutopialab.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ODAMI | (Toronto)",
+     "url": "https://www.odami.ca/",
+     "domain": "odami.ca",
+     "group": "Architecture"
+    },
+    {
+     "name": "Team B Architecture & Design | (Cincinnati)",
+     "url": "https://www.team-b.co/",
+     "domain": "team-b.co",
+     "group": "Architecture"
+    }
+   ]
+  },
+  {
+   "id": "editorial",
+   "label": "Editorial",
+   "sites": [
+    {
+     "name": "Dezeen",
+     "url": "https://www.dezeen.com/",
+     "domain": "dezeen.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Indesignlive | Australian Architecture and Design",
+     "url": "https://www.indesignlive.com/",
+     "domain": "indesignlive.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "ArchDaily",
+     "url": "https://www.archdaily.com/",
+     "domain": "archdaily.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Architecture AU",
+     "url": "https://architectureau.com/",
+     "domain": "architectureau.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Azure Magazine",
+     "url": "https://www.azuremagazine.com/",
+     "domain": "azuremagazine.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "Archello",
+     "url": "https://archello.com/",
+     "domain": "archello.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "The Local Project | Australia and New Zealand",
+     "url": "https://thelocalproject.com.au/",
+     "domain": "thelocalproject.com.au",
+     "group": "Architecture"
+    },
+    {
+     "name": "GOOOOD.CN | Chinese Architectural Editorial",
+     "url": "https://www.gooood.cn/",
+     "domain": "gooood.cn",
+     "group": "Architecture"
+    },
+    {
+     "name": "Metropolis Magazine",
+     "url": "https://metropolismag.com/",
+     "domain": "metropolismag.com",
+     "group": "Architecture"
+    },
+    {
+     "name": "TECTURE MAG | Spatial Design & Architecture Media (Japan)",
+     "url": "https://mag.tecture.jp/",
+     "domain": "mag.tecture.jp",
+     "group": "Architecture"
+    },
+    {
+     "name": "Home of Architecture | NZ",
+     "url": "https://homeofarchitecture.co.nz/",
+     "domain": "homeofarchitecture.co.nz",
+     "group": "Architecture"
+    },
+    {
+     "name": "QSR Magazine",
+     "url": "https://www.qsrmagazine.com/",
+     "domain": "qsrmagazine.com",
+     "group": "Restaurant"
+    },
+    {
+     "name": "rd+d | Restaurant Development + Design",
+     "url": "https://rddmag.com/",
+     "domain": "rddmag.com",
+     "group": "Restaurant"
+    },
+    {
+     "name": "Restaurant Business Magazine",
+     "url": "https://www.restaurantbusinessonline.com/",
+     "domain": "restaurantbusinessonline.com",
+     "group": "Restaurant"
+    },
+    {
+     "name": "Chain Store Age",
+     "url": "https://chainstoreage.com/",
+     "domain": "chainstoreage.com",
+     "group": "Retail"
+    },
+    {
+     "name": "VMSD | Visual Merchandising Store Design",
+     "url": "https://vmsd.com/",
+     "domain": "vmsd.com",
+     "group": "Retail"
+    },
+    {
+     "name": "RetailWire",
+     "url": "https://retailwire.com/",
+     "domain": "retailwire.com",
+     "group": "Retail"
+    },
+    {
+     "name": "Retail TouchPoints",
+     "url": "https://www.retailtouchpoints.com/",
+     "domain": "retailtouchpoints.com",
+     "group": "Retail"
+    },
+    {
+     "name": "Retail Design Blog",
+     "url": "https://retaildesignblog.net/",
+     "domain": "retaildesignblog.net",
+     "group": "Retail"
+    },
+    {
+     "name": "Luxury Retail Magazine",
+     "url": "https://luxuryretail.co.uk/",
+     "domain": "luxuryretail.co.uk",
+     "group": "Retail"
+    },
+    {
+     "name": "Drapers",
+     "url": "https://www.drapersonline.com/",
+     "domain": "drapersonline.com",
+     "group": "Retail"
+    },
+    {
+     "name": "NRF | National Retail Federation",
+     "url": "https://nrf.com/",
+     "domain": "nrf.com",
+     "group": "Retail"
+    },
+    {
+     "name": "Retail Focus Magazine",
+     "url": "https://retail-focus.co.uk/",
+     "domain": "retail-focus.co.uk",
+     "group": "Retail"
+    },
+    {
+     "name": "Retail Dive",
+     "url": "https://www.retaildive.com/",
+     "domain": "retaildive.com",
+     "group": "Retail"
+    },
+    {
+     "name": "Shop Drop Daily",
+     "url": "http://shopdropdaily.com/",
+     "domain": "shopdropdaily.com",
+     "group": "Retail"
+    },
+    {
+     "name": "We-Heart",
+     "url": "https://www.we-heart.com/",
+     "domain": "we-heart.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "Design Milk",
+     "url": "https://design-milk.com/",
+     "domain": "design-milk.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "Softer Volumes",
+     "url": "https://softervolumes.com/",
+     "domain": "softervolumes.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "Yellowtrace",
+     "url": "https://www.yellowtrace.com.au/",
+     "domain": "yellowtrace.com.au",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "KNSTRCT",
+     "url": "http://www.knstrct.com/home",
+     "domain": "knstrct.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "urdesignmag",
+     "url": "https://www.urdesignmag.com/",
+     "domain": "urdesignmag.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "NUVO",
+     "url": "https://nuvomagazine.com/",
+     "domain": "nuvomagazine.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "designboom",
+     "url": "https://www.designboom.com/",
+     "domain": "designboom.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "Sight Unseen",
+     "url": "https://www.sightunseen.com/",
+     "domain": "sightunseen.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "Hypebeast",
+     "url": "https://hypebeast.com/",
+     "domain": "hypebeast.com",
+     "group": "Design Lifestyle"
+    },
+    {
+     "name": "ADWEEK",
+     "url": "https://www.adweek.com/",
+     "domain": "adweek.com",
+     "group": "Graphics & Branding"
+    },
+    {
+     "name": "The Branding Journal",
+     "url": "https://www.thebrandingjournal.com/",
+     "domain": "thebrandingjournal.com",
+     "group": "Graphics & Branding"
+    },
+    {
+     "name": "GDUSA | Graphic Design USA",
+     "url": "https://gdusa.com/",
+     "domain": "gdusa.com",
+     "group": "Graphics & Branding"
+    },
+    {
+     "name": "DIELINE | Packaging",
+     "url": "https://thedieline.com/",
+     "domain": "thedieline.com",
+     "group": "Graphics & Branding"
+    },
+    {
+     "name": "Lovely Package",
+     "url": "https://lovelypackage.com/",
+     "domain": "lovelypackage.com",
+     "group": "Graphics & Branding"
+    },
+    {
+     "name": "Design Assembly | NZ Graphic Design",
+     "url": "https://designassembly.org.nz/",
+     "domain": "designassembly.org.nz",
+     "group": "Graphics & Branding"
+    },
+    {
+     "name": "est living",
+     "url": "https://estliving.com/",
+     "domain": "estliving.com",
+     "group": "General"
+    },
+    {
+     "name": "Love That Design",
+     "url": "https://www.lovethatdesign.com/",
+     "domain": "lovethatdesign.com",
+     "group": "General"
+    },
+    {
+     "name": "Pendulum Magazine",
+     "url": "https://www.pendulummag.com/main/",
+     "domain": "pendulummag.com",
+     "group": "General"
+    }
+   ]
+  }
+ ]
+}
