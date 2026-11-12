@@ -43,7 +43,7 @@ const PER_SITE = 120;   // images per site published to the website
   const status = {};
   for (const [d, s] of Object.entries(db.sites)) {
     const pr = s.projects || {};
-    status[d] = [s.images.length, s.ok ? 1 : 0, s.error || '', s.fetchedAt || 0, pr.visited || 0, pr.remaining || 0];
+    status[d] = [s.images.length, s.ok ? 1 : 0, s.error || '', s.fetchedAt || 0, pr.visited || 0, pr.remaining || 0, s.issue || '', s.movedTo || ''];
   }
   const tabFiles = {};
   for (const t of sources.tabs) {

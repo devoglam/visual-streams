@@ -14,7 +14,22 @@ const path = require('path');
 const DATA = path.join(__dirname, 'data');
 const IMAGES_FILE = path.join(DATA, 'images.json');
 
-const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 VisualStreams/2.0';
+const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36';
+// the headers a desktop Chrome sends when you open a page
+const BROWSER_HEADERS = {
+  'user-agent': UA,
+  'accept-language': 'en-US,en;q=0.9',
+  'cache-control': 'no-cache',
+  'pragma': 'no-cache',
+  'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"macOS"',
+  'sec-fetch-dest': 'document',
+  'sec-fetch-mode': 'navigate',
+  'sec-fetch-site': 'none',
+  'sec-fetch-user': '?1',
+  'upgrade-insecure-requests': '1',
+};
 const TIMEOUT_MS = 15000;
 const MAX_IMAGES_PER_SITE = 300;     // kept in history per site
 const NEW_PROJECTS_PER_RUN = +(process.env.NEW_PROJECTS_PER_RUN || 12);
@@ -42,12 +57,57 @@ async function get(url, accept = 'text/html,application/xhtml+xml,application/xm
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
   try {
-    const res = await fetch(url, { headers: { 'user-agent': UA, accept, 'accept-language': 'en' }, redirect: 'follow', signal: ctrl.signal });
-    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const res = await fetch(url, { headers: { ...BROWSER_HEADERS, accept }, redirect: 'follow', signal: ctrl.signal });
+    if (!res.ok) { const e = new Error('HTTP ' + res.status); e.status = res.status; throw e; }
     const text = await res.text();
     return { text: text.slice(0, 3_000_000), finalUrl: res.url || url, type: res.headers.get('content-type') || '' };
   } finally { clearTimeout(t); }
 }
+
+// what kind of problem an error is
+function classify(e) {
+  const st = e && e.status;
+  if (st === 404 || st === 410) return 'moved';
+  if (st === 401 || st === 403 || st === 429 || st === 503 || (st >= 520 && st <= 530)) return 'blocked';
+  return 'unreachable';
+}
+function errText(e) {
+  if (e && e.status) return 'HTTP ' + e.status;
+  const c = e && e.cause && (e.cause.code || e.cause.message);
+  if (e && e.name === 'AbortError') return 'timed out';
+  return c ? String(c) : String((e && e.message) || e);
+}
+// other addresses the same site may answer on
+function variants(url) {
+  const out = [url];
+  let u; try { u = new URL(url); } catch { return out; }
+  const root = `${u.protocol}//${u.host}/`;
+  const host = u.host;
+  const other = host.startsWith('www.') ? host.slice(4) : 'www.' + host;
+  const flip = u.protocol === 'https:' ? 'http:' : 'https:';
+  out.push(root, `${u.protocol}//${other}/`, `${flip}//${host}/`, `${flip}//${other}/`);
+  return [...new Set(out)];
+}
+// load the homepage, falling back to other addresses when the saved link is broken
+async function fetchHome(url) {
+  let first = null, blocked = null;
+  for (const v of variants(url)) {
+    try {
+      const r = await get(v);
+      if (/<title>\s*(Just a moment|Attention Required|Access denied)/i.test(r.text) || /cf-browser-verification|challenge-platform/i.test(r.text.slice(0, 5000)) && r.text.length < 30000) {
+        const e = new Error('HTTP 403'); e.status = 403; throw e;   // a bot-check page, not the real site
+      }
+      return { r, via: v, firstError: first };
+    } catch (e) {
+      if (!first) first = e;
+      if (!blocked && classify(e) === 'blocked') blocked = e;
+      // a site that is blocking us won't unblock on another address — stop early
+      if (classify(e) === 'blocked' && classify(first) === 'blocked' && v !== url) break;
+    }
+  }
+  throw blocked || first;
+}
+const FEED_PATHS = ['/feed/', '/rss', '/feed.xml', '/rss.xml', '/index.xml', '/?format=rss', '/blog?format=rss'];
 
 const decode = s => s
   .replace(/&amp;/g, '&').replace(/&#0?38;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;|&apos;|&#8217;|&rsquo;/g, "'")
@@ -263,7 +323,28 @@ async function crawlSite(site, prev = {}) {
     }
   };
 
-  const home = await get(site.url);
+  let home, via, movedTo = null;
+  try {
+    const got = await fetchHome(site.url);
+    home = got.r; via = got.via;
+    const was = hostOf(site.url), now2 = hostOf(home.finalUrl);
+    // the saved link failed but another address worked, or the site now lives on a new domain
+    if (got.firstError || (was && now2 && was !== now2)) movedTo = home.finalUrl;
+  } catch (e) {
+    // blocked homepage: many sites still serve their news feed
+    if (classify(e) === 'blocked') {
+      const origin = new URL(site.url).origin;
+      for (const pth of FEED_PATHS) {
+        try {
+          const r = await get(origin + pth, 'application/rss+xml,application/atom+xml,application/xml,text/xml;q=0.9,*/*;q=0.8');
+          if (!/<(rss|feed|channel)\b/i.test(r.text.slice(0, 2000))) continue;
+          push(extractFromFeed(r.text, r.finalUrl), origin + '/');
+          if (images.length) return { images, visited, projects: prev.projects || {}, furniture: new Set(), via: 'feed', movedTo: null };
+        } catch {}
+      }
+    }
+    throw e;
+  }
   const base = home.finalUrl;
   const origin = new URL(base).origin;
   const host = hostOf(base);
@@ -329,6 +410,8 @@ async function crawlSite(site, prev = {}) {
     visited,
     projects: { found: candidates.size, visited: Object.keys(visited).length, remaining: [...candidates.entries()].filter(([k, c]) => !visited[k] && allowed(c.url, robots)).length },
     furniture,
+    via: via === site.url ? 'home' : 'fallback',
+    movedTo,
   };
 }
 
@@ -383,9 +466,9 @@ async function crawl(sources, { only = null, staleHours = 0 } = {}) {
             if (!have.has(k) && !r.furniture.has(k)) { fresh.push(old); have.add(k); }
           }
           fresh.sort((a, b) => (b.firstSeen || 0) - (a.firstSeen || 0));
-          db.sites[site.domain] = { fetchedAt: now, ok: true, error: null, visited: r.visited, projects: r.projects, images: fresh.slice(0, MAX_IMAGES_PER_SITE) };
+          db.sites[site.domain] = { fetchedAt: now, ok: true, error: null, issue: r.via === 'feed' ? 'feed-only' : null, movedTo: r.movedTo, visited: r.visited, projects: r.projects, images: fresh.slice(0, MAX_IMAGES_PER_SITE) };
         } catch (e) {
-          db.sites[site.domain] = { ...prev, fetchedAt: Date.now(), ok: false, error: String(e.message || e).slice(0, 120) };
+          db.sites[site.domain] = { ...prev, fetchedAt: Date.now(), ok: false, error: errText(e).slice(0, 120), issue: classify(e), movedTo: null };
         }
         progress.current = progress.current.filter(d => d !== site.domain);
         progress.done++;
@@ -400,7 +483,7 @@ async function crawl(sources, { only = null, staleHours = 0 } = {}) {
   return running;
 }
 
-module.exports = { crawl, crawlSite, progress, loadImages, extractFromHtml, extractFromFeed, isProjectUrl };
+module.exports = { crawl, crawlSite, variants, classify, progress, loadImages, extractFromHtml, extractFromFeed, isProjectUrl };
 
 if (require.main === module) {
   const sources = JSON.parse(fs.readFileSync(path.join(DATA, 'sources.json'), 'utf8'));

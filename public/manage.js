@@ -3,6 +3,7 @@ const $ = s => document.querySelector(s);
 let data = { tabs: [] }, stats = {}, progress = {};
 let sel = new URLSearchParams(location.search).get('tab') || null;
 let filter = '';
+let sortBy = (() => { try { return localStorage.getItem('vs-sort') || 'status'; } catch { return 'status'; } })();
 
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const domainOf = u => { try { return new URL(/^https?:/i.test(u) ? u : 'https://' + u).host.toLowerCase().replace(/^www\./, ''); } catch { return null; } };
@@ -39,8 +40,8 @@ async function load() {
   if (draft && canon(draft) === published) clearDraft();
   data = draft && canon(draft) !== published ? draft : JSON.parse(published);
   stats = {};
-  for (const [d, [n, ok, error, at, proj, left]] of Object.entries(DATA.status || {})) stats[d] = { n, ok: !!ok, error, at, proj: proj || 0, left: left || 0 };
-  if (!sel || !data.tabs.find(t => t.id === sel)) sel = data.tabs[0]?.id;
+  for (const [d, [n, ok, error, at, proj, left, issue, movedTo]] of Object.entries(DATA.status || {})) stats[d] = { n, ok: !!ok, error, at, proj: proj || 0, left: left || 0, issue: issue || '', movedTo: movedTo || '' };
+  if (!sel || (sel !== ATTN && sel !== ALL && !data.tabs.find(t => t.id === sel))) sel = data.tabs[0]?.id;
   render(); renderCrawl();
 }
 
@@ -90,8 +91,89 @@ async function publish() {
 
 function render() { renderTabs(); renderMain(); }
 
+// ---------- site health ----------
+const ATTN = '__attention', ALL = '__all';
+const STATUS_RANK = { blocked: 0, unreachable: 1, notfound: 2, newaddr: 3, noimages: 4, new: 5, ok: 6 };
+const STATUS_NAME = { blocked: 'Blocked', unreachable: 'Not responding', notfound: 'Not found', newaddr: 'New address', noimages: 'No images', new: 'Not checked yet', ok: 'Working' };
+const sameAddress = (a, b) => String(a || '').replace(/^https?:\/\/(www\.)?/, '').replace(/\/+$/, '') === String(b || '').replace(/^https?:\/\/(www\.)?/, '').replace(/\/+$/, '');
+function health(s) {
+  const st = stats[s.domain];
+  if (!st) return { kind: 'new', dot: 'n', label: 'Checked on the next update' };
+  if (st.ok && st.movedTo && !sameAddress(st.movedTo, s.url)) return { kind: 'newaddr', dot: st.n ? 'g' : 'y', label: `Your link didn’t work, but the site answered at ${st.movedTo}` };
+  if (st.ok && st.issue === 'feed-only') return { kind: 'ok', dot: 'g', label: 'The site blocks automated visits, so images come from its news feed' };
+  if (st.ok) return st.n ? { kind: 'ok', dot: 'g', label: `${st.n} images` } : { kind: 'noimages', dot: 'y', label: 'Site reached, but no images could be read' };
+  if (st.issue === 'blocked') return { kind: 'blocked', dot: 'r', label: `The site turns away automated visits (${st.error})` };
+  if (st.issue === 'moved') return { kind: 'notfound', dot: 'r', label: `Page not found (${st.error}), and the homepage didn’t work either` };
+  return { kind: 'unreachable', dot: 'r', label: `Not responding (${st.error}). The studio may have closed or moved` };
+}
+const ATTN_GROUPS = [
+  ['newaddr', 'New address found', 'Your saved link no longer works, but the site answered at another address. Switch to it so the link stays healthy.'],
+  ['notfound', 'Page not found', 'The saved link and the homepage both failed. Check the studio’s current website, then edit the link or remove it.'],
+  ['unreachable', 'Not responding', 'Nothing answered at this address. The studio may have closed or changed its web address.'],
+  ['blocked', 'Blocked by the site', 'These sites turn away automated visitors, so the daily update can’t read them. Nothing is wrong with the link.'],
+  ['noimages', 'No images found', 'The site loaded, but its images are added by scripts the app can’t read.'],
+];
+function allSitesWithTab() { return data.tabs.flatMap(t => t.sites.map(s => ({ t, s }))); }
+function attentionCount() { return allSitesWithTab().filter(({ s }) => ATTN_GROUPS.some(g => g[0] === health(s).kind)).length; }
+
+function editLink(t, s) {
+  const v = prompt(`New web address for ${short(s.name)}:`, s.url);
+  if (!v || v.trim() === s.url) return;
+  setLink(t, s, v.trim());
+}
+function setLink(t, s, url) {
+  if (!/^https?:/i.test(url)) url = 'https://' + url;
+  const d = domainOf(url);
+  if (!d) { toast('That doesn’t look like a web address'); return; }
+  const w = where(d);
+  if (w && w.s !== s) { toast(`${short(w.s.name)} in ${w.t.label} already uses that address`); return; }
+  s.url = url.split('#')[0]; s.domain = d;
+  save(`Updated ${short(s.name)}`);
+}
+
+function renderAttention() {
+  const main = $('#main');
+  const items = allSitesWithTab().map(x => ({ ...x, h: health(x.s) }));
+  const total = items.filter(x => ATTN_GROUPS.some(g => g[0] === x.h.kind)).length;
+  main.innerHTML = `<div class="head"><div class="title"><h1>Needs attention</h1><div class="muted">${total} of ${items.length} sites need a look. Changes here are saved like any other edit; publish when you’re done.</div></div></div>`;
+  for (const [kind, title, help] of ATTN_GROUPS) {
+    const list = items.filter(x => x.h.kind === kind);
+    if (!list.length) continue;
+    const panel = document.createElement('div');
+    panel.className = 'panel'; panel.style.marginBottom = '18px';
+    panel.innerHTML = `<div class="toolbar" style="display:block"><b style="font-size:14px">${title} <span class="muted">${list.length}</span></b><div class="muted" style="margin-top:3px">${help}</div></div>
+      <table style="table-layout:fixed"><colgroup><col style="width:46%"><col style="width:22%"><col></colgroup><tbody></tbody></table>`;
+    const tb = panel.querySelector('tbody');
+    for (const { t, s, h } of list) {
+      const st = stats[s.domain];
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td class="site"><b>${esc(short(s.name))}</b><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.url.replace(/^https?:\/\//, ''))}</a>
+          ${kind === 'newaddr' ? `<div class="muted" style="font-size:12px">Works at <a href="${esc(st.movedTo)}" target="_blank" rel="noopener" style="color:var(--ink)">${esc(st.movedTo.replace(/^https?:\/\//, ''))}</a></div>` : ''}</td>
+        <td class="muted" style="font-size:12.5px">${esc(t.label)}</td>
+        <td style="text-align:right;white-space:nowrap">
+          ${kind === 'newaddr' ? '<button class="btn" data-a="use" style="padding:5px 12px">Use new address</button>' : ''}
+          ${kind !== 'blocked' ? '<button class="rowbtn" data-a="edit">Edit link</button>' : ''}
+          <button class="rowbtn" data-a="remove">Remove</button>
+        </td>`;
+      const use = tr.querySelector('[data-a=use]'); if (use) use.onclick = () => setLink(t, s, st.movedTo);
+      const ed = tr.querySelector('[data-a=edit]'); if (ed) ed.onclick = () => editLink(t, s);
+      tr.querySelector('[data-a=remove]').onclick = () => { t.sites = t.sites.filter(x => x !== s); save(`Removed ${short(s.name)}`); };
+      tb.append(tr);
+    }
+    main.append(panel);
+  }
+  if (!total) main.insertAdjacentHTML('beforeend', '<p class="muted">Everything is working.</p>');
+}
+
 function renderTabs() {
   const ul = $('#tlist'); ul.innerHTML = '';
+  const allLi = document.createElement('li');
+  allLi.style.cssText = 'border-bottom:1px solid var(--line);margin-bottom:6px;padding-bottom:6px';
+  if (sel === ALL) allLi.className = 'sel';
+  allLi.innerHTML = `<button class="name">All sources <span>${data.tabs.reduce((a, t) => a + t.sites.length, 0)}</span></button>`;
+  allLi.querySelector('button').onclick = () => { sel = ALL; filter = ''; history.replaceState(null, '', '?tab=' + ALL); render(); };
+  ul.append(allLi);
   data.tabs.forEach((t, i) => {
     const li = document.createElement('li');
     if (t.id === sel) li.className = 'sel';
@@ -104,6 +186,13 @@ function renderTabs() {
     down.onclick = () => { if (i < data.tabs.length - 1) { [data.tabs[i + 1], data.tabs[i]] = [data.tabs[i], data.tabs[i + 1]]; save('Tab order saved'); } };
     ul.append(li);
   });
+  const n = attentionCount();
+  const li = document.createElement('li');
+  li.style.cssText = 'border-top:1px solid var(--line);margin-top:6px;padding-top:6px';
+  if (sel === ATTN) li.className = 'sel';
+  li.innerHTML = `<button class="name">Needs attention <span>${n}</span></button>`;
+  li.querySelector('button').onclick = () => { sel = ATTN; history.replaceState(null, '', '?tab=' + ATTN); render(); };
+  ul.append(li);
 }
 
 $('#addTab').onsubmit = e => {
@@ -137,6 +226,8 @@ function parseLinks(text) {
 }
 
 function renderMain() {
+  if (sel === ATTN) return renderAttention();
+  if (sel === ALL) return renderAll();
   const t = data.tabs.find(t => t.id === sel);
   const main = $('#main');
   if (!t) { main.innerHTML = '<p class="muted">Add a tab to get started.</p>'; return; }
@@ -164,7 +255,8 @@ function renderMain() {
     <div class="panel">
       <div class="toolbar">
         <input id="search" placeholder="Search ${t.sites.length} sites" value="${esc(filter)}">
-        <span class="muted"><span class="dot g"></span>images found <span class="dot y" style="margin-left:8px"></span>none found <span class="dot r" style="margin-left:8px"></span>unreachable</span>
+        ${sortControl(false)}
+        <span class="muted"><span class="dot g"></span>images found <span class="dot y" style="margin-left:8px"></span>none found <span class="dot r" style="margin-left:8px"></span>not working · hover a dot for details</span>
       </div>
       <table><thead><tr><th>Site</th><th>Images</th><th>Group</th><th>Move to</th><th></th></tr></thead><tbody id="rows"></tbody></table>
     </div>`;
@@ -174,7 +266,8 @@ function renderMain() {
     if (!confirm(`Delete the “${t.label}” tab and its ${t.sites.length} sites?`)) return;
     data.tabs = data.tabs.filter(x => x !== t); sel = data.tabs[0]?.id; save('Tab deleted');
   };
-  $('#search').oninput = e => { filter = e.target.value; renderRows(t); };
+  $('#search').oninput = e => { filter = e.target.value; renderRows(t.sites.map(s => ({ t, s })), t); };
+  $('#sort').onchange = e => { sortBy = e.target.value; try { localStorage.setItem('vs-sort', sortBy); } catch {} renderRows(t.sites.map(s => ({ t, s })), t); };
   $('#addBtn').onclick = () => {
     const found = parseLinks($('#paste').value);
     const group = $('#addGroup').value.trim();
@@ -192,38 +285,84 @@ function renderMain() {
     note.textContent = `Added ${added}.` + (dupes.length ? ` Skipped ${dupes.length} already in your sources: ${dupes.slice(0, 6).join(', ')}${dupes.length > 6 ? '…' : ''}` : '');
     if (added) { $('#paste').value = ''; save(`Added ${added} site${added > 1 ? 's' : ''}`).then(() => { const n = $('#addNote'); if (n) { n.className = note.className; n.textContent = note.textContent; } }); }
   };
-  renderRows(t);
+  renderRows(t.sites.map(s => ({ t, s })), t);
 }
 
-function renderRows(t) {
+function sortControl(withTab) {
+  const opts = [['status', 'Status: problems first'], ['status-ok', 'Status: working first'], ['name', 'Name A–Z'], ['images', 'Most images'], ...(withTab ? [['tab', 'Tab']] : [])];
+  if (!withTab && sortBy === 'tab') sortBy = 'status';
+  return `<label class="muted" style="display:flex;gap:6px;align-items:center;font-size:12.5px">Sort <select id="sort">${opts.map(([v, l]) => `<option value="${v}"${v === sortBy ? ' selected' : ''}>${l}</option>`).join('')}</select></label>`;
+}
+function sortEntries(list) {
+  const nm = x => short(x.s.name).toLowerCase();
+  const rank = x => STATUS_RANK[health(x.s).kind] ?? 9;
+  const n = x => (stats[x.s.domain] || {}).n || 0;
+  const by = {
+    status: (a, b) => rank(a) - rank(b) || nm(a).localeCompare(nm(b)),
+    'status-ok': (a, b) => rank(b) - rank(a) || n(b) - n(a) || nm(a).localeCompare(nm(b)),
+    name: (a, b) => nm(a).localeCompare(nm(b)),
+    images: (a, b) => n(b) - n(a) || nm(a).localeCompare(nm(b)),
+    tab: (a, b) => data.tabs.indexOf(a.t) - data.tabs.indexOf(b.t) || nm(a).localeCompare(nm(b)),
+  }[sortBy] || (() => 0);
+  return [...list].sort(by);
+}
+
+function renderAll() {
+  const main = $('#main');
+  const entries = data.tabs.flatMap(t => t.sites.map(s => ({ t, s })));
+  const counts = {};
+  for (const x of entries) { const k = health(x.s).kind; counts[k] = (counts[k] || 0) + 1; }
+  const summary = Object.keys(STATUS_RANK).filter(k => counts[k]).map(k => `${counts[k]} ${STATUS_NAME[k].toLowerCase()}`).join(' · ');
+  main.innerHTML = `
+    <div class="head"><div class="title"><h1>All sources</h1><div class="muted">${entries.length} sites across ${data.tabs.length} tabs · ${summary}</div></div></div>
+    <div class="panel">
+      <div class="toolbar">
+        <input id="search" placeholder="Search all ${entries.length} sites" value="${esc(filter)}">
+        <select id="statusFilter" aria-label="Show"><option value="">Every status</option>${Object.keys(STATUS_RANK).filter(k => counts[k]).map(k => `<option value="${k}">${STATUS_NAME[k]} (${counts[k]})</option>`).join('')}</select>
+        ${sortControl(true)}
+      </div>
+      <table><thead><tr><th>Site</th><th>Status</th><th>Tab</th><th>Move to</th><th></th></tr></thead><tbody id="rows"></tbody></table>
+    </div>`;
+  let only = '';
+  const draw = () => renderRows(only ? entries.filter(x => health(x.s).kind === only) : entries, null);
+  $('#search').oninput = e => { filter = e.target.value; draw(); };
+  $('#sort').onchange = e => { sortBy = e.target.value; try { localStorage.setItem('vs-sort', sortBy); } catch {} draw(); };
+  $('#statusFilter').onchange = e => { only = e.target.value; draw(); };
+  draw();
+}
+
+// entries: [{t, s}]; tab: the tab being viewed, or null for the All sources view
+function renderRows(entries, tab) {
   const tb = $('#rows'); tb.innerHTML = '';
   const f = filter.toLowerCase();
-  const list = t.sites.filter(s => !f || s.name.toLowerCase().includes(f) || s.domain.includes(f) || (s.group || '').toLowerCase().includes(f));
-  for (const s of list) {
+  const list = sortEntries(entries.filter(({ s }) => !f || s.name.toLowerCase().includes(f) || s.domain.includes(f) || (s.group || '').toLowerCase().includes(f)));
+  for (const { t, s } of list) {
     const st = stats[s.domain];
-    const dot = !st ? 'n' : !st.ok ? 'r' : st.n ? 'g' : 'y';
-    const label = !st ? 'checked on the next update' : !st.ok ? st.error : st.n ? st.n : 'none';
+    const h = health(s);
+    const dot = h.dot, label = h.label;
     const tr = document.createElement('tr');
     tr.innerHTML = `
-      <td class="site"><b>${esc(short(s.name))}</b><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.domain)}</a></td>
-      <td title="${esc(label)}"><span class="dot ${dot}"></span>${st && st.ok ? st.n : st ? '—' : ''}${st && st.proj ? `<div class="muted" style="font-size:11.5px">${st.proj} project${st.proj > 1 ? 's' : ''}${st.left ? ` · ${st.left} to go` : ''}</div>` : ''}</td>
-      <td><input class="grp" list="groups" value="${esc(s.group || '')}" placeholder="—" aria-label="Group"></td>
+      <td class="site"><b>${esc(short(s.name))}</b><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.domain)}</a>${h.kind === 'newaddr' ? '<div class="muted" style="font-size:11.5px">New address found</div>' : ''}</td>
+      <td title="${esc(label)}"><span class="dot ${dot}"></span>${st && st.ok ? st.n : st ? '—' : ''}${!tab ? ` <span class="muted" style="font-size:12px">${esc(STATUS_NAME[h.kind])}</span>` : ''}${st && st.proj ? `<div class="muted" style="font-size:11.5px">${st.proj} project${st.proj > 1 ? 's' : ''}${st.left ? ` · ${st.left} to go` : ''}</div>` : ''}</td>
+      <td>${tab ? `<input class="grp" list="groups" value="${esc(s.group || '')}" placeholder="—" aria-label="Group">` : `<span class="muted" style="font-size:12.5px">${esc(t.label)}${s.group ? ' · ' + esc(s.group) : ''}</span>`}</td>
       <td><select aria-label="Move to tab"><option value="">—</option>${data.tabs.filter(x => x !== t).map(x => `<option value="${x.id}">${esc(x.label)}</option>`).join('')}</select></td>
       <td style="text-align:right;white-space:nowrap">
         <button class="rowbtn" data-a="view">View</button>
+        <button class="rowbtn" data-a="edit">Edit link</button>
         <button class="rowbtn" data-a="remove">Remove</button>
       </td>`;
-    tr.querySelector('.grp').onchange = e => { const v = e.target.value.trim(); if (v) s.group = v; else delete s.group; save('Group updated'); };
+    if (tab) tr.querySelector('.grp').onchange = e => { const v = e.target.value.trim(); if (v) s.group = v; else delete s.group; save('Group updated'); };
     tr.querySelector('select').onchange = e => {
       const dest = data.tabs.find(x => x.id === e.target.value); if (!dest) return;
       t.sites = t.sites.filter(x => x !== s); delete s.group; dest.sites.push(s);
       save(`Moved ${short(s.name)} to ${dest.label}`);
     };
     tr.querySelector('[data-a=view]').onclick = () => location.href = `./?site=${encodeURIComponent(s.domain)}&name=${encodeURIComponent(short(s.name))}`;
+    tr.querySelector('[data-a=edit]').onclick = () => editLink(t, s);
     tr.querySelector('[data-a=remove]').onclick = () => { t.sites = t.sites.filter(x => x !== s); save(`Removed ${short(s.name)}`); };
     tb.append(tr);
   }
-  if (!list.length) tb.innerHTML = `<tr><td colspan="5" class="muted" style="padding:20px">${t.sites.length ? 'No matches.' : 'No sites yet — paste some links above.'}</td></tr>`;
+  if (!list.length) tb.innerHTML = `<tr><td colspan="5" class="muted" style="padding:20px">${entries.length ? 'No matches.' : 'No sites yet — paste some links above.'}</td></tr>`;
 }
 
 load();
