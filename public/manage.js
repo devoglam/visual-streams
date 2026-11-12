@@ -39,7 +39,7 @@ async function load() {
   if (draft && canon(draft) === published) clearDraft();
   data = draft && canon(draft) !== published ? draft : JSON.parse(published);
   stats = {};
-  for (const [d, [n, ok, error, at]] of Object.entries(DATA.status || {})) stats[d] = { n, ok: !!ok, error, at };
+  for (const [d, [n, ok, error, at, proj, left]] of Object.entries(DATA.status || {})) stats[d] = { n, ok: !!ok, error, at, proj: proj || 0, left: left || 0 };
   if (!sel || !data.tabs.find(t => t.id === sel)) sel = data.tabs[0]?.id;
   render(); renderCrawl();
 }
@@ -206,7 +206,7 @@ function renderRows(t) {
     const tr = document.createElement('tr');
     tr.innerHTML = `
       <td class="site"><b>${esc(short(s.name))}</b><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.domain)}</a></td>
-      <td title="${esc(label)}"><span class="dot ${dot}"></span>${st && st.ok ? st.n : st ? '—' : ''}</td>
+      <td title="${esc(label)}"><span class="dot ${dot}"></span>${st && st.ok ? st.n : st ? '—' : ''}${st && st.proj ? `<div class="muted" style="font-size:11.5px">${st.proj} project${st.proj > 1 ? 's' : ''}${st.left ? ` · ${st.left} to go` : ''}</div>` : ''}</td>
       <td><input class="grp" list="groups" value="${esc(s.group || '')}" placeholder="—" aria-label="Group"></td>
       <td><select aria-label="Move to tab"><option value="">—</option>${data.tabs.filter(x => x !== t).map(x => `<option value="${x.id}">${esc(x.label)}</option>`).join('')}</select></td>
       <td style="text-align:right;white-space:nowrap">

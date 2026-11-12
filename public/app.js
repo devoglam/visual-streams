@@ -8,6 +8,8 @@ const state = {
   group: params.get('group') || '',
   site: params.get('site') || '',
   siteName: params.get('name') || '',
+  project: params.get('project') || '',
+  projectName: params.get('pname') || '',
   mode: params.get('mode') || 'mix',
   seed: +params.get('seed') || dailySeed(),
   next: 0, loading: false, gen: 0, total: 0,
@@ -31,6 +33,17 @@ async function loadTabs() {
   renderTabs();
 }
 
+// image files are split by tab and loaded only when needed
+const tabImages = {};
+function ensureImages(ids) {
+  return Promise.all(ids.map(id => tabImages[id] || (tabImages[id] = fetch(`images-${id}.json`, { cache: 'no-cache' }).then(r => r.ok ? r.json() : {}).catch(() => ({})))))
+    .then(list => { ids.forEach((id, k) => { tabImages[id] = list[k]; }); });
+}
+function neededTabs() {
+  if (state.site) { const t = DATA.tabs.find(t => t.sites.some(s => s.domain === state.site)); return t ? [t.id] : []; }
+  return state.tab === 'all' ? DATA.tabs.map(t => t.id) : [state.tab];
+}
+
 // ---------- feed (built in the browser from data.json) ----------
 function rng(seed) { let s = seed >>> 0 || 1; return () => ((s = (s * 1664525 + 1013904223) >>> 0) / 2 ** 32); }
 function shuffleArr(a, r) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(r() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
@@ -45,21 +58,25 @@ function roundRobin(lists, r) {
 }
 let feedKey = '', feedList = [];
 function getFeed() {
-  const key = [state.tab, state.group, state.site, state.mode, state.seed].join('|');
+  const key = [state.tab, state.group, state.site, state.project, state.mode, state.seed].join('|');
   if (key === feedKey) return feedList;
-  const pick = state.tab === 'all' ? DATA.tabs : DATA.tabs.filter(t => t.id === state.tab);
+  const ids = neededTabs();
+  const pick = DATA.tabs.filter(t => ids.includes(t.id));
   const seenD = new Set(), perSite = [];
   for (const t of pick) for (const s of t.sites) {
-    if (state.group && s.group !== state.group) continue;
+    if (state.group && !state.site && s.group !== state.group) continue;
     if (state.site && s.domain !== state.site) continue;
     if (seenD.has(s.domain)) continue; seenD.add(s.domain);
-    const imgs = DATA.images[s.domain]; if (!imgs || !imgs.length) continue;
+    const rec = (tabImages[t.id] || {})[s.domain]; if (!rec || !rec.i.length) continue;
     const site = { name: s.name.split(' | ')[0].trim(), url: s.url, domain: s.domain, tab: t.label };
-    perSite.push(imgs.map(([src, page, title, firstSeen]) => ({ src, page, title, firstSeen, site })));
+    let imgs = rec.i.map(([src, pi, ts]) => ({ src, page: rec.p[pi][0], title: rec.p[pi][1], firstSeen: ts * 1000, site }));
+    if (state.project) imgs = imgs.filter(i => i.page === state.project);
+    if (imgs.length) perSite.push(imgs);
   }
   const r = rng(state.seed);
   let list;
-  if (state.mode === 'newest') {
+  if (state.project) list = perSite.flat();
+  else if (state.mode === 'newest') {
     const days = new Map();
     for (const i of perSite.flat()) { const d = Math.floor((i.firstSeen || 0) / 864e5); if (!days.has(d)) days.set(d, new Map()); const m = days.get(d); if (!m.has(i.site.domain)) m.set(i.site.domain, []); m.get(i.site.domain).push(i); }
     list = [...days.keys()].sort((a, b) => b - a).flatMap(d => roundRobin([...days.get(d).values()], r));
@@ -74,7 +91,7 @@ function renderTabs() {
     const b = document.createElement('button');
     b.className = 'tab'; b.role = 'tab'; b.textContent = t.label;
     b.setAttribute('aria-selected', t.id === state.tab && !state.site);
-    b.onclick = () => go({ tab: t.id, group: '', site: '', siteName: '' });
+    b.onclick = () => go({ tab: t.id, group: '', site: '', siteName: '', project: '', projectName: '' });
     $('#tabs').append(b);
   }
   const sel = $('#tabs [aria-selected="true"]');
@@ -86,8 +103,14 @@ function renderSub() {
   if (state.site) {
     const c = document.createElement('button');
     c.className = 'chip studio'; c.innerHTML = `${esc(state.siteName || state.site)} <span aria-hidden="true">✕</span>`;
-    c.title = 'Back to the stream'; c.onclick = () => go({ site: '', siteName: '' });
+    c.title = 'Back to the stream'; c.onclick = () => go({ site: '', siteName: '', project: '', projectName: '' });
     sub.append(c);
+    if (state.project) {
+      const pc = document.createElement('button');
+      pc.className = 'chip studio'; pc.innerHTML = `${esc(state.projectName || 'This project')} <span aria-hidden="true">✕</span>`;
+      pc.title = 'All of this studio’s work'; pc.onclick = () => go({ project: '', projectName: '' });
+      sub.append(pc);
+    }
   } else {
     const t = tabs.find(t => t.id === state.tab);
     if (t && t.groups.length) {
@@ -110,7 +133,7 @@ function updateMeta() {
   const t = tabs.find(t => t.id === state.tab);
   const sites = state.site ? 1 : t ? t.sites : tabs.reduce((a, t) => a + t.sites, 0);
   const upd = DATA && DATA.updated ? ' · updated ' + new Date(DATA.updated).toLocaleDateString([], { month: 'short', day: 'numeric' }) : '';
-  m.textContent = state.total ? `${state.total.toLocaleString()} images · ${sites} ${sites === 1 ? 'studio' : 'sources'}${upd}` : '';
+  m.textContent = state.total ? `${state.total.toLocaleString()} images${state.project ? '' : ` · ${sites} ${sites === 1 ? 'studio' : 'sources'}`}${upd}` : '';
 }
 
 function go(patch) {
@@ -119,6 +142,7 @@ function go(patch) {
   if (state.tab !== 'all') q.set('tab', state.tab);
   if (state.group) q.set('group', state.group);
   if (state.site) { q.set('site', state.site); q.set('name', state.siteName); }
+  if (state.project) { q.set('project', state.project); q.set('pname', state.projectName); }
   if (state.mode !== 'mix') q.set('mode', state.mode);
   history.replaceState(null, '', q.toString() ? '?' + q : location.pathname);
   renderTabs(); reset(); window.scrollTo({ top: 0 });
@@ -167,6 +191,8 @@ async function more() {
   state.loading = true;
   const gen = state.gen;
   try {
+    if (!state.next) await ensureImages(neededTabs());
+    if (gen !== state.gen) return;
     const list = getFeed(), offset = state.next;
     const items = list.slice(offset, offset + 40);
     state.total = list.length; state.next = offset + 40 < list.length ? offset + 40 : null; updateMeta();
@@ -233,8 +259,11 @@ function openLb(i) {
   page.href = it.page || it.site.url;
   page.style.display = it.page && it.page.replace(/\/$/, '') !== it.site.url.replace(/\/$/, '') ? '' : 'none';
   $('#lbSite').href = it.site.url;
-  $('#lbMore').style.display = state.site ? 'none' : '';
-  $('#lbMore').onclick = () => { closeLb(); go({ site: it.site.domain, siteName: it.site.name }); };
+  const isProject = it.page && it.page.replace(/\/$/, '') !== it.site.url.replace(/\/$/, '');
+  $('#lbProject').style.display = isProject && !state.project ? '' : 'none';
+  $('#lbProject').onclick = () => { closeLb(); go({ site: it.site.domain, siteName: it.site.name, project: it.page, projectName: it.title || 'Project' }); };
+  $('#lbMore').style.display = state.site && !state.project ? 'none' : '';
+  $('#lbMore').onclick = () => { closeLb(); go({ site: it.site.domain, siteName: it.site.name, project: '', projectName: '' }); };
   lb.classList.add('open'); document.body.style.overflow = 'hidden';
   if (i > cards.length - 6) more();
 }
