@@ -39,6 +39,13 @@ function ensureImages(ids) {
   return Promise.all(ids.map(id => tabImages[id] || (tabImages[id] = fetch(`images-${id}.json`, { cache: 'no-cache' }).then(r => r.ok ? r.json() : {}).catch(() => ({})))))
     .then(list => { ids.forEach((id, k) => { tabImages[id] = list[k]; }); });
 }
+// a studio's complete bank lives in its own file
+const siteBanks = {};
+const siteFile = d => 's/' + d.replace(/[^a-z0-9.-]/gi, '_') + '.json';
+function ensureSite(d) {
+  if (!d || siteBanks[d]) return Promise.resolve();
+  return fetch(siteFile(d), { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).catch(() => null).then(j => { siteBanks[d] = j || false; });
+}
 function neededTabs() {
   if (state.site) { const t = DATA.tabs.find(t => t.sites.some(s => s.domain === state.site)); return t ? [t.id] : []; }
   return state.tab === 'all' ? DATA.tabs.map(t => t.id) : [state.tab];
@@ -67,15 +74,15 @@ function getFeed() {
     if (state.group && !state.site && s.group !== state.group) continue;
     if (state.site && s.domain !== state.site) continue;
     if (seenD.has(s.domain)) continue; seenD.add(s.domain);
-    const rec = (tabImages[t.id] || {})[s.domain]; if (!rec || !rec.i.length) continue;
+    const rec = (state.site && siteBanks[s.domain]) || (tabImages[t.id] || {})[s.domain]; if (!rec || !rec.i.length) continue;
     const site = { name: s.name.split(' | ')[0].trim(), url: s.url, domain: s.domain, tab: t.label };
-    let imgs = rec.i.map(([src, pi, ts]) => ({ src, page: rec.p[pi][0], title: rec.p[pi][1], firstSeen: ts * 1000, site }));
+    let imgs = rec.i.map(([src, pi, ts, full]) => ({ src, full: full || src, page: rec.p[pi][0], title: rec.p[pi][1], firstSeen: ts * 1000, site }));
     if (state.project) imgs = imgs.filter(i => i.page === state.project);
     if (imgs.length) perSite.push(imgs);
   }
   const r = rng(state.seed);
   let list;
-  if (state.project) list = perSite.flat();
+  if (state.project) list = perSite.flat();   // in the order the studio shows them
   else if (state.mode === 'newest') {
     const days = new Map();
     for (const i of perSite.flat()) { const d = Math.floor((i.firstSeen || 0) / 864e5); if (!days.has(d)) days.set(d, new Map()); const m = days.get(d); if (!m.has(i.site.domain)) m.set(i.site.domain, []); m.get(i.site.domain).push(i); }
@@ -191,7 +198,7 @@ async function more() {
   state.loading = true;
   const gen = state.gen;
   try {
-    if (!state.next) await ensureImages(neededTabs());
+    if (!state.next) await Promise.all([ensureImages(neededTabs()), ensureSite(state.site)]);
     if (gen !== state.gen) return;
     const list = getFeed(), offset = state.next;
     const items = list.slice(offset, offset + 40);
@@ -251,7 +258,14 @@ function openLb(i) {
   if (i < 0 || i >= cards.length) return;
   lbIndex = i;
   const it = cards[i]._item;
-  $('#lbImg').src = cards[i].querySelector('img').src;
+  const lbImg = $('#lbImg');
+  lbImg.src = cards[i].querySelector('img').src;
+  $('#lbFull').href = it.full || it.src;
+  if (it.full && it.full !== it.src) {
+    const hi = new Image(); hi.referrerPolicy = 'no-referrer';
+    hi.onload = () => { if (lbIndex === i && hi.naturalWidth >= lbImg.naturalWidth) lbImg.src = hi.src; };
+    hi.src = it.full;
+  }
   $('#lbImg').alt = it.title || it.site.name;
   $('#lbName').textContent = it.site.name;
   $('#lbMeta').textContent = [it.title && it.title !== it.site.name ? it.title : '', it.site.tab, it.site.domain].filter(Boolean).join(' · ');

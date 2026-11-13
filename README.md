@@ -1,6 +1,6 @@
 # Visual Streams
 
-A Pinterest-style, endlessly scrolling feed of images from your curated design sites, split into tabs. It runs for free on GitHub: every morning GitHub visits your sites, gathers their newest images and rebuilds the website. You just open your bookmark.
+A Pinterest-style, endlessly scrolling feed of images from your curated design sites, split into tabs. It runs for free on GitHub: every three hours GitHub works through your sites — their portfolio sections, category pages and every project page — gathers the images at the highest resolution each site offers, and rebuilds the website. You just open your bookmark.
 
 ## One-time setup (about 15 minutes)
 
@@ -16,9 +16,9 @@ A Pinterest-style, endlessly scrolling feed of images from your curated design s
 
 ## Day to day
 
-- The site updates itself every morning around 5am New York time.
+- The site updates itself every three hours. Each run continues where the last one stopped, reading up to 30 new project pages per studio, so large portfolios fill in over a day or two and new projects are picked up as they're published.
 - **Tabs** switch streams; Architecture, Graphics & Branding and Editorial have filter chips. **Mix / Newest** changes the order and **Shuffle** reshuffles.
-- **Click any image** to see it large, with links to the project and the studio. **More from this studio** shows just their work.
+- **Click any image** to see it large. It sharpens to the highest-resolution version the studio's site offers; **Full size ↗** opens that file on its own. **See the whole project** shows every image from that project in the studio's order, and **More from this studio** shows everything collected from that studio.
 
 ## Adding, moving or removing sites
 
@@ -33,4 +33,4 @@ To refresh everything immediately instead of waiting for the morning: **Actions*
 
 - The coloured dot next to each site on the Sources page shows whether images were found (green), the site had none we could read (yellow), or it couldn't be reached (red). Sites built entirely in JavaScript or that block automated visits stay yellow or red.
 - Images load straight from each studio's website, and every image links back to its source. Only the image addresses are stored.
-- `data/sources.json` is your master list of tabs and sites. `data/images.json` is the app's memory of what it has seen; it updates itself.
+- `data/sources.json` is your master list of tabs and sites. `data/sites/` holds the app's memory of each studio (images found, project pages read and still to read); it updates itself.
