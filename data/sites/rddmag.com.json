@@ -1,0 +1,26 @@
+{
+ "meta": {"fetchedAt":1794582591111,"ok":false,"error":"UND_ERR_CONNECT_TIMEOUT","domain":"rddmag.com","issue":"unreachable","movedTo":null},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://rddmag.com/images/2026/Fall/TCS-Bar-2-650.jpg","full":"https://rddmag.com/images/2026/Fall/TCS-Bar-2-650.jpg","page":"https://rddmag.com/design/4815-the-corner-store-hits-the-las-vegas-strip","title":"The Corner Store Hits the Las Vegas Strip","firstSeen":1794499411000},
+  {"src":"https://rddmag.com/images/2026/10/sm_SisterCoffee_JackStraw_EPhillips_01_V1_R3_fullpage.jpg","full":"https://rddmag.com/images/2026/10/sm_SisterCoffee_JackStraw_EPhillips_01_V1_R3_fullpage.jpg","page":"https://rddmag.com/design/4811-sisters-coffee-draws-on-central-oregon-s-lumber-heritage","title":"Sisters Coffee Draws on Central Oregon’s Lumber Heritage","firstSeen":1792674051000},
+  {"src":"https://rddmag.com/images/2026/10/The-Brass-Tap-Middletown-Delaware-Franchise-Expansion.jpg","full":"https://rddmag.com/images/2026/10/The-Brass-Tap-Middletown-Delaware-Franchise-Expansion.jpg","page":"https://rddmag.com/development/4812-the-brass-tap-to-open-first-delaware-location","title":"The Brass Tap to Open First Delaware Location","firstSeen":1792613522000},
+  {"src":"https://rddmag.com/images/2026/Fall/RomaRoma-3.jpg","full":"https://rddmag.com/images/2026/Fall/RomaRoma-3.jpg","page":"https://rddmag.com/design/4808-fellini-disco-and-mid-century-modernism-shape-this-seattle-restaurant","title":"Fellini, Disco and Mid-Century Modernism Shape This Seattle Restaurant","firstSeen":1791444737000},
+  {"src":"https://rddmag.com/images/2026/Fall/Main-dining,-wine-station.jpg","full":"https://rddmag.com/images/2026/Fall/Main-dining,-wine-station.jpg","page":"https://rddmag.com/design/4780-project-profile-badmaash","title":"Project Profile: Badmaash","firstSeen":1789497622000},
+  {"src":"https://rddmag.com/images/2026/Summer/Bruma_View02_Daylight_2.jpg","full":"https://rddmag.com/images/2026/Summer/Bruma_View02_Daylight_2.jpg","page":"https://rddmag.com/design/4768-mist-and-memory-inform-bruma-s-design","title":"Mist and Memory Inform Bruma’s Design","firstSeen":1788986981000},
+  {"src":"https://rddmag.com/images/open_graph/rdd_open_graph.jpg","full":"https://rddmag.com/images/open_graph/rdd_open_graph.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2023/01/Paris-Baguette-4.jpg","full":"https://rddmag.com/images/2023/01/Paris-Baguette-4.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2026/Fall/Houston-TX-Hot-Chicken-50-Unit-UK-Expansion-Stevenage.jpg","full":"https://rddmag.com/images/2026/Fall/Houston-TX-Hot-Chicken-50-Unit-UK-Expansion-Stevenage.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2026/10/Starbird-Announces-Five-Unit-Chicago-Area-Franchise-Deal.jpg","full":"https://rddmag.com/images/2026/10/Starbird-Announces-Five-Unit-Chicago-Area-Franchise-Deal.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2026/Fall/el-pollo-loco-exterior-angle-torrance-ca.jpg","full":"https://rddmag.com/images/2026/Fall/el-pollo-loco-exterior-angle-torrance-ca.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2026/Fall/Moxies-6.jpg","full":"https://rddmag.com/images/2026/Fall/Moxies-6.jpg","page":"https://rddmag.com/","title":"Moxies","firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2026/Summer/Chinese-restaurant_44.jpg","full":"https://rddmag.com/images/2026/Summer/Chinese-restaurant_44.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2022/Frequently_Used/bar-design_iStock-2168448446.jpg","full":"https://rddmag.com/images/2022/Frequently_Used/bar-design_iStock-2168448446.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2022/Frequently_Used/kiosk_iStock-2196907553.jpg","full":"https://rddmag.com/images/2022/Frequently_Used/kiosk_iStock-2196907553.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/2022/Frequently_Used/takeout_iStock-1314632869.jpg","full":"https://rddmag.com/images/2022/Frequently_Used/takeout_iStock-1314632869.jpg","page":"https://rddmag.com/","title":null,"firstSeen":1794507297044},
+  {"src":"https://rddmag.com/images/events/events-rdd_awards.jpg","full":"https://rddmag.com/images/events/events-rdd_awards.jpg","page":"https://rddmag.com/","title":"rd+d Awards","firstSeen":1794507297044}
+ ]
+}

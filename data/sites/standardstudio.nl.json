@@ -1,0 +1,13 @@
+{
+ "meta": {"domain":"standardstudio.nl","fetchedAt":1794582455089,"discoveredAt":1794582451353,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://standardstudio.nl/wp-content/uploads/2025/08/Jacks-Casino.jpg","full":"https://standardstudio.nl/wp-content/uploads/2025/08/Jacks-Casino.jpg","page":"https://standardstudio.nl/","title":"Jacks Casino","firstSeen":1794582455089},
+  {"src":"https://standardstudio.nl/wp-content/uploads/2025/08/welkomstbonus.jpg","full":"https://standardstudio.nl/wp-content/uploads/2025/08/welkomstbonus.jpg","page":"https://standardstudio.nl/","title":"welkomstbonus","firstSeen":1794582455089},
+  {"src":"https://standardstudio.nl/wp-content/uploads/2025/08/Tafelspellen.jpg","full":"https://standardstudio.nl/wp-content/uploads/2025/08/Tafelspellen.jpg","page":"https://standardstudio.nl/","title":"Tafelspellen","firstSeen":1794582455089},
+  {"src":"https://standardstudio.nl/wp-content/uploads/2025/08/Klantenservice.jpg","full":"https://standardstudio.nl/wp-content/uploads/2025/08/Klantenservice.jpg","page":"https://standardstudio.nl/","title":"Klantenservice","firstSeen":1794582455089}
+ ]
+}

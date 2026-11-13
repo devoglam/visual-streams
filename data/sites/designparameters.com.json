@@ -1,0 +1,17 @@
+{
+ "meta": {"domain":"designparameters.com","fetchedAt":1794581712684,"discoveredAt":1794581711762,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://static.wixstatic.com/media/8a8aa2_e3be8970545d40468a4d868ba07f86b1%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/8a8aa2_e3be8970545d40468a4d868ba07f86b1%7Emv2.jpg","full":"https://static.wixstatic.com/media/8a8aa2_e3be8970545d40468a4d868ba07f86b1%7Emv2.jpg","page":"https://www.designparameters.com/","title":null,"firstSeen":1794507188778},
+  {"src":"https://static.wixstatic.com/media/8a8aa2_21001378b00e46b1be9e31881c152c0a~mv2.jpg/v1/fill/w_288,h_161,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8a8aa2_21001378b00e46b1be9e31881c152c0a~mv2.jpg","full":"https://static.wixstatic.com/media/8a8aa2_21001378b00e46b1be9e31881c152c0a~mv2.jpg","page":"https://www.designparameters.com/","title":null,"firstSeen":1794507188778},
+  {"src":"https://static.wixstatic.com/media/8a8aa2_ab3c4789107e455195626ca487234c29~mv2.jpg/v1/fill/w_485,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/JSP%20Bridgeland.jpg","full":"https://static.wixstatic.com/media/8a8aa2_ab3c4789107e455195626ca487234c29~mv2.jpg","page":"https://www.designparameters.com/","title":"JSP Bridgeland.jpg","firstSeen":1794507188778},
+  {"src":"https://static.wixstatic.com/media/8a8aa2_671fcf8868fd46be873a2902c8548a55~mv2.webp/v1/fill/w_481,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/exp-nts-img.webp","full":"https://static.wixstatic.com/media/8a8aa2_671fcf8868fd46be873a2902c8548a55~mv2.webp","page":"https://www.designparameters.com/","title":"Nike Training Studio","firstSeen":1794507188778},
+  {"src":"https://static.wixstatic.com/media/8a8aa2_f38f6ae241d248ffa841ce557a03ebb2~mv2.jpg/v1/fill/w_481,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20241101_220354.jpg","full":"https://static.wixstatic.com/media/8a8aa2_f38f6ae241d248ffa841ce557a03ebb2~mv2.jpg","page":"https://www.designparameters.com/","title":"20241101_220354.jpg","firstSeen":1794507188778},
+  {"src":"https://static.wixstatic.com/media/f61af8_0a0f44c5a8c44b5290ffd117f0197aab~mv2_d_7952_5304_s_4_2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png","full":"https://static.wixstatic.com/media/f61af8_0a0f44c5a8c44b5290ffd117f0197aab~mv2_d_7952_5304_s_4_2.jpg","page":"https://www.designparameters.com/single-post/2016/03/03/01","title":"COMING UP","firstSeen":1457022861000},
+  {"src":"https://static.wixstatic.com/media/f61af8_784d211ccbed4fc988732beac7fa0d7d~mv2_d_4208_2820_s_4_2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png","full":"https://static.wixstatic.com/media/f61af8_784d211ccbed4fc988732beac7fa0d7d~mv2_d_4208_2820_s_4_2.jpg","page":"https://www.designparameters.com/single-post/2016/03/03/02","title":"WINNING TEAM","firstSeen":1455641100000},
+  {"src":"https://static.wixstatic.com/media/f61af8_ba29165259de4a72bfa42dc16853b375~mv2_d_3728_2231_s_2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png","full":"https://static.wixstatic.com/media/f61af8_ba29165259de4a72bfa42dc16853b375~mv2_d_3728_2231_s_2.jpg","page":"https://www.designparameters.com/single-post/2016/03/02/how-we-do-it","title":"HOW WE DO IT","firstSeen":1454140860000}
+ ]
+}

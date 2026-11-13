@@ -1,0 +1,14 @@
+{
+ "meta": {"domain":"toko.nu","fetchedAt":1794582128409,"discoveredAt":1794582119991,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":3,"visited":3,"remaining":0}},
+ "visited": {"http://www.toko.nu/fordonsljus/spannande-host-att-vanta-med-mina-nya-extraljusramp":1794582119991,"http://www.toko.nu/fordonsljus/industriell-design-formar-morgondagens-belysning":1794582119991,"http://www.toko.nu/uncategorized/vill-du-lara-dig-mer-om-industri-design":1794582119991},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"http://www.toko.nu/wp-content/uploads/2021/09/bmw-400x400.png","full":"http://www.toko.nu/wp-content/uploads/2021/09/bmw.png","page":"http://www.toko.nu/","title":null,"firstSeen":1794507243411},
+  {"src":"http://www.toko.nu/wp-content/uploads/2019/10/extraljus-400x400.png","full":"http://www.toko.nu/wp-content/uploads/2019/10/extraljus.png","page":"http://www.toko.nu/","title":null,"firstSeen":1794507243411},
+  {"src":"http://www.toko.nu/wp-content/uploads/2019/07/industridesign-400x400.jpg","full":"http://www.toko.nu/wp-content/uploads/2019/07/industridesign.jpg","page":"http://www.toko.nu/","title":null,"firstSeen":1794507243411},
+  {"src":"http://www.toko.nu/wp-content/uploads/2019/07/bild.jpg","full":"http://www.toko.nu/wp-content/uploads/2019/07/bild.jpg","page":"http://www.toko.nu/","title":null,"firstSeen":1794507243411},
+  {"src":"http://www.toko.nu/wp-content/uploads/2019/10/t-ford-1024x425.png","full":"http://www.toko.nu/wp-content/uploads/2019/10/t-ford.png","page":"http://www.toko.nu/fordonsljus/industriell-design-formar-morgondagens-belysning/","title":"Industriell design formar morgondagens belysning","firstSeen":1570269037000}
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "meta": {"domain":"formuswithlove.se","fetchedAt":1794582379150,"discoveredAt":1794582356598,"furniture":["formuswithlove.se/.netlify/images"],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":47,"visited":30,"remaining":17}},
+ "visited": {"https://www.formuswithlove.se/catena-svenskform2026":1794582356598,"https://www.formuswithlove.se/showroom":1794582356598,"https://www.formuswithlove.se/opening-of-slussen":1794582356598,"https://www.formuswithlove.se/dais-collection-with-keilhauer":1794582356598,"https://www.formuswithlove.se/clerkenwell-design-week-2025":1794582356598,"https://www.formuswithlove.se/catena-by-blond":1794582356598,"https://www.formuswithlove.se/ottavo-by-kristalia":1794582356598,"https://www.formuswithlove.se/unfold-translucent-at-muuto-milan-apartment":1794582356598,"https://www.formuswithlove.se/testing-grounds-bistro-2025":1794582356598,"https://www.formuswithlove.se/form":1794582356598,"https://www.formuswithlove.se/with":1794582356598,"https://www.formuswithlove.se/testing-grounds-meet":1794582356598,"https://www.formuswithlove.se/privacy-and-credentials":1794582356598,"https://www.formuswithlove.se/baux-at-munchenbryggeriet":1794582356598,"https://www.formuswithlove.se/muuto-unfold-pendant-lamp":1794582356598,"https://www.formuswithlove.se/orgatec-2024":1794582356598,"https://www.formuswithlove.se/rareraw":1794582356598,"https://www.formuswithlove.se/3daysofdesign":1794582356598,"https://www.formuswithlove.se/blond-laboratory":1794582356598,"https://www.formuswithlove.se/very-simple-accessories":1794582356598,"https://www.formuswithlove.se/testing-grounds":1794582356598,"https://www.formuswithlove.se/easymining":1794582356598,"https://www.formuswithlove.se/designing-a-sustainable-future":1794582356598,"https://www.formuswithlove.se/pafyll-launching-stockholm-design-week":1794582356598,"https://www.formuswithlove.se/savo-x-fuwl-at-designers-saturday":1794582356598,"https://www.formuswithlove.se/halle-x-form-us-with-love-3dd":1794582356598,"https://www.formuswithlove.se/what-makes-nordic-design-nordic":1794582356598,"https://www.formuswithlove.se/prototypa-29-stilride-2":1794582356598,"https://www.formuswithlove.se/your-five-essentials":1794582356598,"https://www.formuswithlove.se/samsung-shift":1794582356598},
+ "pending": [
+  {"url":"https://www.formuswithlove.se/circular-material-in-progress/","lm":0,"why":"index"},
+  {"url":"https://www.formuswithlove.se/we-must-design-businesses-around-ecology/","lm":0,"why":"index"},
+  {"url":"https://www.formuswithlove.se/form-tiles-from-toxic-glass/","lm":0,"why":"index"},
+  {"url":"https://www.formuswithlove.se/design-can-radically-change-the-way-companies-think-about-waste/","lm":0,"why":"index"},
+  {"url":"https://www.formuswithlove.se/orgatec-2026/","lm":0,"why":"index"},
+  {"url":"https://www.formuswithlove.se/clients/ikea/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/samsung/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/halle/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/muuto/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/baux/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/string-furniture/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/atelje-lyktan/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/cappellini/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/orkla/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/hem/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/flokk/","lm":0,"why":"nested"},
+  {"url":"https://www.formuswithlove.se/clients/bene/","lm":0,"why":"nested"}
+ ],
+ "images": [
+
+ ]
+}

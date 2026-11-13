@@ -1,0 +1,15 @@
+{
+ "meta": {"domain":"jamiedurie.com","fetchedAt":1794582244202,"discoveredAt":1794582243072,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://static.wixstatic.com/media/562159_af5106ae606044358bdb23ed951bca41%7Emv2.png/v1/fit/w_2500,h_1330,al_c/562159_af5106ae606044358bdb23ed951bca41%7Emv2.png","full":"https://static.wixstatic.com/media/562159_af5106ae606044358bdb23ed951bca41%7Emv2.png","page":"https://www.jamiedurie.com/","title":null,"firstSeen":1794507261508},
+  {"src":"https://static.wixstatic.com/media/562159_23b688d9760f47279ea17dea29c8c6d2~mv2.jpg/v1/fill/w_147,h_97,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/562159_23b688d9760f47279ea17dea29c8c6d2~mv2.jpg","full":"https://static.wixstatic.com/media/562159_23b688d9760f47279ea17dea29c8c6d2~mv2.jpg","page":"https://www.jamiedurie.com/","title":"Jamie Durie","firstSeen":1794507261508},
+  {"src":"https://static.wixstatic.com/media/562159_f532ba9a55e64aab99d7bc9a1bcaca23~mv2.png/v1/fill/w_480,h_479,fp_0.75_0.49,q_90,enc_avif,quality_auto/562159_f532ba9a55e64aab99d7bc9a1bcaca23~mv2.png","full":"https://static.wixstatic.com/media/562159_f532ba9a55e64aab99d7bc9a1bcaca23~mv2.png","page":"https://www.jamiedurie.com/","title":null,"firstSeen":1794507261508},
+  {"src":"https://static.wixstatic.com/media/562159_726e2c2a2f934d5c828af43150a58091~mv2.jpg/v1/fit/w_480,h_479,q_90,enc_avif,quality_auto/562159_726e2c2a2f934d5c828af43150a58091~mv2.jpg","full":"https://static.wixstatic.com/media/562159_726e2c2a2f934d5c828af43150a58091~mv2.jpg","page":"https://www.jamiedurie.com/","title":null,"firstSeen":1794507261508},
+  {"src":"https://static.wixstatic.com/media/562159_d26df2ccda83413c8b1a45526b8daeee~mv2.jpg/v1/fit/w_480,h_480,q_90,enc_avif,quality_auto/562159_d26df2ccda83413c8b1a45526b8daeee~mv2.jpg","full":"https://static.wixstatic.com/media/562159_d26df2ccda83413c8b1a45526b8daeee~mv2.jpg","page":"https://www.jamiedurie.com/","title":null,"firstSeen":1794507261508},
+  {"src":"https://static.wixstatic.com/media/562159_28d96841bad54fca9c30a67015af8273~mv2.jpg/v1/fill/w_116,h_116,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/562159_28d96841bad54fca9c30a67015af8273~mv2.jpg","full":"https://static.wixstatic.com/media/562159_28d96841bad54fca9c30a67015af8273~mv2.jpg","page":"https://www.jamiedurie.com/","title":"Jamie Durie Portrait with Dog","firstSeen":1794507261508}
+ ]
+}

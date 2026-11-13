@@ -1,0 +1,10 @@
+{
+ "meta": {"domain":"boorbridges.com","fetchedAt":1794582326317,"discoveredAt":1794582315578,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":1,"visited":1,"remaining":0}},
+ "visited": {"https://boorbridges.com/imunify-bot-check":1794582315578},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://boorbridges.com/wp-content/themes/elearning-school/images/exist_img.png","full":"https://boorbridges.com/wp-content/themes/elearning-school/images/exist_img.png","page":"https://boorbridges.com/","title":null,"firstSeen":1794507269387}
+ ]
+}

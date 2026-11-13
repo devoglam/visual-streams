@@ -1,0 +1,15 @@
+{
+ "meta": {"domain":"brandtwentytwo.com","fetchedAt":1794582498069,"discoveredAt":1794582497059,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/7e6acd7c-71bb-484c-a879-28a3ecb7afa0/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Kia-1920-1080.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/7e6acd7c-71bb-484c-a879-28a3ecb7afa0/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Kia-1920-1080.jpg?format=2500w","page":"https://www.brandtwentytwo.com/","title":null,"firstSeen":1794507291611},
+  {"src":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/4a47b398-f3a0-4cf4-ba8b-a7ec44b767df/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Mazda-1920-1080.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/4a47b398-f3a0-4cf4-ba8b-a7ec44b767df/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Mazda-1920-1080.jpg?format=2500w","page":"https://www.brandtwentytwo.com/","title":null,"firstSeen":1794507291611},
+  {"src":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/4c7eef03-161c-4d5f-a89e-6b200e52dba3/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Honda-Adventure-1920-1080.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/4c7eef03-161c-4d5f-a89e-6b200e52dba3/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Honda-Adventure-1920-1080.jpg?format=2500w","page":"https://www.brandtwentytwo.com/","title":null,"firstSeen":1794507291611},
+  {"src":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/945b12c4-1674-430e-a895-eb21a124acf7/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Volkswagen-Skoda-1920-1080.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/945b12c4-1674-430e-a895-eb21a124acf7/Brand-Twenty-Two-Automotive-Interior-Design-Branding-Volkswagen-Skoda-1920-1080.jpg?format=2500w","page":"https://www.brandtwentytwo.com/","title":null,"firstSeen":1794507291611},
+  {"src":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/f7d0eb1f-dcb2-4f8e-ab13-feac41e61e84/B22-White-text-black-box_400px.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/f7d0eb1f-dcb2-4f8e-ab13-feac41e61e84/B22-White-text-black-box_400px.jpg?format=2500w","page":"https://www.brandtwentytwo.com/","title":"Brand Twenty Two","firstSeen":1794507291611},
+  {"src":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/0776115b-06cf-4a5a-96af-78060757964f/B22-White-text-black-box_400px.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/62d93ed1873c352234fb1fcc/0776115b-06cf-4a5a-96af-78060757964f/B22-White-text-black-box_400px.jpg?format=2500w","page":"https://www.brandtwentytwo.com/","title":null,"firstSeen":1794507291611}
+ ]
+}

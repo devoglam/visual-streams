@@ -1,0 +1,12 @@
+{
+ "meta": {"domain":"dashdesign.net","fetchedAt":1794581747430,"discoveredAt":1794581746436,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://static1.squarespace.com/static/5988b9b6db29d66c150934f2/t/67c5e2f2dfe60226b7bb67d2/1741021938277/S%26D_logo+black+and+white.png?format=1000w","full":"https://static1.squarespace.com/static/5988b9b6db29d66c150934f2/t/67c5e2f2dfe60226b7bb67d2/1741021938277/S%26D_logo+black+and+white.png?format=2500w","page":"https://www.dashdesign.net/","title":"S&D_logo black and white.png","firstSeen":1794581747430},
+  {"src":"http://static1.squarespace.com/static/5988b9b6db29d66c150934f2/t/64ee06eca8f71b7fde4e0a12/1693320940956/Asset+1%402x.png?format=1000w","full":"http://static1.squarespace.com/static/5988b9b6db29d66c150934f2/t/64ee06eca8f71b7fde4e0a12/1693320940956/Asset+1%402x.png?format=2500w","page":"https://www.dashdesign.net/","title":null,"firstSeen":1794507194439},
+  {"src":"https://images.squarespace-cdn.com/content/v1/5988b9b6db29d66c150934f2/cc7c1cdd-ee61-419b-8786-86f73732a599/_R4A9728_1.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/5988b9b6db29d66c150934f2/cc7c1cdd-ee61-419b-8786-86f73732a599/_R4A9728_1.jpg?format=2500w","page":"https://www.dashdesign.net/","title":"_R4A9728_1.jpg","firstSeen":1794507194439}
+ ]
+}

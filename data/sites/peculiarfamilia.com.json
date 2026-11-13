@@ -1,0 +1,11 @@
+{
+ "meta": {"domain":"peculiarfamilia.com","fetchedAt":1794582150201,"discoveredAt":1794582148474,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://freight.cargo.site/w/1000/i/E3055772228683955428892583863822/screenshot-3695211032.jpg","full":"https://freight.cargo.site/t/original/i/E3055772228683955428892583863822/screenshot-3695211032.jpg","page":"https://www.peculiarfamilia.com/","title":null,"firstSeen":1794507245808},
+  {"src":"https://www.peculiarfamilia.com/og-image.jpg","full":"https://www.peculiarfamilia.com/og-image.jpg","page":"https://www.peculiarfamilia.com/","title":null,"firstSeen":1794507245808}
+ ]
+}

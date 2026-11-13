@@ -1,0 +1,14 @@
+{
+ "meta": {"domain":"charliegreenestudio.com","fetchedAt":1794581977193,"discoveredAt":1794581975736,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"http://static1.squarespace.com/static/655bda3b8c30a1234732c0bd/t/656f992ffa0bcd69dd56d96b/1701812527808/Updated+logo.JPG?format=1000w","full":"http://static1.squarespace.com/static/655bda3b8c30a1234732c0bd/t/656f992ffa0bcd69dd56d96b/1701812527808/Updated+logo.JPG?format=2500w","page":"https://www.charliegreenestudio.com/","title":null,"firstSeen":1794581977193},
+  {"src":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/046a58d6-98e1-476b-a3df-35ac36b8c0c1/RGB-PrimaryStacked.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/046a58d6-98e1-476b-a3df-35ac36b8c0c1/RGB-PrimaryStacked.png?format=2500w","page":"https://www.charliegreenestudio.com/","title":"Charlie Greene Studio","firstSeen":1794507223278},
+  {"src":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/1750772173809-KDY88FIWDJVB0QU62FDU/Home+Page_Gallery+Image_BCG+Cafe.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/1750772173809-KDY88FIWDJVB0QU62FDU/Home+Page_Gallery+Image_BCG+Cafe.jpg?format=2500w","page":"https://www.charliegreenestudio.com/","title":"Empathetic Design","firstSeen":1794507223278},
+  {"src":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/1750772246725-1W4W55544S49K8AH8G95/4+230506_015.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/1750772246725-1W4W55544S49K8AH8G95/4+230506_015.jpg?format=2500w","page":"https://www.charliegreenestudio.com/","title":"Elevated Service","firstSeen":1794507223278},
+  {"src":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/1750697231624-17BNDYKWVW53AJ8FLVWU/210302_005.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/655bda3b8c30a1234732c0bd/1750697231624-17BNDYKWVW53AJ8FLVWU/210302_005.jpg?format=2500w","page":"https://www.charliegreenestudio.com/","title":"Engaged Expertise","firstSeen":1794507223278}
+ ]
+}

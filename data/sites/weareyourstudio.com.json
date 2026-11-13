@@ -1,0 +1,15 @@
+{
+ "meta": {"domain":"weareyourstudio.com","fetchedAt":1794581910195,"discoveredAt":1794581908355,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://www.your.studio/","projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://cdn.sanity.io/images/pf9hjd3k/production/87c293a06bf2756155cc17b53cda05ef18165ce5-7839x4177.png?w=1000","full":"https://cdn.sanity.io/images/pf9hjd3k/production/87c293a06bf2756155cc17b53cda05ef18165ce5-7839x4177.png","page":"https://www.your.studio/","title":null,"firstSeen":1794581910195},
+  {"src":"https://cdn.sanity.io/images/pf9hjd3k/production/37ad6df4e75bd38beb7cfa392f5e845071063dac-404x680.png?w=1000","full":"https://cdn.sanity.io/images/pf9hjd3k/production/37ad6df4e75bd38beb7cfa392f5e845071063dac-404x680.png","page":"https://www.your.studio/","title":"Certified B Corporation","firstSeen":1794581910195},
+  {"src":"https://cdn.sanity.io/images/pf9hjd3k/production/0406fd2ef41bd6363fc967724df00a5d52a75e34-2190x1167.png?w=1000","full":"https://cdn.sanity.io/images/pf9hjd3k/production/0406fd2ef41bd6363fc967724df00a5d52a75e34-2190x1167.png","page":"https://www.your.studio/","title":"Nike Style Hongdae Seoul","firstSeen":1794581910195},
+  {"src":"https://cdn.sanity.io/images/pf9hjd3k/production/87c293a06bf2756155cc17b53cda05ef18165ce5.png?w=1000","full":"https://cdn.sanity.io/images/pf9hjd3k/production/87c293a06bf2756155cc17b53cda05ef18165ce5.png","page":"https://www.your.studio/","title":null,"firstSeen":1794507213729},
+  {"src":"https://cdn.sanity.io/images/pf9hjd3k/production/37ad6df4e75bd38beb7cfa392f5e845071063dac.png?w=1000","full":"https://cdn.sanity.io/images/pf9hjd3k/production/37ad6df4e75bd38beb7cfa392f5e845071063dac.png","page":"https://www.your.studio/","title":"Certified B Corporation","firstSeen":1794507213729},
+  {"src":"https://cdn.sanity.io/images/pf9hjd3k/production/0406fd2ef41bd6363fc967724df00a5d52a75e34.png?w=1000","full":"https://cdn.sanity.io/images/pf9hjd3k/production/0406fd2ef41bd6363fc967724df00a5d52a75e34.png","page":"https://www.your.studio/","title":"Nike Style Hongdae Seoul","firstSeen":1794507213729}
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "meta": {"domain":"wdc-creative.com","fetchedAt":1794581946000,"discoveredAt":1794581945402,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://cdn.prod.website-files.com/5dfa188ac967d247add76ec4/674091b0817d4f7353626d9b_OG.webp","full":"https://cdn.prod.website-files.com/5dfa188ac967d247add76ec4/674091b0817d4f7353626d9b_OG.webp","page":"https://www.wdc-creative.com/","title":null,"firstSeen":1794507218373},
+  {"src":"https://cdn.prod.website-files.com/5dfa188ac967d247add76ec4/693ff3a4e2332c99ff22ee63_curtain-still-original-p-800.webp","full":"https://cdn.prod.website-files.com/5dfa188ac967d247add76ec4/693ff3a4e2332c99ff22ee63_curtain-still-original.webp","page":"https://www.wdc-creative.com/","title":"Minimalist room with a wooden adjustable stool, beige curtain, light wood-paneled wall with three red hooks, and a green plant in a gray pot","firstSeen":1794507218373},
+  {"src":"https://cdn.prod.website-files.com/5dfa188ac967d247add76ec4/6aec805d79eba04b4d93488e_videoframe_0%20(3)-p-800.png","full":"https://cdn.prod.website-files.com/5dfa188ac967d247add76ec4/6aec805d79eba04b4d93488e_videoframe_0%20(3).png","page":"https://www.wdc-creative.com/","title":null,"firstSeen":1794507218373}
+ ]
+}

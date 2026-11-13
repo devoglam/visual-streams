@@ -1,0 +1,12 @@
+{
+ "meta": {"domain":"jmg-creative.com","fetchedAt":1794582171836,"discoveredAt":1794582170765,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-portrait.avif","full":"https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-portrait.avif","page":"https://www.jmg-creative.com/","title":null,"firstSeen":1794507248629},
+  {"src":"https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-landscape.avif","full":"https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-landscape.avif","page":"https://www.jmg-creative.com/","title":null,"firstSeen":1794507248629},
+  {"src":"https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-portrait.jpg","full":"https://assets.squarespace.com/universal/images-v6/parking-page/backgrounds/img101-landscape.jpg","page":"https://www.jmg-creative.com/","title":null,"firstSeen":1794507248629}
+ ]
+}

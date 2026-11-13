@@ -1,0 +1,13 @@
+{
+ "meta": {"domain":"hd-ad.com","fetchedAt":1794581649525,"discoveredAt":1794581648675,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://static.wixstatic.com/media/23f7e0_c12ac4f21d0c47e8940dba8865ed539c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/23f7e0_c12ac4f21d0c47e8940dba8865ed539c%7Emv2.jpg","full":"https://static.wixstatic.com/media/23f7e0_c12ac4f21d0c47e8940dba8865ed539c%7Emv2.jpg","page":"https://www.hd-ad.com/","title":null,"firstSeen":1794507176174},
+  {"src":"https://static.wixstatic.com/media/23f7e0_74dfeb6ecc6e40548ad3b03e31de0e47~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23f7e0_74dfeb6ecc6e40548ad3b03e31de0e47~mv2.jpg","full":"https://static.wixstatic.com/media/23f7e0_74dfeb6ecc6e40548ad3b03e31de0e47~mv2.jpg","page":"https://www.hd-ad.com/","title":null,"firstSeen":1794507176174},
+  {"src":"https://static.wixstatic.com/media/23f7e0_c82564bb54814dd1bb49ccb9b2d5073b~mv2.png/v1/fill/w_49,h_33,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23f7e0_c82564bb54814dd1bb49ccb9b2d5073b~mv2.png","full":"https://static.wixstatic.com/media/23f7e0_c82564bb54814dd1bb49ccb9b2d5073b~mv2.png","page":"https://www.hd-ad.com/","title":null,"firstSeen":1794507176174},
+  {"src":"https://static.wixstatic.com/media/23f7e0_12a1e65ac4e34b25843af00a09627576~mv2.png/v1/fill/w_49,h_27,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23f7e0_12a1e65ac4e34b25843af00a09627576~mv2.png","full":"https://static.wixstatic.com/media/23f7e0_12a1e65ac4e34b25843af00a09627576~mv2.png","page":"https://www.hd-ad.com/","title":null,"firstSeen":1794507176174}
+ ]
+}

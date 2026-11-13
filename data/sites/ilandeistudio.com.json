@@ -1,0 +1,10 @@
+{
+ "meta": {"domain":"ilandeistudio.com","fetchedAt":1794581651078,"discoveredAt":1794581649867,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://images.squarespace-cdn.com/content/v1/53d282a1e4b0d9e21c985b36/1422401819748-O2Q75LRIATFLTZXZ4X4T/cover+test.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/53d282a1e4b0d9e21c985b36/1422401819748-O2Q75LRIATFLTZXZ4X4T/cover+test.jpg?format=2500w","page":"https://www.ilandeistudio.com/","title":"cover test.jpg","firstSeen":1794507176447}
+ ]
+}

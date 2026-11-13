@@ -1,0 +1,10 @@
+{
+ "meta": {"domain":"tasquare.com","fetchedAt":1794582454429,"discoveredAt":1794582453453,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://cdn.prod.website-files.com/68e5eece52183acbed0cf659/69b0b57e7221b4d4ce76ad52_TA%20log%20cropped.png","full":"https://cdn.prod.website-files.com/68e5eece52183acbed0cf659/69b0b57e7221b4d4ce76ad52_TA%20log%20cropped.png","page":"https://www.tasquare.com/","title":"T-A SQUARE","firstSeen":1794507287962}
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "meta": {"domain":"caststudio.com.au","fetchedAt":1794582315578,"discoveredAt":1794582314294,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"http://static1.squarespace.com/static/57a46b72e58c6272ab63b7ba/t/5d9dd909722c6673fd5b0191/1624842448957/KingSt-145_LR.jpg?format=1000w","full":"http://static1.squarespace.com/static/57a46b72e58c6272ab63b7ba/t/5d9dd909722c6673fd5b0191/1624842448957/KingSt-145_LR.jpg?format=2500w","page":"https://caststudio.com.au/","title":null,"firstSeen":1794507269250},
+  {"src":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/1624836804062-VJK0VZY8C9N2SHN1XTN7/cast-studio-fremantle-marine-terrace-wa-202.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/1624836804062-VJK0VZY8C9N2SHN1XTN7/cast-studio-fremantle-marine-terrace-wa-202.jpg?format=2500w","page":"https://caststudio.com.au/","title":"cast-studio-fremantle-marine-terrace-wa-202.jpg","firstSeen":1794507269250},
+  {"src":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/d3ade827-1cea-4040-b1f3-b49c62bcd4ab/GenY_20210222_5838_lores.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/d3ade827-1cea-4040-b1f3-b49c62bcd4ab/GenY_20210222_5838_lores.jpg?format=2500w","page":"https://caststudio.com.au/","title":null,"firstSeen":1794507269250},
+  {"src":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/bf6c7a04-af4c-4295-b060-16b08138435c/cast2024hr-53.JPG?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/bf6c7a04-af4c-4295-b060-16b08138435c/cast2024hr-53.JPG?format=2500w","page":"https://caststudio.com.au/","title":null,"firstSeen":1794507269250},
+  {"src":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/1624843106978-Q4ZF64ROYNFWXNJZZA0L/cast-studio-symbol-white.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/57a46b72e58c6272ab63b7ba/1624843106978-Q4ZF64ROYNFWXNJZZA0L/cast-studio-symbol-white.png?format=2500w","page":"https://caststudio.com.au/","title":"cast-studio-symbol-white.png","firstSeen":1794507269250}
+ ]
+}

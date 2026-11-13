@@ -1,0 +1,17 @@
+{
+ "meta": {"domain":"tastespace.co","fetchedAt":1794581822189,"discoveredAt":1794581819875,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://www.tastespace.co/wp-content/uploads/2019/02/taste-space.jpg","full":"https://www.tastespace.co/wp-content/uploads/2019/02/taste-space.jpg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018},
+  {"src":"https://www.tastespace.co/wp-content/uploads/2019/02/tsp19-2-1.jpg","full":"https://www.tastespace.co/wp-content/uploads/2019/02/tsp19-2-1.jpg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018},
+  {"src":"https://www.tastespace.co/wp-content/uploads/2019/02/tsp19-1-1.jpg","full":"https://www.tastespace.co/wp-content/uploads/2019/02/tsp19-1-1.jpg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018},
+  {"src":"https://www.tastespace.co/wp-content/uploads/2024/01/COV.jpg","full":"https://www.tastespace.co/wp-content/uploads/2024/01/COV.jpg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018},
+  {"src":"https://www.tastespace.co/wp-content/uploads/2024/01/FUW_RESIZE-030-1120x570.jpeg","full":"https://www.tastespace.co/wp-content/uploads/2024/01/FUW_RESIZE-030.jpeg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018},
+  {"src":"https://www.tastespace.co/wp-content/uploads/2023/12/Untitled-1.jpg","full":"https://www.tastespace.co/wp-content/uploads/2023/12/Untitled-1.jpg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018},
+  {"src":"https://www.tastespace.co/wp-content/uploads/2023/11/NB.jpg","full":"https://www.tastespace.co/wp-content/uploads/2023/11/NB.jpg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018},
+  {"src":"https://www.tastespace.co/wp-content/uploads/2023/11/NSR_SETC_RESIZE-008-1120x570.jpg","full":"https://www.tastespace.co/wp-content/uploads/2023/11/NSR_SETC_RESIZE-008.jpg","page":"https://www.tastespace.co/","title":null,"firstSeen":1794507203018}
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "meta": {"domain":"chicagoscenic.com","fetchedAt":1794582207459,"discoveredAt":1794582194523,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":7,"visited":7,"remaining":0}},
+ "visited": {"https://www.chicagoscenic.com/blog":1794582194523,"https://www.chicagoscenic.com/news":1794582194523,"https://www.chicagoscenic.com/send-a-file":1794582194523,"https://www.chicagoscenic.com/work/corporate-branding-events":1794582194523,"https://www.chicagoscenic.com/work/theatre":1794582194523,"https://www.chicagoscenic.com/work/tv-film":1794582194523,"https://www.chicagoscenic.com/work/rentals-automation":1794582194523},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://www.chicagoscenic.com/images/projects/Chicago_Scenic_AWM_5_2017_021.jpg","full":"https://www.chicagoscenic.com/images/projects/Chicago_Scenic_AWM_5_2017_021.jpg","page":"https://www.chicagoscenic.com/","title":null,"firstSeen":1794507252793}
+ ]
+}

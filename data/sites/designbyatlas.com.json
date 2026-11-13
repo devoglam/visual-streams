@@ -1,0 +1,17 @@
+{
+ "meta": {"domain":"designbyatlas.com","fetchedAt":1794582002638,"discoveredAt":1794582001157,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://designbyatlas-new.imgix.net/00_home/01_eolo.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/01_eolo.jpg","page":"https://designbyatlas.com/","title":"Eolo","firstSeen":1794507225869},
+  {"src":"https://designbyatlas-new.imgix.net/00_home/02_elephant.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/02_elephant.jpg","page":"https://designbyatlas.com/","title":"Elephant","firstSeen":1794507225869},
+  {"src":"https://designbyatlas-new.imgix.net/00_home/03_teatre_principal.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/03_teatre_principal.jpg","page":"https://designbyatlas.com/","title":"Teatre Principal","firstSeen":1794507225869},
+  {"src":"https://designbyatlas-new.imgix.net/00_home/04_casino_ibiza.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/04_casino_ibiza.jpg","page":"https://designbyatlas.com/","title":"Casino de Ibiza","firstSeen":1794507225869},
+  {"src":"https://designbyatlas-new.imgix.net/00_home/05_mast.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/05_mast.jpg","page":"https://designbyatlas.com/","title":"Mast","firstSeen":1794507225869},
+  {"src":"https://designbyatlas-new.imgix.net/00_home/06_camper.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/06_camper.jpg","page":"https://designbyatlas.com/","title":"Camper","firstSeen":1794507225869},
+  {"src":"https://designbyatlas-new.imgix.net/00_home/07_huguet.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/07_huguet.jpg","page":"https://designbyatlas.com/","title":"Huguet","firstSeen":1794507225869},
+  {"src":"https://designbyatlas-new.imgix.net/00_home/08_museu.jpg?w=1000","full":"https://designbyatlas-new.imgix.net/00_home/08_museu.jpg","page":"https://designbyatlas.com/","title":"Barcelona Design Museum","firstSeen":1794507225869}
+ ]
+}

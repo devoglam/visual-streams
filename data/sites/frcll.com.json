@@ -1,0 +1,12 @@
+{
+ "meta": {"domain":"frcll.com","fetchedAt":1794582490303,"discoveredAt":1794582489021,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://images.squarespace-cdn.com/content/v1/53cc579be4b0bcaba3c87ffa/fa85bf0a-94f7-41df-b342-c9e527557d01/Chelsea_Living%2BRoom-2.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/53cc579be4b0bcaba3c87ffa/fa85bf0a-94f7-41df-b342-c9e527557d01/Chelsea_Living%2BRoom-2.jpg?format=2500w","page":"https://www.frcll.com/","title":null,"firstSeen":1794507291368},
+  {"src":"https://images.squarespace-cdn.com/content/v1/53cc579be4b0bcaba3c87ffa/9703f3cc-30cf-4a70-b0df-84b1ae4c5364/Wang_Display-2.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/53cc579be4b0bcaba3c87ffa/9703f3cc-30cf-4a70-b0df-84b1ae4c5364/Wang_Display-2.jpg?format=2500w","page":"https://www.frcll.com/","title":null,"firstSeen":1794507291368},
+  {"src":"https://images.squarespace-cdn.com/content/v1/53cc579be4b0bcaba3c87ffa/8f9a12e3-337d-4a80-9312-d81373ebb43e/cultural.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/53cc579be4b0bcaba3c87ffa/8f9a12e3-337d-4a80-9312-d81373ebb43e/cultural.jpg?format=2500w","page":"https://www.frcll.com/","title":null,"firstSeen":1794507291368}
+ ]
+}

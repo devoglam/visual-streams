@@ -1,0 +1,13 @@
+{
+ "meta": {"domain":"huntersdaughter.co.uk","fetchedAt":1794581825173,"discoveredAt":1794581824366,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://static.wixstatic.com/media/b108c8_921f77c285db4792b3eb666f46405c0d~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Trumans%20Brewery-143_sml.jpg","full":"https://static.wixstatic.com/media/b108c8_921f77c285db4792b3eb666f46405c0d~mv2.jpg","page":"https://www.huntersdaughter.co.uk/","title":"Trumans Brewery-143_sml.jpg","firstSeen":1794507203349},
+  {"src":"https://static.wixstatic.com/media/b108c8_16ff0741600f41aea2cf32cdc1dba5bb~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/White%20Cloth%20Hall%20065.jpg","full":"https://static.wixstatic.com/media/b108c8_16ff0741600f41aea2cf32cdc1dba5bb~mv2.jpg","page":"https://www.huntersdaughter.co.uk/","title":"White Cloth Hall 065.jpg","firstSeen":1794507203349},
+  {"src":"https://static.wixstatic.com/media/b108c8_1d5eae2fb29a4fc1a15f9055c65c19d3~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Trumans%20Brewery-143_MED.jpg","full":"https://static.wixstatic.com/media/b108c8_1d5eae2fb29a4fc1a15f9055c65c19d3~mv2.jpg","page":"https://www.huntersdaughter.co.uk/","title":"Trumans Brewery-143_MED.jpg","firstSeen":1794507203349},
+  {"src":"https://static.wixstatic.com/media/b108c8_4a249b68af0043e5b0979554dd99f8bb~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/HD_Five_Points_Brewery_DG_08.jpg","full":"https://static.wixstatic.com/media/b108c8_4a249b68af0043e5b0979554dd99f8bb~mv2.jpg","page":"https://www.huntersdaughter.co.uk/","title":"HD_Five_Points_Brewery_DG_08.jpg","firstSeen":1794507203349}
+ ]
+}

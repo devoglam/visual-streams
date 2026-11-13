@@ -1,0 +1,15 @@
+{
+ "meta": {"domain":"counterfeit-studio.com","fetchedAt":1794581941785,"discoveredAt":1794581940800,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"http://static1.squarespace.com/static/5fa468b9be882012fbd59ab2/t/687616b695044f7c62c743e4/1752569526440/favicon+blk%404x.png?format=1000w","full":"http://static1.squarespace.com/static/5fa468b9be882012fbd59ab2/t/687616b695044f7c62c743e4/1752569526440/favicon+blk%404x.png?format=2500w","page":"https://www.counterfeit-studio.com/","title":null,"firstSeen":1794581941785},
+  {"src":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/846ca53f-1972-4e10-85ca-6069a08d41f9/Counterfeit+Logo+WHT+%404x.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/846ca53f-1972-4e10-85ca-6069a08d41f9/Counterfeit+Logo+WHT+%404x.png?format=2500w","page":"https://www.counterfeit-studio.com/","title":null,"firstSeen":1794581941785},
+  {"src":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/7f35f66a-f078-439e-907c-6bf8ac3e7dcb/Counterfeit+Logo+WHT+%404x.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/7f35f66a-f078-439e-907c-6bf8ac3e7dcb/Counterfeit+Logo+WHT+%404x.png?format=2500w","page":"https://www.counterfeit-studio.com/","title":null,"firstSeen":1794581941785},
+  {"src":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/066aacf3-fbf8-49d2-a1e3-f223dbe3a877/COunterfeit+Stusio_Landing1%404x.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/066aacf3-fbf8-49d2-a1e3-f223dbe3a877/COunterfeit+Stusio_Landing1%404x.png?format=2500w","page":"https://www.counterfeit-studio.com/","title":"Empty white background with a faint line at the top.","firstSeen":1794507217666},
+  {"src":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/146169b4-8504-414b-8ff3-63f01bf15f29/COunterfeit+Stusio_Landing1%404x.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/5fa468b9be882012fbd59ab2/146169b4-8504-414b-8ff3-63f01bf15f29/COunterfeit+Stusio_Landing1%404x.png?format=2500w","page":"https://www.counterfeit-studio.com/","title":"Empty white screen with no visible objects or details.","firstSeen":1794507217666},
+  {"src":"https://images.squarespace-cdn.com/content/5fa468b9be882012fbd59ab2/ef30c1d7-a811-44cc-89b6-23fba8d7ab72/BACK+TO+TOP+1%404x.png?format=1000w","full":"https://images.squarespace-cdn.com/content/5fa468b9be882012fbd59ab2/ef30c1d7-a811-44cc-89b6-23fba8d7ab72/BACK+TO+TOP+1%404x.png?format=2500w","page":"https://www.counterfeit-studio.com/","title":"Back to Top","firstSeen":1794507217666}
+ ]
+}

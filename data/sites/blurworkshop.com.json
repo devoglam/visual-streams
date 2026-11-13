@@ -1,0 +1,12 @@
+{
+ "meta": {"domain":"blurworkshop.com","fetchedAt":1794581827234,"discoveredAt":1794581825222,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"http://static1.squarespace.com/static/69ab2f365fa4a90c658a6064/t/69ab2fa5f717bf7eb3f1ecd4/1772826533957/BLUR+logo+horizontal+-+2026.png?format=1000w","full":"http://static1.squarespace.com/static/69ab2f365fa4a90c658a6064/t/69ab2fa5f717bf7eb3f1ecd4/1772826533957/BLUR+logo+horizontal+-+2026.png?format=2500w","page":"https://www.blurworkshop.com/","title":null,"firstSeen":1794581827234},
+  {"src":"https://images.squarespace-cdn.com/content/v1/69ab2f365fa4a90c658a6064/473d2837-8115-4634-8b03-c5264964f6de/BLUR+logo+square+-+2026.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/69ab2f365fa4a90c658a6064/473d2837-8115-4634-8b03-c5264964f6de/BLUR+logo+square+-+2026.png?format=2500w","page":"https://www.blurworkshop.com/","title":"Letters of the alphabet in uppercase and lowercase displayed in a grid, with uppercase letters in black and lowercase letters in gray on a b","firstSeen":1794581827234},
+  {"src":"https://images.squarespace-cdn.com/content/v1/69ab2f365fa4a90c658a6064/ba5db05c-aa8f-4e8a-b95a-30f18c7a663b/email_gray_V2.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/69ab2f365fa4a90c658a6064/ba5db05c-aa8f-4e8a-b95a-30f18c7a663b/email_gray_V2.png?format=2500w","page":"https://www.blurworkshop.com/","title":"Envelope icon on a black background.","firstSeen":1794507203539}
+ ]
+}

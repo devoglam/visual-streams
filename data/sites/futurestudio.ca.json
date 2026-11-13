@@ -1,0 +1,11 @@
+{
+ "meta": {"domain":"futurestudio.ca","fetchedAt":1794581760846,"discoveredAt":1794581760453,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://futurestudio.ca/images/future-studio-scroller.png","full":"https://futurestudio.ca/images/future-studio-scroller.png","page":"https://futurestudio.ca/","title":null,"firstSeen":1794507197093},
+  {"src":"https://futurestudio.ca/images/building-graphic.jpg","full":"https://futurestudio.ca/images/building-graphic.jpg","page":"https://futurestudio.ca/","title":null,"firstSeen":1794507197093}
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "meta": {"domain":"sdisf.com","fetchedAt":1794582232612,"discoveredAt":1794582231469,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"http://static1.squarespace.com/static/60833f2a2410e82bbba6171e/t/633cd6a95aa4987a49b6e770/1653341635361/Expedia+The+Beach_9x16_white+logo.jpg?format=1000w","full":"http://static1.squarespace.com/static/60833f2a2410e82bbba6171e/t/633cd6a95aa4987a49b6e770/1653341635361/Expedia+The+Beach_9x16_white+logo.jpg?format=2500w","page":"https://www.sdisf.com/","title":null,"firstSeen":1794582232612},
+  {"src":"https://images.squarespace-cdn.com/content/v1/60833f2a2410e82bbba6171e/7744d6fc-b4fc-4d89-89be-62cdb6911901/dot.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/60833f2a2410e82bbba6171e/7744d6fc-b4fc-4d89-89be-62cdb6911901/dot.png?format=2500w","page":"https://www.sdisf.com/","title":null,"firstSeen":1794507260090}
+ ]
+}

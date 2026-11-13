@@ -1,0 +1,11 @@
+{
+ "meta": {"domain":"bueroberlin.net","fetchedAt":1794582229539,"discoveredAt":1794582211416,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":2,"visited":2,"remaining":0}},
+ "visited": {"https://www.bueroberlin.net/en/interim":1794582211416,"https://www.bueroberlin.net/en/datenschutz":1794582211416},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"https://www.bueroberlin.net/wp-content/plugins/qtranslate-xt-3.15.2/flags/de.png","full":"https://www.bueroberlin.net/wp-content/plugins/qtranslate-xt-3.15.2/flags/de.png","page":"https://www.bueroberlin.net/en/","title":null,"firstSeen":1794507256393},
+  {"src":"https://www.bueroberlin.net/wp-content/plugins/qtranslate-xt-3.15.2/flags/gb.png","full":"https://www.bueroberlin.net/wp-content/plugins/qtranslate-xt-3.15.2/flags/gb.png","page":"https://www.bueroberlin.net/en/","title":null,"firstSeen":1794507256393}
+ ]
+}

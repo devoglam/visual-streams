@@ -1,0 +1,12 @@
+{
+ "meta": {"domain":"studioplenty.com.au","fetchedAt":1794582534513,"discoveredAt":1794582533285,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "visited": {},
+ "pending": [
+
+ ],
+ "images": [
+  {"src":"http://static1.squarespace.com/static/6188a5c05ec516542dde416b/t/68f47507096c337b552d8672/1760851207926/251019_SP+Logo+2025+2.png?format=1000w","full":"http://static1.squarespace.com/static/6188a5c05ec516542dde416b/t/68f47507096c337b552d8672/1760851207926/251019_SP+Logo+2025+2.png?format=2500w","page":"https://www.studioplenty.com.au/","title":null,"firstSeen":1794582534513},
+  {"src":"https://images.squarespace-cdn.com/content/v1/6188a5c05ec516542dde416b/390b4053-fa70-4a1a-b083-83212081e842/251019_SP+Logo+2025+%28web+home%29.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/6188a5c05ec516542dde416b/390b4053-fa70-4a1a-b083-83212081e842/251019_SP+Logo+2025+%28web+home%29.png?format=2500w","page":"https://www.studioplenty.com.au/","title":null,"firstSeen":1794582534513},
+  {"src":"https://images.squarespace-cdn.com/content/v1/6188a5c05ec516542dde416b/1736030160237-JMGBZ93ONLVNQOHN03U8/Burly-Jessie-Prince-36.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/6188a5c05ec516542dde416b/1736030160237-JMGBZ93ONLVNQOHN03U8/Burly-Jessie-Prince-36.jpg?format=2500w","page":"https://www.studioplenty.com.au/","title":null,"firstSeen":1794507293952}
+ ]
+}
