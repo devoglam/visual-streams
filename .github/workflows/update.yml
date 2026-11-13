@@ -2,7 +2,7 @@ name: Update Visual Streams
 
 on:
   schedule:
-    - cron: "17 10 * * *"   # every day, about 5:17am New York time
+    - cron: "17 */3 * * *"  # every 3 hours: each run continues working through every studio's projects
   push:
     paths:
       - "data/sources.json"
@@ -39,9 +39,9 @@ jobs:
         run: |
           git config user.name "visual-streams-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/images.json
+          git add -A data
           if ! git diff --cached --quiet; then
-            git commit -m "Update image history"
+            git commit -m "Update image history" --quiet
             git pull --rebase -X theirs || git rebase --abort
             git push || echo "Couldn't save image history this time; the site will still publish."
           fi
