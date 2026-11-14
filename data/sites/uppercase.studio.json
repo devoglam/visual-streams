@@ -1,5 +1,5 @@
 {
- "meta": {"fetchedAt":1794582154999,"ok":false,"error":"CERT_HAS_EXPIRED","domain":"uppercase.studio","issue":"unreachable","movedTo":null},
+ "meta": {"fetchedAt":1794661372483,"ok":false,"error":"CERT_HAS_EXPIRED","domain":"uppercase.studio","issue":"unreachable","movedTo":null},
  "visited": {},
  "pending": [
 

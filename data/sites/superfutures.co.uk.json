@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"superfutures.co.uk","fetchedAt":1794581705532,"discoveredAt":1794581698528,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
- "visited": {},
+ "meta": {"domain":"superfutures.co.uk","fetchedAt":1794661331987,"discoveredAt":1794661329573,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":1,"visited":1,"remaining":0}},
+ "visited": {"https://superfutures.co.uk/index-selected-project":1794661329573},
  "pending": [
 
  ],
  "images": [
-  {"src":"https://freight.cargo.site/w/1000/i/N3144064036862634978838013457697/Untitled-3.png","full":"https://freight.cargo.site/t/original/i/N3144064036862634978838013457697/Untitled-3.png","page":"https://superfutures.co.uk/","title":null,"firstSeen":1794507185154}
+  {"src":"https://static.cargo.site/assets/backdrop/video/noise.png","full":"https://static.cargo.site/assets/backdrop/video/noise.png","page":"https://superfutures.co.uk/index-selected-project","title":"Index Selected project","firstSeen":1794661331987},
+  {"src":"https://freight.cargo.site/w/1000/i/N3144064036862634978838013457697/Untitled-3.png","full":"https://freight.cargo.site/t/original/i/N3144064036862634978838013457697/Untitled-3.png","page":"https://superfutures.co.uk/index-selected-project","title":"Index Selected project","firstSeen":1794507185154}
  ]
 }

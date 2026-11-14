@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"supercreative.co","fetchedAt":1794582145237,"discoveredAt":1794582143974,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"supercreative.co","fetchedAt":1794661369862,"discoveredAt":1794582143974,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

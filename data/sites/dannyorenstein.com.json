@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"dannyorenstein.com","fetchedAt":1794581902130,"discoveredAt":1794581900837,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"dannyorenstein.com","fetchedAt":1794661344916,"discoveredAt":1794581900837,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

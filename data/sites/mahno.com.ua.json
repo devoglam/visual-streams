@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"mahno.com.ua","fetchedAt":1794582445388,"discoveredAt":1794582441445,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://makhnostudio.com/","projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"mahno.com.ua","fetchedAt":1794661408712,"discoveredAt":1794582441445,"furniture":[],"ok":false,"error":"HTTP 503","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

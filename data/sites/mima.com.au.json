@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"mima.com.au","fetchedAt":1794581698527,"discoveredAt":1794581684593,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":9,"visited":9,"remaining":0}},
+ "meta": {"domain":"mima.com.au","fetchedAt":1794661341450,"discoveredAt":1794661328974,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":9,"visited":9,"remaining":0}},
  "visited": {"http://www.mima.com.au/portfolio/sammis-circular-quay":1794581684593,"http://www.mima.com.au/portfolio/dna-autosport-australia2":1794581684593,"http://www.mima.com.au/portfolio/leaf-cafe-co-rhodes-central":1794581684593,"http://www.mima.com.au/portfolio/revive-bp-kirrawee":1794581684593,"http://www.mima.com.au/portfolio/komma-barrack-place":1794581684593,"http://www.mima.com.au/portfolio/dna-autosport-australia1":1794581684593,"http://www.mima.com.au/portfolio/leaf-cafe-co-orange":1794581684593,"http://www.mima.com.au/portfolio/sushi-world-broadway":1794581684593,"http://www.mima.com.au/portfolio/nikku-broadway":1794581684593},
  "pending": [
 
  ],
  "images": [
+  {"src":"http://www.mima.com.au/wp-content/uploads/2014/04/clientlogo_bw.png","full":"http://www.mima.com.au/wp-content/uploads/2014/04/clientlogo_bw.png","page":"http://www.mima.com.au/","title":null,"firstSeen":1794581698527},
   {"src":"http://www.mima.com.au/wp-content/uploads/2024/10/Sammis_Hero-scaled-e1728377969614-1024x681.jpeg","full":"http://www.mima.com.au/wp-content/uploads/2024/10/Sammis_Hero-scaled-e1728377969614.jpeg","page":"http://www.mima.com.au/portfolio/sammis-circular-quay/","title":"Sammi's, Circular Quay","firstSeen":1794581698527},
   {"src":"http://www.mima.com.au/wp-content/uploads/2024/10/Sammis_Thumb-scaled-e1728378139372.jpeg","full":"http://www.mima.com.au/wp-content/uploads/2024/10/Sammis_Thumb-scaled-e1728378139372.jpeg","page":"http://www.mima.com.au/portfolio/sammis-circular-quay/","title":"Sammi's, Circular Quay","firstSeen":1794581698527},
   {"src":"http://www.mima.com.au/wp-content/uploads/2024/10/Sammis_Small1-scaled-e1728379044837.jpeg","full":"http://www.mima.com.au/wp-content/uploads/2024/10/Sammis_Small1-scaled-e1728379044837.jpeg","page":"http://www.mima.com.au/portfolio/sammis-circular-quay/","title":"Sammi's, Circular Quay","firstSeen":1794581698527},
@@ -58,7 +59,6 @@
   {"src":"http://www.mima.com.au/wp-content/uploads/2019/11/Nikku_Small1.jpg","full":"http://www.mima.com.au/wp-content/uploads/2019/11/Nikku_Small1.jpg","page":"http://www.mima.com.au/portfolio/nikku-broadway/","title":"Nikku, Broadway","firstSeen":1794581698527},
   {"src":"http://www.mima.com.au/wp-content/uploads/2019/11/Nikku_Vert2.jpg","full":"http://www.mima.com.au/wp-content/uploads/2019/11/Nikku_Vert2.jpg","page":"http://www.mima.com.au/portfolio/nikku-broadway/","title":"Nikku, Broadway","firstSeen":1794581698527},
   {"src":"http://www.mima.com.au/wp-content/uploads/2019/11/Nikku_Vert1.jpg","full":"http://www.mima.com.au/wp-content/uploads/2019/11/Nikku_Vert1.jpg","page":"http://www.mima.com.au/portfolio/nikku-broadway/","title":"Nikku, Broadway","firstSeen":1794581698527},
-  {"src":"http://www.mima.com.au/wp-content/uploads/2014/04/clientlogo_bw.png","full":"http://www.mima.com.au/wp-content/uploads/2014/04/clientlogo_bw.png","page":"http://www.mima.com.au/","title":null,"firstSeen":1794581698527},
   {"src":"http://www.mima.com.au/wp-content/uploads/2014/04/mimastudio1.jpg","full":"http://www.mima.com.au/wp-content/uploads/2014/04/mimastudio1.jpg","page":"http://www.mima.com.au/","title":null,"firstSeen":1794507183837},
   {"src":"http://www.mima.com.au/wp-content/uploads/2014/04/mimastudio2.jpg","full":"http://www.mima.com.au/wp-content/uploads/2014/04/mimastudio2.jpg","page":"http://www.mima.com.au/","title":null,"firstSeen":1794507183837},
   {"src":"http://www.mima.com.au/wp-content/uploads/2014/04/mimastudio3.jpg","full":"http://www.mima.com.au/wp-content/uploads/2014/04/mimastudio3.jpg","page":"http://www.mima.com.au/","title":null,"firstSeen":1794507183837},

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"durhamstudio.com","fetchedAt":1794582185569,"discoveredAt":1794582184544,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"durhamstudio.com","fetchedAt":1794661378884,"discoveredAt":1794582184544,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

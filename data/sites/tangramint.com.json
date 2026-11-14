@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"tangramint.com","fetchedAt":1794581895596,"discoveredAt":1794581893941,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"tangramint.com","fetchedAt":1794661344950,"discoveredAt":1794581893941,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"huxhux.com","fetchedAt":1794581958474,"discoveredAt":1794581957255,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"huxhux.com","fetchedAt":1794661349927,"discoveredAt":1794581957255,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

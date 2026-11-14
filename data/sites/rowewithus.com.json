@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"rowewithus.com","fetchedAt":1794581972184,"discoveredAt":1794581971099,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"rowewithus.com","fetchedAt":1794661350620,"discoveredAt":1794581971099,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,5 +1,5 @@
 {
- "meta": {"fetchedAt":1794582156326,"ok":false,"error":"ERR_SSL_TLSV1_UNRECOGNIZED_NAME","domain":"black.space","issue":"unreachable","movedTo":null},
+ "meta": {"fetchedAt":1794661372027,"ok":false,"error":"ERR_SSL_TLSV1_UNRECOGNIZED_NAME","domain":"black.space","issue":"unreachable","movedTo":null},
  "visited": {},
  "pending": [
 

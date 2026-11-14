@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"sterlingbrands.com","fetchedAt":1794582110809,"discoveredAt":1794582109643,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"sterlingbrands.com","fetchedAt":1794661367750,"discoveredAt":1794582109643,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

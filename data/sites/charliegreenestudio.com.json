@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"charliegreenestudio.com","fetchedAt":1794581977193,"discoveredAt":1794581975736,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"charliegreenestudio.com","fetchedAt":1794661351552,"discoveredAt":1794581975736,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

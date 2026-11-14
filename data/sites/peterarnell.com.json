@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"peterarnell.com","fetchedAt":1794582156877,"discoveredAt":1794582155654,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"peterarnell.com","fetchedAt":1794661373466,"discoveredAt":1794582155654,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

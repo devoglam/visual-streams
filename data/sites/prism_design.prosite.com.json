@@ -1,10 +1,10 @@
 {
- "meta": {"fetchedAt":1794581672821,"ok":false,"error":"HTTP 403","domain":"prism_design.prosite.com","issue":"blocked","movedTo":null},
+ "meta": {"domain":"prism_design.prosite.com","fetchedAt":1794661328581,"discoveredAt":1794661327503,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://portfolio.adobe.com/","projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
-
+  {"src":"https://portfolio.adobe.com/img/share-card.png","full":"https://portfolio.adobe.com/img/share-card.png","page":"https://portfolio.adobe.com/","title":null,"firstSeen":1794661328581}
  ]
 }

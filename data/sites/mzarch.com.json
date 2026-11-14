@@ -1,10 +1,18 @@
 {
- "meta": {"domain":"mzarch.com","fetchedAt":1794582398075,"discoveredAt":1794582391919,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://mzarch.com/","projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"mzarch.com","fetchedAt":1794661411257,"discoveredAt":1794661400745,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://mzarch.com/","projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://mzarch.com/wp-content/uploads/2025/10/MZ-Republic-School-03-web-scaled.jpg","full":"https://mzarch.com/wp-content/uploads/2025/10/MZ-Republic-School-03-web-scaled.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
+  {"src":"https://mzarch.com/wp-content/uploads/2025/06/1513-16th-Ave-South-3-of-6-WEB.jpg","full":"https://mzarch.com/wp-content/uploads/2025/06/1513-16th-Ave-South-3-of-6-WEB.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
+  {"src":"https://mzarch.com/wp-content/uploads/2025/06/Turnip_Truck_West_Web_Res-1.jpg","full":"https://mzarch.com/wp-content/uploads/2025/06/Turnip_Truck_West_Web_Res-1.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
+  {"src":"https://mzarch.com/wp-content/uploads/2025/11/wrk-ix-coverii-scaled.jpg","full":"https://mzarch.com/wp-content/uploads/2025/11/wrk-ix-coverii-scaled.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
+  {"src":"https://mzarch.com/wp-content/uploads/2025/10/19-Creive-Hall-Bagel-Co0300-scaled.jpg","full":"https://mzarch.com/wp-content/uploads/2025/10/19-Creive-Hall-Bagel-Co0300-scaled.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
+  {"src":"https://mzarch.com/wp-content/uploads/2025/10/Hillside-House_-13-scaled.jpg","full":"https://mzarch.com/wp-content/uploads/2025/10/Hillside-House_-13-scaled.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
+  {"src":"https://mzarch.com/wp-content/uploads/2025/10/Queens-WeHo_2024_Exteriors_007_1-scaled.jpg","full":"https://mzarch.com/wp-content/uploads/2025/10/Queens-WeHo_2024_Exteriors_007_1-scaled.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
+  {"src":"https://mzarch.com/wp-content/uploads/2025/10/MZA_CocoRico_-3.jpg","full":"https://mzarch.com/wp-content/uploads/2025/10/MZA_CocoRico_-3.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794661411257},
   {"src":"https://mzarch.com/wp-content/uploads/2026/01/Mza_Primarylogo_Center_Black_Red_Rgb_900px_w_72ppi-1.png","full":"https://mzarch.com/wp-content/uploads/2026/01/Mza_Primarylogo_Center_Black_Red_Rgb_900px_w_72ppi-1.png","page":"https://mzarch.com/","title":null,"firstSeen":1794582398075},
   {"src":"https://mzarch.com/wp-content/uploads/2025/06/Dube-Orthopedics-MZA-Modern-Architect-Nashville-11.jpg","full":"https://mzarch.com/wp-content/uploads/2025/06/Dube-Orthopedics-MZA-Modern-Architect-Nashville-11.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794582398075},
   {"src":"https://mzarch.com/wp-content/uploads/2025/12/12-South-5-scaled.jpg","full":"https://mzarch.com/wp-content/uploads/2025/12/12-South-5-scaled.jpg","page":"https://mzarch.com/","title":null,"firstSeen":1794582398075},
