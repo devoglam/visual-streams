@@ -1,6 +1,6 @@
 {
- "meta": {"domain":"grad.cc","fetchedAt":1794661343046,"discoveredAt":1794661341303,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
- "visited": {},
+ "meta": {"domain":"grad.cc","fetchedAt":1794736607518,"discoveredAt":1794736598279,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":9,"visited":9,"remaining":0}},
+ "visited": {"https://www.grad.cc/sargent-price-residence":1794736598279,"https://www.grad.cc/rush-creek-village-residence":1794736598279,"https://www.grad.cc/fullen-residence":1794736598279,"https://www.grad.cc/rms":1794736598279,"https://www.grad.cc/northstar-cafe-1":1794736598279,"https://www.grad.cc/brassica":1794736598279,"https://www.grad.cc/la-jeune-mariee":1794736598279,"https://www.grad.cc/bexley-city-hall":1794736598279,"https://www.grad.cc/the-bexley-house":1794736598279},
  "pending": [
 
  ],
