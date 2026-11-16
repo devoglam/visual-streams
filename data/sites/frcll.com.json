@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"frcll.com","fetchedAt":1794736650992,"discoveredAt":1794736649468,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"frcll.com","fetchedAt":1794819476759,"discoveredAt":1794736649468,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"brandtwentytwo.com","fetchedAt":1794736651178,"discoveredAt":1794736649719,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"brandtwentytwo.com","fetchedAt":1794819476886,"discoveredAt":1794736649719,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

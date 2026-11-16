@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"architectureplusinformation.com","fetchedAt":1794736634403,"discoveredAt":1794736632344,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"architectureplusinformation.com","fetchedAt":1794819460257,"discoveredAt":1794736632344,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

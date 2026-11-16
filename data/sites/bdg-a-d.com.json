@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"bdg-a-d.com","fetchedAt":1794736636543,"discoveredAt":1794736633864,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"bdg-a-d.com","fetchedAt":1794819463875,"discoveredAt":1794736633864,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
