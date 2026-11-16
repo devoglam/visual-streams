@@ -31,12 +31,12 @@
     },
     {
      "name": "Asylum",
-     "url": "http://theasylum.com.sg/v4/",
+     "url": "https://theasylum.com.sg/",
      "domain": "theasylum.com.sg"
     },
     {
      "name": "a l m project - work",
-     "url": "http://almproject.com/works/",
+     "url": "https://almproject.com/",
      "domain": "almproject.com"
     },
     {
@@ -4261,6 +4261,11 @@
      "url": "https://www.team-b.co/",
      "domain": "team-b.co",
      "group": "Architecture"
+    },
+    {
+     "name": "Formafantasma",
+     "url": "https://formafantasma.com/",
+     "domain": "formafantasma.com"
     }
    ]
   },
