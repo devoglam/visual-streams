@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"stokesarch.com","fetchedAt":1794819472221,"discoveredAt":1794736642822,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"stokesarch.com","fetchedAt":1794900676831,"discoveredAt":1794900675472,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

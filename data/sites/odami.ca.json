@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"odami.ca","fetchedAt":1794819477655,"discoveredAt":1794736651480,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"odami.ca","fetchedAt":1794900679260,"discoveredAt":1794900678572,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"zpzpartners.com","fetchedAt":1794819478704,"discoveredAt":1794736650296,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"zpzpartners.com","fetchedAt":1794900680345,"discoveredAt":1794900679300,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,5 +1,5 @@
 {
- "meta": {"fetchedAt":1794819431701,"ok":false,"error":"ERR_TLS_CERT_ALTNAME_INVALID","domain":"kivadesignarchitecture.com","issue":"unreachable","movedTo":null},
+ "meta": {"fetchedAt":1794900642549,"ok":false,"error":"ERR_TLS_CERT_ALTNAME_INVALID","domain":"kivadesignarchitecture.com","issue":"unreachable","movedTo":null},
  "visited": {},
  "pending": [
 

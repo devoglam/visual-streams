@@ -1,10 +1,21 @@
 {
- "meta": {"domain":"almproject.com","fetchedAt":1794819418666,"discoveredAt":1794819414705,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"almproject.com","fetchedAt":1794900635479,"discoveredAt":1794900633885,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://almproject.com/wp-content/uploads/2014/03/almNutritionFacts-e1395041993802.png","full":"https://almproject.com/wp-content/uploads/2014/03/almNutritionFacts-e1395041993802.png","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2025/05/ALM_0188-comped.jpg","full":"https://almproject.com/wp-content/uploads/2025/05/ALM_0188-comped.jpg","page":"https://almproject.com/","title":"DESERT GOLD – restoration of the McCurdy Residence by William Cody, Eldorado Club, Indian Wells CA","firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/05-vital-voices-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/05-vital-voices-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/02-pizzana-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/02-pizzana-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/03-mulholland-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/03-mulholland-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/04-benu-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/04-benu-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/06-gozu-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/06-gozu-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/07-shiro-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/07-shiro-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/08-insitu-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/08-insitu-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/09-chobani-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/09-chobani-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
+  {"src":"https://almproject.com/wp-content/uploads/2023/08/10-on-a-clear-day-scaled.jpg","full":"https://almproject.com/wp-content/uploads/2023/08/10-on-a-clear-day-scaled.jpg","page":"https://almproject.com/","title":null,"firstSeen":1794900635479},
   {"src":"https://almproject.com/wp-content/uploads/2019/11/gozu-web-10_DSF3044rt-900x600.jpg","full":"https://almproject.com/wp-content/uploads/2019/11/gozu-web-10_DSF3044rt.jpg","page":"https://almproject.com/2019/11/gozu-photoshoot-daniele-ansidei/","title":"GOZU photoshoot with Daniele Ansidei","firstSeen":1572832817000},
   {"src":"https://almproject.com/wp-content/uploads/2019/09/2019-0924_resident_alien_elevator-802x600.jpg","full":"https://almproject.com/wp-content/uploads/2019/09/2019-0924_resident_alien_elevator.jpg","page":"https://almproject.com/2019/09/resident-alien-opens-austrian-cultural-forum-ny/","title":"Resident Alien – Austrian Architects in America opens at the Austrian Cultural Forum NY","firstSeen":1569339725000},
   {"src":"https://almproject.com/wp-content/uploads/2019/10/F5417A77-4FD3-44A0-98DE-53458F5A591F.jpg","full":"https://almproject.com/wp-content/uploads/2019/10/F5417A77-4FD3-44A0-98DE-53458F5A591F.jpg","page":"https://almproject.com/2019/09/bauhaus-la-now/","title":"delirious LA: Bauhaus > LA > NOW","firstSeen":1569070453000},

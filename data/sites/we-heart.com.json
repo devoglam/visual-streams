@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"we-heart.com","fetchedAt":1794819479309,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"we-heart.com","fetchedAt":1794900679962,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.we-heart.com/upload-images/kgmotellexington1366.jpg","full":"https://www.we-heart.com/upload-images/kgmotellexington1366.jpg","page":"https://www.we-heart.com/2026/11/16/kg-motel-lexington-virginia-mid-century-design/","title":"KG Motel, Lexington, VA","firstSeen":1794826139000},
   {"src":"https://www.we-heart.com/upload-images/luxurypoolmaintenancegiude1366.jpg","full":"https://www.we-heart.com/upload-images/luxurypoolmaintenancegiude1366.jpg","page":"https://www.we-heart.com/2026/11/12/luxury-pool-maintenance-equipment-protects-outdoor-investment/","title":"Luxury Pool Maintenance","firstSeen":1794483711000},
   {"src":"https://www.we-heart.com/upload-images/rizzossoftservemadrid1366.jpg","full":"https://www.we-heart.com/upload-images/rizzossoftservemadrid1366.jpg","page":"https://www.we-heart.com/2026/11/12/rizzos-soft-serve-madrid-salamanca-cafe-design-carlota-gallo/","title":"Rizzos Soft Serve, Madrid","firstSeen":1794480289000},
   {"src":"https://www.we-heart.com/upload-images/norahotelwestpalm1366.jpg","full":"https://www.we-heart.com/upload-images/norahotelwestpalm1366.jpg","page":"https://www.we-heart.com/2026/11/11/the-nora-hotel-west-palm-beach-florida-design-gachot/","title":"The Nora Hotel, West Palm Beach","firstSeen":1794396530000},
