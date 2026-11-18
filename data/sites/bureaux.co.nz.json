@@ -1,5 +1,5 @@
 {
- "meta": {"fetchedAt":1794900676460,"ok":false,"error":"CERT_HAS_EXPIRED","domain":"bureaux.co.nz","issue":"unreachable","movedTo":null},
+ "meta": {"fetchedAt":1794974828716,"ok":false,"error":"CERT_HAS_EXPIRED","domain":"bureaux.co.nz","issue":"unreachable","movedTo":null},
  "visited": {},
  "pending": [
 

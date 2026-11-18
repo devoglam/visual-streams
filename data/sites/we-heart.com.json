@@ -1,10 +1,14 @@
 {
- "meta": {"domain":"we-heart.com","fetchedAt":1794900679962,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"we-heart.com","fetchedAt":1794974830708,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.we-heart.com/upload-images/slowtravelburnout1366.jpg","full":"https://www.we-heart.com/upload-images/slowtravelburnout1366.jpg","page":"https://www.we-heart.com/2026/11/17/slow-travel-antidote-modern-burnout/","title":"Slow Travel as an Antidote to Burnout","firstSeen":1794936238000},
+  {"src":"https://www.we-heart.com/upload-images/artcreativityemotions1366.jpg","full":"https://www.we-heart.com/upload-images/artcreativityemotions1366.jpg","page":"https://www.we-heart.com/2026/11/17/how-art-and-creativity-can-help-us-process-difficult-emotions/","title":"How Art and Creativity Can Help Us Process Difficult Emotions","firstSeen":1794934378000},
+  {"src":"https://www.we-heart.com/upload-images/subscriptionreminderapps1366.jpg","full":"https://www.we-heart.com/upload-images/subscriptionreminderapps1366.jpg","page":"https://www.we-heart.com/2026/11/17/subscription-reminder-app-picks-6-options-2026/","title":"Subscription Reminder App Picks","firstSeen":1794934187000},
+  {"src":"https://www.we-heart.com/upload-images/snipcafekharkiv1366.jpg","full":"https://www.we-heart.com/upload-images/snipcafekharkiv1366.jpg","page":"https://www.we-heart.com/2026/11/17/snip-cafe-kharkiv-ukraine-design-ik-architects/","title":"SNIP Café, Kharkiv","firstSeen":1794901108000},
   {"src":"https://www.we-heart.com/upload-images/kgmotellexington1366.jpg","full":"https://www.we-heart.com/upload-images/kgmotellexington1366.jpg","page":"https://www.we-heart.com/2026/11/16/kg-motel-lexington-virginia-mid-century-design/","title":"KG Motel, Lexington, VA","firstSeen":1794826139000},
   {"src":"https://www.we-heart.com/upload-images/luxurypoolmaintenancegiude1366.jpg","full":"https://www.we-heart.com/upload-images/luxurypoolmaintenancegiude1366.jpg","page":"https://www.we-heart.com/2026/11/12/luxury-pool-maintenance-equipment-protects-outdoor-investment/","title":"Luxury Pool Maintenance","firstSeen":1794483711000},
   {"src":"https://www.we-heart.com/upload-images/rizzossoftservemadrid1366.jpg","full":"https://www.we-heart.com/upload-images/rizzossoftservemadrid1366.jpg","page":"https://www.we-heart.com/2026/11/12/rizzos-soft-serve-madrid-salamanca-cafe-design-carlota-gallo/","title":"Rizzos Soft Serve, Madrid","firstSeen":1794480289000},

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"notedesignstudio.se","fetchedAt":1794900676042,"discoveredAt":1794819467410,"furniture":[],"ok":false,"error":"ETIMEDOUT","issue":"unreachable","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"notedesignstudio.se","fetchedAt":1794974828625,"discoveredAt":1794974825607,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

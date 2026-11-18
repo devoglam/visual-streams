@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"jmg-creative.com","fetchedAt":1794900661080,"discoveredAt":1794900659592,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://jmg-creative.com/","projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"jmg-creative.com","fetchedAt":1794974802369,"discoveredAt":1794900659592,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
