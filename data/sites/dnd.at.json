@@ -1,10 +1,13 @@
 {
- "meta": {"domain":"dnd.at","fetchedAt":1795051547026,"discoveredAt":1795051542625,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"dnd.at","fetchedAt":1795125613397,"discoveredAt":1795125608655,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.dnd.at/data/media/abau_media/standard/1795085880.jpg","full":"https://www.dnd.at/data/media/abau_media/standard/1795085880.jpg","page":"https://www.dnd.at/index.php","title":null,"firstSeen":1795125613397},
+  {"src":"https://www.dnd.at/data/media/abau_media/standard/1795086738.jpg","full":"https://www.dnd.at/data/media/abau_media/standard/1795086738.jpg","page":"https://www.dnd.at/index.php","title":null,"firstSeen":1795125613397},
+  {"src":"https://www.dnd.at/data/media/abau_media/standard/1795096349.jpg","full":"https://www.dnd.at/data/media/abau_media/standard/1795096349.jpg","page":"https://www.dnd.at/index.php","title":null,"firstSeen":1795125613397},
   {"src":"https://www.dnd.at/data/media/abau_media/standard/1787041763.jpg","full":"https://www.dnd.at/data/media/abau_media/standard/1787041763.jpg","page":"https://www.dnd.at/index.php?inc=projectSelection","title":null,"firstSeen":1794582229873},
   {"src":"https://www.dnd.at/data/media/abau_media/standard/1751445183.jpg","full":"https://www.dnd.at/data/media/abau_media/standard/1751445183.jpg","page":"https://www.dnd.at/index.php?inc=projectSelection","title":null,"firstSeen":1794582229873},
   {"src":"https://www.dnd.at/data/media/abau_media/standard/1782460779.jpg","full":"https://www.dnd.at/data/media/abau_media/standard/1782460779.jpg","page":"https://www.dnd.at/index.php?inc=projectSelection","title":null,"firstSeen":1794582229873},

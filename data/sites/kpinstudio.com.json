@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"kpinstudio.com","fetchedAt":1795051520155,"discoveredAt":1794819441601,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"kpinstudio.com","fetchedAt":1795125585899,"discoveredAt":1794819441601,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,10 +1,14 @@
 {
- "meta": {"domain":"qsrmagazine.com","fetchedAt":1795051541054,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"qsrmagazine.com","fetchedAt":1795125603828,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/urbanplates.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/urbanplates.jpg","page":"https://www.qsrmagazine.com/story/the-secret-behind-urban-plates-4-5-million-restaurants/","title":"The Secret Behind Urban Plates' $4.5 Million Restaurants","firstSeen":1795115355000},
+  {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/85degreeapple.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/85degreeapple.jpg","page":"https://www.qsrmagazine.com/food/beverage/85c-bakery-cafe-launches-new-apple-inspired-beverage-lineup/","title":"85°C Bakery Cafe Launches New Apple-Inspired Beverage Lineup","firstSeen":1795102113000},
+  {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/restauranttechnology.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/restauranttechnology.jpg","page":"https://www.qsrmagazine.com/story/when-franchise-technology-becomes-a-legal-liability/","title":"When Franchise Technology Becomes a Legal Liability","firstSeen":1795101085000},
+  {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/burgerkingcharliebrown.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/burgerkingcharliebrown.jpg","page":"https://www.qsrmagazine.com/story/burger-king-brings-snoopy-and-the-peanuts-gang-to-its-menu/","title":"Burger King Brings Snoopy and the Peanuts Gang to its Menu","firstSeen":1795096811000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2025/06/BaristaMachine.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2025/06/BaristaMachine.jpg","page":"https://www.qsrmagazine.com/story/why-30-day-labor-certification-option-should-matter-to-restaurant-operators/","title":"Why 30-Day Labor Certification Option Should Matter to Restaurant Operators","firstSeen":1795040330000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/TimHortonsElf.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/TimHortonsElf.jpg","page":"https://www.qsrmagazine.com/news/tim-hortons-launches-new-festive-lineup-inspire-by-elf/","title":"Tim Hortons Launches New Festive Lineup Inspire by ELF","firstSeen":1795022315000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/TCBYjanabrodeur.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/TCBYjanabrodeur.jpg","page":"https://www.qsrmagazine.com/story/how-one-young-tcby-franchisee-is-building-a-business-around-community/","title":"How One Young TCBY Franchisee is Building a Business Around Community","firstSeen":1795021044000},

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"seiberdesign.com","fetchedAt":1795051538159,"discoveredAt":1794974825594,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"seiberdesign.com","fetchedAt":1795125602991,"discoveredAt":1795125601872,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

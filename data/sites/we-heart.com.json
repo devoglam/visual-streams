@@ -1,10 +1,13 @@
 {
- "meta": {"domain":"we-heart.com","fetchedAt":1795051541870,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"we-heart.com","fetchedAt":1795125604636,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.we-heart.com/upload-images/duplexesselling1366.jpg","full":"https://www.we-heart.com/upload-images/duplexesselling1366.jpg","page":"https://www.we-heart.com/2026/11/19/why-duplexes-linger-on-market-how-smart-sellers-beat-the-wait/","title":"Why Duplexes Linger on the Market","firstSeen":1795106458000},
+  {"src":"https://www.we-heart.com/upload-images/hobartcityguide1366.jpg","full":"https://www.we-heart.com/upload-images/hobartcityguide1366.jpg","page":"https://www.we-heart.com/2026/11/19/hobart-city-up-close-explore-tasmanian-capital-beyond/","title":"Hobart City Up Close","firstSeen":1795106025000},
+  {"src":"https://www.we-heart.com/upload-images/beyondthestreetssaatchigallery1366.jpg","full":"https://www.we-heart.com/upload-images/beyondthestreetssaatchigallery1366.jpg","page":"https://www.we-heart.com/2026/11/19/beyond-the-streets-saatchi-gallery-london/","title":"BEYOND THE STREETS, Saatchi Gallery, London","firstSeen":1795086825000},
   {"src":"https://www.we-heart.com/upload-images/choosingamedspa1366.jpg","full":"https://www.we-heart.com/upload-images/choosingamedspa1366.jpg","page":"https://www.we-heart.com/2026/11/18/choosing-a-med-spa-what-i-check-on-website-phone-in-room/","title":"Choosing a Med Spa","firstSeen":1795001667000},
   {"src":"https://www.we-heart.com/upload-images/generateteamportraits1366.jpg","full":"https://www.we-heart.com/upload-images/generateteamportraits1366.jpg","page":"https://www.we-heart.com/2026/11/18/generate-authentic-corporate-team-portraits-business-websites/","title":"Generate Authentic Corporate Team Portraits","firstSeen":1795000631000},
   {"src":"https://www.we-heart.com/upload-images/nogikiyosumishirakawa1366.jpg","full":"https://www.we-heart.com/upload-images/nogikiyosumishirakawa1366.jpg","page":"https://www.we-heart.com/2026/11/18/nogi-kiyosumi-shirakawa-tokyo-cafe-design-bium/","title":"nogi. Kiyosumi Shirakawa , Tokyo","firstSeen":1794995699000},
