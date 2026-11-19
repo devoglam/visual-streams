@@ -1,10 +1,32 @@
 {
- "meta": {"fetchedAt":1794974782327,"ok":false,"error":"HTTP 403","domain":"superfuture.com","issue":"blocked","movedTo":null},
- "visited": {},
+ "meta": {"domain":"superfuture.com","fetchedAt":1795051514102,"discoveredAt":1795051507218,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":6,"visited":6,"remaining":0}},
+ "visited": {"https://superfuture.com/2026/11/new-shops/tokyo-pointless-journey-tyo-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/bangkok-lv-the-place-bangkok-renewal":1795051507218,"https://superfuture.com/2026/11/new-shops/munich-on-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/tokyo-our-legacy-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/paris-husbands-flagship-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/tokyo-louis-vuitton-shibuya-mens-store-renewal":1795051507218},
  "pending": [
 
  ],
  "images": [
-
+  {"src":"https://superfuture.com/wp-content/uploads/2023/06/Screenshot-2023-06-07-at-5.10.54-PM.png","full":"https://superfuture.com/wp-content/uploads/2023/06/Screenshot-2023-06-07-at-5.10.54-PM.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/PARIS_2603_1@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/PARIS_2603_1@3x.jpg","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/NYC_2603_1@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/NYC_2603_1@3x.jpg","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/TOKYO-2603_1@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/TOKYO-2603_1@3x.jpg","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/LON_2603_1@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/LON_2603_1@3x.jpg","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/BKK2601@3x-1.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/BKK2601@3x-1.jpg","page":"https://superfuture.com/","title":"Bangkok Travel Guide | Superguide | 2026","firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/SYD2601@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/SYD2601@3x.jpg","page":"https://superfuture.com/","title":"Sydney Travel Guide | Superguide | 2026","firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/HK2601@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/HK2601@3x.jpg","page":"https://superfuture.com/","title":"Hong Kong Travel Guide | Superguide | 2026","firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2025/04/BER2505@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2025/04/BER2505@3x.jpg","page":"https://superfuture.com/","title":"Berlin Travel Guide | Superguide","firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/TYO_2603_FLY-1024x1024.png","full":"https://superfuture.com/wp-content/uploads/2026/03/TYO_2603_FLY.png","page":"https://superfuture.com/","title":"// FREE DOWNLOAD // TOKYO 2026 EDITION FLYER","firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/PAR_2603_FLY-1-1024x1024.png","full":"https://superfuture.com/wp-content/uploads/2026/03/PAR_2603_FLY-1.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/LON_2603_FLY-1024x1024.png","full":"https://superfuture.com/wp-content/uploads/2026/03/LON_2603_FLY.png","page":"https://superfuture.com/","title":"// FREE DOWNLOAD // LONDON 2026 EDITION FLYER","firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/03/NYC_2603_FLY-1024x1024.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/NYC_2603_FLY.jpg","page":"https://superfuture.com/","title":"// FREE DOWNLOAD // NEW YORK 2026 EDITION FLYER","firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2025/08/jil-sander-ginza-04.png","full":"https://superfuture.com/wp-content/uploads/2025/08/jil-sander-ginza-04.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/pj-daikanyama-08.png","full":"https://superfuture.com/wp-content/uploads/2026/11/pj-daikanyama-08.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/lv-the-place-bkk-09.png","full":"https://superfuture.com/wp-content/uploads/2026/11/lv-the-place-bkk-09.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/on-munich-01.png","full":"https://superfuture.com/wp-content/uploads/2026/11/on-munich-01.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/our-legacy-tokyo-10.png","full":"https://superfuture.com/wp-content/uploads/2026/11/our-legacy-tokyo-10.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/husbands-paris-03.png","full":"https://superfuture.com/wp-content/uploads/2026/11/husbands-paris-03.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/lv-shibuya-2026-06.png","full":"https://superfuture.com/wp-content/uploads/2026/11/lv-shibuya-2026-06.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2025/05/madhappy-east-hampton-05.png","full":"https://superfuture.com/wp-content/uploads/2025/05/madhappy-east-hampton-05.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2015/07/aesop-barcelona-07.png","full":"https://superfuture.com/wp-content/uploads/2015/07/aesop-barcelona-07.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2023/06/paris_saint-germain.png","full":"https://superfuture.com/wp-content/uploads/2023/06/paris_saint-germain.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102}
  ]
 }

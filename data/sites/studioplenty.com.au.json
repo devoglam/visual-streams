@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"studioplenty.com.au","fetchedAt":1794974830865,"discoveredAt":1794974830025,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"studioplenty.com.au","fetchedAt":1795051542741,"discoveredAt":1794974830025,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

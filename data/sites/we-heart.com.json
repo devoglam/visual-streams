@@ -1,10 +1,13 @@
 {
- "meta": {"domain":"we-heart.com","fetchedAt":1794974830708,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"we-heart.com","fetchedAt":1795051541870,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.we-heart.com/upload-images/choosingamedspa1366.jpg","full":"https://www.we-heart.com/upload-images/choosingamedspa1366.jpg","page":"https://www.we-heart.com/2026/11/18/choosing-a-med-spa-what-i-check-on-website-phone-in-room/","title":"Choosing a Med Spa","firstSeen":1795001667000},
+  {"src":"https://www.we-heart.com/upload-images/generateteamportraits1366.jpg","full":"https://www.we-heart.com/upload-images/generateteamportraits1366.jpg","page":"https://www.we-heart.com/2026/11/18/generate-authentic-corporate-team-portraits-business-websites/","title":"Generate Authentic Corporate Team Portraits","firstSeen":1795000631000},
+  {"src":"https://www.we-heart.com/upload-images/nogikiyosumishirakawa1366.jpg","full":"https://www.we-heart.com/upload-images/nogikiyosumishirakawa1366.jpg","page":"https://www.we-heart.com/2026/11/18/nogi-kiyosumi-shirakawa-tokyo-cafe-design-bium/","title":"nogi. Kiyosumi Shirakawa , Tokyo","firstSeen":1794995699000},
   {"src":"https://www.we-heart.com/upload-images/slowtravelburnout1366.jpg","full":"https://www.we-heart.com/upload-images/slowtravelburnout1366.jpg","page":"https://www.we-heart.com/2026/11/17/slow-travel-antidote-modern-burnout/","title":"Slow Travel as an Antidote to Burnout","firstSeen":1794936238000},
   {"src":"https://www.we-heart.com/upload-images/artcreativityemotions1366.jpg","full":"https://www.we-heart.com/upload-images/artcreativityemotions1366.jpg","page":"https://www.we-heart.com/2026/11/17/how-art-and-creativity-can-help-us-process-difficult-emotions/","title":"How Art and Creativity Can Help Us Process Difficult Emotions","firstSeen":1794934378000},
   {"src":"https://www.we-heart.com/upload-images/subscriptionreminderapps1366.jpg","full":"https://www.we-heart.com/upload-images/subscriptionreminderapps1366.jpg","page":"https://www.we-heart.com/2026/11/17/subscription-reminder-app-picks-6-options-2026/","title":"Subscription Reminder App Picks","firstSeen":1794934187000},

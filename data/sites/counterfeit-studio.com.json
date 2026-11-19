@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"counterfeit-studio.com","fetchedAt":1794974784287,"discoveredAt":1794819429333,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"counterfeit-studio.com","fetchedAt":1795051509716,"discoveredAt":1794819429333,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
