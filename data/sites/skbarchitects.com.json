@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"skbarchitects.com","fetchedAt":1795125602847,"discoveredAt":1795125602217,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"skbarchitects.com","fetchedAt":1795201977585,"discoveredAt":1795125602217,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

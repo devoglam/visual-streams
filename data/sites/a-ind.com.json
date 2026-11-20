@@ -1,5 +1,5 @@
 {
- "meta": {"fetchedAt":1795125606494,"ok":false,"error":"ECONNREFUSED","domain":"a-ind.com","issue":"unreachable","movedTo":null},
+ "meta": {"fetchedAt":1795201991561,"ok":false,"error":"UND_ERR_CONNECT_TIMEOUT","domain":"a-ind.com","issue":"unreachable","movedTo":null},
  "visited": {},
  "pending": [
 
