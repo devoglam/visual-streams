@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"superfuture.com","fetchedAt":1795201961612,"discoveredAt":1795201960288,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":6,"visited":6,"remaining":0}},
- "visited": {"https://superfuture.com/2026/11/new-shops/tokyo-pointless-journey-tyo-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/bangkok-lv-the-place-bangkok-renewal":1795051507218,"https://superfuture.com/2026/11/new-shops/munich-on-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/tokyo-our-legacy-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/paris-husbands-flagship-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/tokyo-louis-vuitton-shibuya-mens-store-renewal":1795051507218},
+ "meta": {"domain":"superfuture.com","fetchedAt":1795276577937,"discoveredAt":1795276574572,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":7,"visited":7,"remaining":0}},
+ "visited": {"https://superfuture.com/2026/11/new-shops/tokyo-pointless-journey-tyo-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/bangkok-lv-the-place-bangkok-renewal":1795051507218,"https://superfuture.com/2026/11/new-shops/munich-on-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/tokyo-our-legacy-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/paris-husbands-flagship-store-opening":1795051507218,"https://superfuture.com/2026/11/new-shops/tokyo-louis-vuitton-shibuya-mens-store-renewal":1795051507218,"https://superfuture.com/2026/11/new-shops/milan-stone-island-flagship-store-renewal":1795276574572},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/stone-island-milano-14-1.png","full":"https://superfuture.com/wp-content/uploads/2026/11/stone-island-milano-14-1.png","page":"https://superfuture.com/","title":null,"firstSeen":1795276577937},
   {"src":"https://superfuture.com/wp-content/uploads/2023/06/Screenshot-2023-06-07-at-5.10.54-PM.png","full":"https://superfuture.com/wp-content/uploads/2023/06/Screenshot-2023-06-07-at-5.10.54-PM.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
   {"src":"https://superfuture.com/wp-content/uploads/2026/03/PARIS_2603_1@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/PARIS_2603_1@3x.jpg","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
   {"src":"https://superfuture.com/wp-content/uploads/2026/03/NYC_2603_1@3x.jpg","full":"https://superfuture.com/wp-content/uploads/2026/03/NYC_2603_1@3x.jpg","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
@@ -24,9 +25,9 @@
   {"src":"https://superfuture.com/wp-content/uploads/2026/11/on-munich-01.png","full":"https://superfuture.com/wp-content/uploads/2026/11/on-munich-01.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
   {"src":"https://superfuture.com/wp-content/uploads/2026/11/our-legacy-tokyo-10.png","full":"https://superfuture.com/wp-content/uploads/2026/11/our-legacy-tokyo-10.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
   {"src":"https://superfuture.com/wp-content/uploads/2026/11/husbands-paris-03.png","full":"https://superfuture.com/wp-content/uploads/2026/11/husbands-paris-03.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
-  {"src":"https://superfuture.com/wp-content/uploads/2026/11/lv-shibuya-2026-06.png","full":"https://superfuture.com/wp-content/uploads/2026/11/lv-shibuya-2026-06.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
   {"src":"https://superfuture.com/wp-content/uploads/2025/05/madhappy-east-hampton-05.png","full":"https://superfuture.com/wp-content/uploads/2025/05/madhappy-east-hampton-05.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
   {"src":"https://superfuture.com/wp-content/uploads/2015/07/aesop-barcelona-07.png","full":"https://superfuture.com/wp-content/uploads/2015/07/aesop-barcelona-07.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
-  {"src":"https://superfuture.com/wp-content/uploads/2023/06/paris_saint-germain.png","full":"https://superfuture.com/wp-content/uploads/2023/06/paris_saint-germain.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102}
+  {"src":"https://superfuture.com/wp-content/uploads/2023/06/paris_saint-germain.png","full":"https://superfuture.com/wp-content/uploads/2023/06/paris_saint-germain.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102},
+  {"src":"https://superfuture.com/wp-content/uploads/2026/11/lv-shibuya-2026-06.png","full":"https://superfuture.com/wp-content/uploads/2026/11/lv-shibuya-2026-06.png","page":"https://superfuture.com/","title":null,"firstSeen":1795051514102}
  ]
 }

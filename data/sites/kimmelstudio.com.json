@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"kimmelstudio.com","fetchedAt":1795201972280,"discoveredAt":1794900667736,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"kimmelstudio.com","fetchedAt":1795276595540,"discoveredAt":1794900667736,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

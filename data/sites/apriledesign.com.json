@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"apriledesign.com","fetchedAt":1795201970671,"discoveredAt":1795201968720,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":3,"visited":3,"remaining":0}},
+ "meta": {"domain":"apriledesign.com","fetchedAt":1795276592748,"discoveredAt":1795201968720,"furniture":[],"ok":false,"error":"HTTP 403","issue":"blocked","movedTo":null,"projects":{"found":3,"visited":3,"remaining":0}},
  "visited": {"https://apriledesign.com/eg-studio-legale":1795201968720,"https://apriledesign.com/copan-rebranding":1795201968720,"https://apriledesign.com/komoro-modern-yakitori":1795201968720},
  "pending": [
 

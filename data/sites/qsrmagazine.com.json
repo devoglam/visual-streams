@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"qsrmagazine.com","fetchedAt":1795201978840,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"qsrmagazine.com","fetchedAt":1795276607417,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/tacojohnsapple.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/tacojohnsapple.jpg","page":"https://www.qsrmagazine.com/news/taco-johns-brings-back-holiday-favorites-nachos-navidad-and-apple-grande/","title":"Taco John’s Brings Back Holiday Favorites Nachos Navidad and Apple Grande","firstSeen":1795202155000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/BobMcKay.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/BobMcKay.jpg","page":"https://www.qsrmagazine.com/story/software-companies-guarantee-performance-why-dont-advertising-agencies/","title":"Software Companies Guarantee Performance. Why Don't Advertising Agencies?","firstSeen":1795199086000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/smallsslidersprototype.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/smallsslidersprototype.jpg","page":"https://www.qsrmagazine.com/story/smalls-sliders-makes-room-for-more-restaurants/","title":"Smalls Sliders Makes Room for More Restaurants","firstSeen":1795187369000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/smallsslidersendcap-1024x597.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/smallsslidersendcap.jpg","page":"https://www.qsrmagazine.com/story/smalls-sliders-makes-room-for-more-restaurants/","title":"Smalls Sliders Makes Room for More Restaurants","firstSeen":1795187369000},

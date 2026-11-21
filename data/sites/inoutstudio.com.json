@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"inoutstudio.com","fetchedAt":1795201998348,"discoveredAt":1795201989911,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://inoutstudio.com/","projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"inoutstudio.com","fetchedAt":1795276678941,"discoveredAt":1795201989911,"furniture":[],"ok":false,"error":"UND_ERR_CONNECT_TIMEOUT","issue":"unreachable","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
