@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"terremoto.la","fetchedAt":1795276702906,"discoveredAt":1795125592108,"furniture":[],"ok":false,"error":"UND_ERR_CONNECT_TIMEOUT","issue":"unreachable","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"terremoto.la","fetchedAt":1795352890119,"discoveredAt":1795352889219,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

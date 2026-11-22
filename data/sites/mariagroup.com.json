@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"mariagroup.com","fetchedAt":1795276609019,"discoveredAt":1795125603249,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"mariagroup.com","fetchedAt":1795352817312,"discoveredAt":1795125603249,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
