@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"gon-architects.com","fetchedAt":1795352855169,"discoveredAt":1795352848333,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"gon-architects.com","fetchedAt":1795429433989,"discoveredAt":1795429426185,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://gon-architects.com/wp-content/uploads/2020/10/200223-gon-clinique-La-Prairie-020-1024x683.jpg","full":"https://gon-architects.com/wp-content/uploads/2020/10/200223-gon-clinique-La-Prairie-020.jpg","page":"https://gon-architects.com/","title":null,"firstSeen":1795429433989},
   {"src":"https://gon-architects.com/wp-content/uploads/2018/11/15-g-house-13-1024x568.jpg","full":"https://gon-architects.com/wp-content/uploads/2018/11/15-g-house-13.jpg","page":"https://gon-architects.com/","title":null,"firstSeen":1795352855169},
   {"src":"https://gon-architects.com/wp-content/uploads/2023/07/1-1024x474.jpg","full":"https://gon-architects.com/wp-content/uploads/2023/07/1.jpg","page":"https://gon-architects.com/","title":null,"firstSeen":1795276646830},
   {"src":"https://gon-architects.com/wp-content/uploads/2023/07/08-1024x724.jpg","full":"https://gon-architects.com/wp-content/uploads/2023/07/08.jpg","page":"https://gon-architects.com/","title":null,"firstSeen":1795202011995},

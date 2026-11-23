@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"chothompson.com","fetchedAt":1795352822834,"discoveredAt":1795352819365,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"chothompson.com","fetchedAt":1795429401058,"discoveredAt":1795352819365,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

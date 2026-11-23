@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"savvy-studio.net","fetchedAt":1795352787406,"discoveredAt":1794819431658,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":9,"visited":9,"remaining":0}},
+ "meta": {"domain":"savvy-studio.net","fetchedAt":1795429378418,"discoveredAt":1794819431658,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":9,"visited":9,"remaining":0}},
  "visited": {"https://savvy-studio.net/en/projects/versace":1794736598586,"https://savvy-studio.net/en/projects/pension":1794736598586,"https://savvy-studio.net/en/projects/swimmingpools":1794736598586,"https://savvy-studio.net/en/projects/officehours":1794736598586,"https://savvy-studio.net/en/projects/adampendleton":1794736598586,"https://savvy-studio.net/en/projects/heywear":1794736598586,"https://savvy-studio.net/en/projects/blum":1794736598586,"https://savvy-studio.net/en/projects/quarterpastnoon":1794736598586,"https://savvy-studio.net/en/projects/saint-theos":1794736598586},
  "pending": [
 

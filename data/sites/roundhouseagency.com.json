@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"roundhouseagency.com","fetchedAt":1795352792224,"discoveredAt":1794819438597,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"roundhouseagency.com","fetchedAt":1795429381301,"discoveredAt":1795429380915,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/5f1825dd-3186-4ebf-bd40-2d678590c91a/Pebble_Latte_LE_Awareness_1_1920x1080.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/5f1825dd-3186-4ebf-bd40-2d678590c91a/Pebble_Latte_LE_Awareness_1_1920x1080.jpg?format=2500w","page":"https://roundhouseagency.com/","title":null,"firstSeen":1795429381301},
   {"src":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/80602257-4971-4a9a-b491-de68c47f5ad7/Beach-01-1920x1280.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/80602257-4971-4a9a-b491-de68c47f5ad7/Beach-01-1920x1280.jpg?format=2500w","page":"https://roundhouseagency.com/","title":null,"firstSeen":1794582094685},
   {"src":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/07d285e4-4c10-47cf-9715-a56143c85d1e/2025_March_Madness_Humanity_National_20oz_Hor_sRGB_site2.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/07d285e4-4c10-47cf-9715-a56143c85d1e/2025_March_Madness_Humanity_National_20oz_Hor_sRGB_site2.jpg?format=2500w","page":"https://roundhouseagency.com/","title":null,"firstSeen":1794507239448},
   {"src":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/f996cde9-9305-42f8-afee-a7c760c91e0a/image+396.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/67db5a9d8b5160012b07c06f/f996cde9-9305-42f8-afee-a7c760c91e0a/image+396.png?format=2500w","page":"https://roundhouseagency.com/","title":null,"firstSeen":1794507239448},
