@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"studio-b-v.com","fetchedAt":1795429376700,"discoveredAt":1794819430546,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"studio-b-v.com","fetchedAt":1795505544799,"discoveredAt":1794819430546,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

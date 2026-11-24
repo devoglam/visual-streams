@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"retaildesignblog.net","fetchedAt":1795429493746,"discoveredAt":1795429476483,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"retaildesignblog.net","fetchedAt":1795505690514,"discoveredAt":1795505669315,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://retaildesignblog.net/wp-content/uploads/2026/11/DA_SKURATOV_002-1-1536x1152.jpg","full":"https://retaildesignblog.net/wp-content/uploads/2026/11/DA_SKURATOV_002-1.jpg","page":"https://retaildesignblog.net/","title":null,"firstSeen":1795505690514},
   {"src":"https://retaildesignblog.net/wp-content/uploads/2026/11/Arlington-Brewing-Company-by-Necula-Creative-01.jpg","full":"https://retaildesignblog.net/wp-content/uploads/2026/11/Arlington-Brewing-Company-by-Necula-Creative-01.jpg","page":"https://retaildesignblog.net/","title":null,"firstSeen":1795202061544},
   {"src":"https://retaildesignblog.net/wp-content/uploads/2026/11/Two-Rivers-Marketing-Offices-by-Substance-Architecture-01.png","full":"https://retaildesignblog.net/wp-content/uploads/2026/11/Two-Rivers-Marketing-Offices-by-Substance-Architecture-01.png","page":"https://retaildesignblog.net/","title":null,"firstSeen":1795202061544},
   {"src":"https://retaildesignblog.net/wp-content/uploads/2026/11/DSC0160-1536x1308.jpg","full":"https://retaildesignblog.net/wp-content/uploads/2026/11/DSC0160.jpg","page":"https://retaildesignblog.net/","title":null,"firstSeen":1795125680248},

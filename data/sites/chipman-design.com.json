@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"chipman-design.com","fetchedAt":1795429418576,"discoveredAt":1795125598219,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"chipman-design.com","fetchedAt":1795505604223,"discoveredAt":1795505594148,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://chipman.design/","projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1795119483968-7B0IC8JFMSGKZT9Z0RKG/48+Hours+in+St+Louis+Cover.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1795119483968-7B0IC8JFMSGKZT9Z0RKG/48+Hours+in+St+Louis+Cover.jpg?format=2500w","page":"https://chipman.design/","title":"48 Hours of Design Inspiration in St. Louis","firstSeen":1795505604223},
   {"src":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1775840231307-OZ0LPS1MI6EVD85PRPNJ/HOKA+Flagship+-+New+York%2C+NY+10W.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1775840231307-OZ0LPS1MI6EVD85PRPNJ/HOKA+Flagship+-+New+York%2C+NY+10W.jpg?format=2500w","page":"https://chipman.design/","title":"HOKA store interior with running gear, digital screens displaying runners, and branded display table.","firstSeen":1794581732143},
   {"src":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1794516110664-419U2QR3KZWCKGIGGHIF/More+Than+an+Internship+Cover+%28Meghann%29.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1794516110664-419U2QR3KZWCKGIGGHIF/More+Than+an+Internship+Cover+%28Meghann%29.jpg?format=2500w","page":"https://chipman.design/","title":"Inside CDA’s High School Architecture Internship Program","firstSeen":1794581732143},
   {"src":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1775839460086-A3PP0ZLC20DHWINUJT0S/Faherty+-+Lake+Forest%2C+IL+10W.jpg?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/699770b401ccb914770f6417/1775839460086-A3PP0ZLC20DHWINUJT0S/Faherty+-+Lake+Forest%2C+IL+10W.jpg?format=2500w","page":"https://chipman.design/","title":"Interior of a clothing store displaying men's and women's apparel, shelves with folded clothes, racks of shirts and jackets, decorative plan","firstSeen":1794507192939},

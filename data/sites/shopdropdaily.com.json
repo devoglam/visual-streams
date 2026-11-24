@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"shopdropdaily.com","fetchedAt":1795429413786,"discoveredAt":1795429410711,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"shopdropdaily.com","fetchedAt":1795505593169,"discoveredAt":1795429410711,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

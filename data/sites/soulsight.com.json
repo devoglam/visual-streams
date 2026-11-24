@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"soulsight.com","fetchedAt":1795429383962,"discoveredAt":1795429383336,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"soulsight.com","fetchedAt":1795505556497,"discoveredAt":1795429383336,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

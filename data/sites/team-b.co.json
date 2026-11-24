@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"team-b.co","fetchedAt":1795429397926,"discoveredAt":1795429397225,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":7,"visited":7,"remaining":0}},
+ "meta": {"domain":"team-b.co","fetchedAt":1795505577703,"discoveredAt":1795429397225,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":7,"visited":7,"remaining":0}},
  "visited": {"https://www.team-b.co/projects/wildweed":1794736653798,"https://www.team-b.co/sen":1794736653798,"https://www.team-b.co/projects/gabriela":1794736653798,"https://www.team-b.co/projects/hill-house":1794736653798,"https://www.team-b.co/projects/tablespoon":1794736653798,"https://www.team-b.co/projects/daruma-roji":1794736653798,"https://www.team-b.co/projects/decibel":1794736653798},
  "pending": [
 

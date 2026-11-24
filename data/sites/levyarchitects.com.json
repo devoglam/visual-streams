@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"levyarchitects.com","fetchedAt":1795429393274,"discoveredAt":1795429392561,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://www.levydykema.com/","projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"levyarchitects.com","fetchedAt":1795505569903,"discoveredAt":1795429392561,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

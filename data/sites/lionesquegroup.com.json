@@ -1,5 +1,5 @@
 {
- "meta": {"fetchedAt":1795429385831,"ok":false,"error":"CERT_HAS_EXPIRED","domain":"lionesquegroup.com","issue":"unreachable","movedTo":null},
+ "meta": {"fetchedAt":1795505557383,"ok":false,"error":"CERT_HAS_EXPIRED","domain":"lionesquegroup.com","issue":"unreachable","movedTo":null},
  "visited": {},
  "pending": [
 

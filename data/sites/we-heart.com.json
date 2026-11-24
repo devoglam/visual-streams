@@ -1,10 +1,12 @@
 {
- "meta": {"domain":"we-heart.com","fetchedAt":1795429394974,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"we-heart.com","fetchedAt":1795505572876,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.we-heart.com/upload-images/bellipizzavancouver1366.jpg","full":"https://www.we-heart.com/upload-images/bellipizzavancouver1366.jpg","page":"https://www.we-heart.com/2026/11/24/belli-pizza-east-vancouver-commercial-drive-pizzeria-mrdk/","title":"Belli Pizza, Vancouver","firstSeen":1795503569000},
+  {"src":"https://www.we-heart.com/upload-images/homerenovationcomfort1366.jpg","full":"https://www.we-heart.com/upload-images/homerenovationcomfort1366.jpg","page":"https://www.we-heart.com/2026/11/23/home-renovations-that-improve-everyday-comfort/","title":"Home Renovations That Improve Everyday Comfort","firstSeen":1795430311000},
   {"src":"https://www.we-heart.com/upload-images/leavingbostonnewjob1366.jpg","full":"https://www.we-heart.com/upload-images/leavingbostonnewjob1366.jpg","page":"https://www.we-heart.com/2026/11/23/leaving-boston-for-a-new-job-how-coordinate-move/","title":"Leaving Boston for a New Job","firstSeen":1795428977000},
   {"src":"https://www.we-heart.com/upload-images/gamedayhosting1366.jpg","full":"https://www.we-heart.com/upload-images/gamedayhosting1366.jpg","page":"https://www.we-heart.com/2026/11/23/game-day-hosting-gets-easier-with-matchday-projections-for-autumn-weekend-gatherings/","title":"Game Day Hosting Gets Easier With Matchday Projections for Autumn Weekend Gatherings","firstSeen":1795427949000},
   {"src":"https://www.we-heart.com/upload-images/pastisseriasabat1366.jpg","full":"https://www.we-heart.com/upload-images/pastisseriasabat1366.jpg","page":"https://www.we-heart.com/2026/11/23/pastisseria-sabat-sant-cugat-barcelona-pastry-shop/","title":"Pastisseria Sàbat, Sant Cugat del Vallès","firstSeen":1795419733000},
