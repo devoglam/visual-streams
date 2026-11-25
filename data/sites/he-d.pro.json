@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"he-d.pro","fetchedAt":1795505579484,"discoveredAt":1795429395381,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"he-d.pro","fetchedAt":1795580403469,"discoveredAt":1795580401031,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://www.he-d.group/","projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
