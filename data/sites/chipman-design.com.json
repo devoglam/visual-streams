@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"chipman-design.com","fetchedAt":1795656603025,"discoveredAt":1795580421412,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"chipman-design.com","fetchedAt":1795730804063,"discoveredAt":1795730793251,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://chipman.design/","projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

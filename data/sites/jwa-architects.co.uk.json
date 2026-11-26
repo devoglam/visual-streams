@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"jwa-architects.co.uk","fetchedAt":1795656570433,"discoveredAt":1795580395540,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"jwa-architects.co.uk","fetchedAt":1795730770270,"discoveredAt":1795730768170,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://www.jwa-architecture.co.uk/","projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

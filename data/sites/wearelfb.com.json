@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"wearelfb.com","fetchedAt":1795656556632,"discoveredAt":1795656555328,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"wearelfb.com","fetchedAt":1795730760626,"discoveredAt":1795656555328,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"cut-architectures.com","fetchedAt":1795656570334,"discoveredAt":1795429392349,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"cut-architectures.com","fetchedAt":1795730771178,"discoveredAt":1795730768090,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

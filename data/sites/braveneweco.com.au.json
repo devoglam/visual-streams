@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"braveneweco.com.au","fetchedAt":1795656562759,"discoveredAt":1795429389696,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"braveneweco.com.au","fetchedAt":1795730764720,"discoveredAt":1795730763743,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
