@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"prevalent.archi","fetchedAt":1795580385544,"discoveredAt":1795580384822,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"prevalent.archi","fetchedAt":1795656557810,"discoveredAt":1795580384822,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

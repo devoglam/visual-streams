@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"houseofform.com","fetchedAt":1795580369002,"discoveredAt":1795580368501,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"houseofform.com","fetchedAt":1795656546551,"discoveredAt":1795656542144,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://static.wixstatic.com/media/fabb32_b74efb18ca424f87a9ae1b20a06101ac~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png","full":"https://static.wixstatic.com/media/fabb32_b74efb18ca424f87a9ae1b20a06101ac~mv2.jpg","page":"https://www.houseofform.com/post/the-character-of-kuza","title":"The Character of Kuza","firstSeen":1795624699000},
   {"src":"https://static.wixstatic.com/media/67b044_f5dbf8ac46784d3dbc980eb39f6419fb%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/67b044_f5dbf8ac46784d3dbc980eb39f6419fb%7Emv2.jpg","full":"https://static.wixstatic.com/media/67b044_f5dbf8ac46784d3dbc980eb39f6419fb%7Emv2.jpg","page":"https://www.houseofform.com/","title":null,"firstSeen":1794507201289},
   {"src":"https://static.wixstatic.com/media/67b044_19890b58cad14d359c45c77cad2f64d0~mv2.jpg/v1/fill/w_147,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Restaurant-H.jpg","full":"https://static.wixstatic.com/media/67b044_19890b58cad14d359c45c77cad2f64d0~mv2.jpg","page":"https://www.houseofform.com/","title":"House of Form brand photography featuring elevated custom kitchen and tableware.","firstSeen":1794507201289},
   {"src":"https://static.wixstatic.com/media/67b044_a2bac6edda4b4ff7b05173ecefdb9aaf~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/MultiFam-H2.jpg","full":"https://static.wixstatic.com/media/67b044_a2bac6edda4b4ff7b05173ecefdb9aaf~mv2.jpg","page":"https://www.houseofform.com/","title":"House of Form brand photography featuring a hand setting keys into a thoughtfully curated drop zone.","firstSeen":1794507201289},

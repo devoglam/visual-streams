@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"yoddesign.com.ua","fetchedAt":1795580376902,"discoveredAt":1795505539249,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"yoddesign.com.ua","fetchedAt":1795656551097,"discoveredAt":1795656547619,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":"https://www.yod.group/","projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

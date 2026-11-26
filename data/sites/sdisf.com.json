@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"sdisf.com","fetchedAt":1795580388514,"discoveredAt":1795429387932,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"sdisf.com","fetchedAt":1795656560447,"discoveredAt":1795429387932,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

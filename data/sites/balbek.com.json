@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"balbek.com","fetchedAt":1795580393956,"discoveredAt":1795429387458,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"balbek.com","fetchedAt":1795656567317,"discoveredAt":1795429387458,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,10 +1,12 @@
 {
- "meta": {"domain":"qsrmagazine.com","fetchedAt":1795580393505,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
+ "meta": {"domain":"qsrmagazine.com","fetchedAt":1795656561204,"discoveredAt":0,"furniture":[],"ok":true,"error":null,"issue":"feed-only","movedTo":null,"projects":{}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/CostaWiRL.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/CostaWiRL.jpg","page":"https://www.qsrmagazine.com/story/how-costa-coffees-beverley-dcruz-learned-to-go-beyond-the-title/","title":"How Costa Coffee's Beverley D'Cruz Learned to Go Beyond the Title","firstSeen":1795612186000},
+  {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/04/WiRLReg-1-1024x689.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/04/WiRLReg-1.jpg","page":"https://www.qsrmagazine.com/story/how-costa-coffees-beverley-dcruz-learned-to-go-beyond-the-title/","title":"How Costa Coffee's Beverley D'Cruz Learned to Go Beyond the Title","firstSeen":1795612186000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/savvysliderspartypack.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/savvysliderspartypack.jpg","page":"https://www.qsrmagazine.com/story/savvy-sliders-looks-to-turn-rising-demand-into-nationwide-growth/","title":"Savvy Sliders Looks to Turn Rising Demand into Nationwide Growth","firstSeen":1795550916000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/krispykremerudolphcollection.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/krispykremerudolphcollection.jpg","page":"https://www.qsrmagazine.com/uncategorized/krispy-kreme-unveils-rudolph-the-red-nosed-reindeer-doughnut-collection/","title":"Krispy Kreme Unveils Rudolph the Red-Nosed Reindeer Doughnut Collection","firstSeen":1795548470000},
   {"src":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/dunkinmerch.jpg","full":"https://www.qsrmagazine.com/wp-content/uploads/2026/11/dunkinmerch.jpg","page":"https://www.qsrmagazine.com/food/beverage/dunkin-to-celebrate-black-friday-with-free-donuts-and-limited-edition-merchandise/","title":"Dunkin’ to Celebrate Black Friday with Free Donuts and Limited-Edition Merchandise","firstSeen":1795547651000},
