@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"bhivedesign.co","fetchedAt":1795730755292,"discoveredAt":1795656549214,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"bhivedesign.co","fetchedAt":1795806605868,"discoveredAt":1795806604722,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

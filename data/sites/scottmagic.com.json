@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"scottmagic.com","fetchedAt":1795730769950,"discoveredAt":1795730768342,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"scottmagic.com","fetchedAt":1795806620998,"discoveredAt":1795730768342,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"arcturis.com","fetchedAt":1795730772703,"discoveredAt":1795730771432,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"arcturis.com","fetchedAt":1795806623456,"discoveredAt":1795730771432,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

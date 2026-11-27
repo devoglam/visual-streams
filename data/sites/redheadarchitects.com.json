@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"redheadarchitects.com","fetchedAt":1795730769519,"discoveredAt":1795730768052,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"redheadarchitects.com","fetchedAt":1795806620469,"discoveredAt":1795730768052,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
