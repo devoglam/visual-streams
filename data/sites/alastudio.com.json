@@ -1,10 +1,11 @@
 {
- "meta": {"domain":"alastudio.com","fetchedAt":1795806599036,"discoveredAt":1795806598261,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"alastudio.com","fetchedAt":1795881444938,"discoveredAt":1795881443974,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 
  ],
  "images": [
+  {"src":"http://static1.squarespace.com/static/64c286064f72196caa599a04/t/6b09dd3369b98c13651f9a8f/1795808563968/HBF_NYC_Showroom_Overview1_v2_Primary_020+%281%29.jpg?format=1000w","full":"http://static1.squarespace.com/static/64c286064f72196caa599a04/t/6b09dd3369b98c13651f9a8f/1795808563968/HBF_NYC_Showroom_Overview1_v2_Primary_020+%281%29.jpg?format=2500w","page":"https://www.alastudio.com/","title":null,"firstSeen":1795881444938},
   {"src":"https://images.squarespace-cdn.com/content/v1/64c286064f72196caa599a04/c1be1312-c1fc-470c-8df9-602ce0174825/CLIENT+LOGO_GOOGLE_BW.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/64c286064f72196caa599a04/c1be1312-c1fc-470c-8df9-602ce0174825/CLIENT+LOGO_GOOGLE_BW.png?format=2500w","page":"https://www.alastudio.com/","title":null,"firstSeen":1794819422064},
   {"src":"https://images.squarespace-cdn.com/content/v1/64c286064f72196caa599a04/0aac37dc-d2aa-4eab-b2ee-14ded593eef6/CLIENT+LOGO_PERPLEXITY_HORIZONTAL_BLACK.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/64c286064f72196caa599a04/0aac37dc-d2aa-4eab-b2ee-14ded593eef6/CLIENT+LOGO_PERPLEXITY_HORIZONTAL_BLACK.png?format=2500w","page":"https://www.alastudio.com/","title":null,"firstSeen":1794819422064},
   {"src":"https://images.squarespace-cdn.com/content/v1/64c286064f72196caa599a04/20890a84-3036-4088-b032-7aed43fd401f/CLIENT+LOGO_CHRISTIAN+LOUBOUTIN.png?format=1000w","full":"https://images.squarespace-cdn.com/content/v1/64c286064f72196caa599a04/20890a84-3036-4088-b032-7aed43fd401f/CLIENT+LOGO_CHRISTIAN+LOUBOUTIN.png?format=2500w","page":"https://www.alastudio.com/","title":null,"firstSeen":1794819422064},

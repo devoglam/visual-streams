@@ -1,5 +1,5 @@
 {
- "meta": {"domain":"rachelhalvorson.com","fetchedAt":1795806609714,"discoveredAt":1795806609123,"furniture":[],"ok":true,"error":null,"issue":null,"movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
+ "meta": {"domain":"rachelhalvorson.com","fetchedAt":1795881462091,"discoveredAt":1795806609123,"furniture":[],"ok":false,"error":"HTTP 429","issue":"blocked","movedTo":null,"projects":{"found":0,"visited":0,"remaining":0}},
  "visited": {},
  "pending": [
 

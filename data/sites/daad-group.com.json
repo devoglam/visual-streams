@@ -1,5 +1,5 @@
 {
- "meta": {"fetchedAt":1795806613140,"ok":false,"error":"HTTP 404","domain":"daad-group.com","issue":"moved","movedTo":null},
+ "meta": {"fetchedAt":1795881468922,"ok":false,"error":"HTTP 429","domain":"daad-group.com","issue":"blocked","movedTo":null},
  "visited": {},
  "pending": [
 
